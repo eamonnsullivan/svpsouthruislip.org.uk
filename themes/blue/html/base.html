@@ -50,21 +50,20 @@
 
 <div class="container">
 
+  <div class="row">
+    <div class="col-lg-9">
+      <div id="content">
+        {% block content %}
+        {% endblock %}
+      </div>
+    </div>
 
-    <div class="row">
-        <div class="col-lg-9">
-            <div id="content">
-                {% block content %}
-                {% endblock %}
-            </div>
-        </div>
-
-        <div class="col-md-3">
-            <div id="sidebar">
-                <h3>Links</h3>
-                <ul id="links">
-                    <li><a href="http://cryogenweb.org/docs/home.html">Cryogen Docs</a></li>
-                    <li><a href="https://carmen.la/blog/archives/">Carmen's Blog</a></li>
+    <div class="col-md-3">
+      <div id="sidebar">
+        <h3>Links</h3>
+        <ul id="links">
+          <li><a href="https://www.svp.org.uk/">National SVP Home</a></li>
+          <li><a href="https://hillingdon.foodbank.org.uk/">Hillingdon Foodbank</a></li>
                     {% for page in sidebar-pages %}
                     <li><a href="{{page.uri}}">{{page.title}}</a></li>
                     {% endfor %}

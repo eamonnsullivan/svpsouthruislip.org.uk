@@ -26,7 +26,7 @@
  :previews?                    false
  :posts-per-page               5
  :blocks-per-preview           2
- :clean-urls                   :dirty
+ :clean-urls                   :trailing-slash
  :collapse-subdirs?            false
  :hide-future-posts?           true
  :klipse                       {}

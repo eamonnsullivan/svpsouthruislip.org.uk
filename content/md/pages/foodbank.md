@@ -11,7 +11,7 @@ Our food bank is primarily a distribution centre for [Hillingdon Foodbank](https
 
 In addition, we partner with [FareShare](https://fareshare.org.uk/) to distribute fresh food from major food retailers that would otherwise go to waste. We can also provide smaller parcels of food and essentials (such as toiletries or long-life milk) to those struggling to make ends meet.
 
-When not in the midst of a global pandemic, we would normally offer a cup of tea or coffee and some companionship for the people who visit us. Unfortunately, the coronavirus has meant we've had to temporarily halt serving any food or drink. We hope to start that again soon.
+When not in the midst of a global pandemic, we would normally offer a cup of tea or coffee and some companionship for the people who visit us. Unfortunately, the coronavirus has meant we've had to temporarily [halt serving any food or drink](../../posts-output/2020-03-21-foodbank-changes/). We hope to start that again soon.
 
 We're always looking for donations to help support this work. At the moment, we're most in need of the following:
 

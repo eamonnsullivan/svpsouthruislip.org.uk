@@ -19,7 +19,7 @@
  :sass-path                    "sass"
  :theme                        "svp"
  :resources                    ["img"]
- :keep-files                   [".git" ".svg" "favicon.ico"]
+ :keep-files                   [".git"]
  :disqus?                      false
  :disqus-shortname             ""
  :ignored-files                [#"\.#.*" #".*\.swp$"]

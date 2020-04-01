@@ -17,7 +17,7 @@ We're always looking for donations to help support this work. At the moment, we'
 
  * Long-life milk.
  * Canned meat or fish.
- * Toiletries, such as toilet roll, toothpaste, soap and shampoo.
+ * Toiletries, such as toilet roll, toothpaste, soap, shampoo and shaving supplies (disposable razors and shaving cream).
  * Pasta and rice.
  * Juice.
  * Canned fruits and vegetables.

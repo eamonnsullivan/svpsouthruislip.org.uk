@@ -16,12 +16,15 @@ When not in the midst of a global pandemic, we would normally offer a cup of tea
 We're always looking for donations to help support this work. At the moment, we're most in need of the following:
 
  * Long-life milk.
- * Canned meat or fish.
- * Toiletries, such as toilet roll, toothpaste, soap, shampoo and shaving supplies (disposable razors and shaving cream).
- * Pasta and rice.
- * Juice.
+ * Tinned meat or fish.
+ * Tinned soup
+ * Pasta sauces
+ * Toiletries, such as toilet roll, toothpaste, soap, shampoo
+ * Men's shaving supplies, such as disposable razors and shaving cream
+ * Rice
+ * Juice or squash
  * Canned fruits and vegetables.
- * Instant coffee and tea bags.
- * Cooking oil.
- * Cereals such as corn flakes or oat porridge.
- * Nappies.
+ * Instant coffee
+ * Cooking oil
+ * Cereals such as corn flakes or oat porridge
+ * Nappies (size 5 and above).

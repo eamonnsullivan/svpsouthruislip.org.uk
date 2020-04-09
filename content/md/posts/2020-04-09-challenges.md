@@ -1,4 +1,5 @@
 {:title "Adapting to new challenges"
+ :author "Paul O'Regan"
  :layout :post
  :tags []}
 

@@ -23,3 +23,5 @@ We are always grateful to receive donations of any non-perishable items to help 
  * Cooking oil
  * Shampoo
  * Deodorant
+ * Men's toiletries (disposable razors, shaving cream)
+ * Nappies

@@ -18,7 +18,7 @@ We are always grateful to receive donations of any non-perishable items to help 
  * Tinned meat – this can be curries, stews, meatballs, ham and corned beef
  * Tinned Fruit
  * Tinned Vegetables
- * Long life milk
+ * Instant coffee
  * Powdered mash potato
  * Cooking oil
  * Shampoo

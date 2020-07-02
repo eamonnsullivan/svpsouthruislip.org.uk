@@ -1,4 +1,4 @@
-{:title "Bereavement Counselling"
+{:title "Bereavement Care"
  :layout :page
  :page-index 2
  :navbar? false}

@@ -13,11 +13,16 @@ In addition, we partner with [FareShare](https://fareshare.org.uk/) to distribut
 
 When not in the midst of a global pandemic, we would normally offer a cup of tea or coffee and some companionship for the people who visit us. Unfortunately, the coronavirus has meant we've had to temporarily [halt serving any food or drink](../../posts-output/2020-03-21-foodbank-changes/). We hope to start that again soon.
 
-We are always grateful to receive donations of any non-perishable items to help support this work. At the moment, we're most in need of the following:
+### [Donations](#donations)
+
+We are always grateful to receive donations of any non-perishable items to help support this work. Just drop them off to us during our normal hours. At the moment, we're most in need of the following:
 
  * Tinned meat – this can be curries, stews, meatballs, ham and corned beef
+ * Tinned fish (tuna, sardines, etc.)
  * Tinned Fruit
  * Tinned Vegetables
+ * Toilet roll
+ * Toothpaste
  * Instant coffee
  * Powdered mash potato
  * Cooking oil

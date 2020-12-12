@@ -8,7 +8,7 @@
      width=500>
 
 
-The Young Persons SVP [cake sale proceeds](../../posts-output/bake-sale/2020-11-01-young-persons-svp-bake-sale/) were transformed into Christmas presents and safely delivered to the care home this week! Many thanks also to all of those who bought cakes last month, and also to the helpers who wrapped and packed these gifts.
+The Young Persons SVP [cake sale proceeds](../../../posts-output/bake-sale/2020-11-01-young-persons-svp-bake-sale/) were transformed into Christmas presents and safely delivered to the care home this week! Many thanks also to all of those who bought cakes last month, and also to the helpers who wrapped and packed these gifts.
 
 Please thank the Young Persons SVP members when you meet them. They are our future.
 

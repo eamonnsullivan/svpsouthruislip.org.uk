@@ -17,14 +17,15 @@ When not in the midst of a global pandemic, we would normally offer a cup of tea
 
 We are always grateful to receive donations of any non-perishable items to help support this work. Just drop them off to us during our normal hours. At the moment, we're most in need of the following:
 
- * Tinned meat – this can be curries, stews, meatballs, ham and corned beef
- * Toilet roll
- * Toothpaste
- * Powdered mash potato
+ * Long life milk
+ * Tinned fruit
+ * Tinned Ham
+ * Sugar
+ * Tinned soup, but not tomato
+ * Tuna
  * Cooking oil
  * Shampoo
- * Hand soap
- * Long life milk
- * Deodorant
+ * Fruit juice
+ * Microwave Rice
  * Men's toiletries (disposable razors, shaving cream)
  * Nappies

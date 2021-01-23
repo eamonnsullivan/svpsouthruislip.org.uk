@@ -17,20 +17,15 @@ When not in the midst of a global pandemic, we would normally offer a cup of tea
 
 We are always grateful to receive donations of any non-perishable items to help support this work. Just drop them off to us during our normal hours. At the moment, we're most in need of the following:
 
- * Rice
  * Tea
- * Sugar
- * Wet wipes
+ * Jam
+ * Hand soap
+ * Shaving gel
+ * Toothpaste
+ * Noodles
+ * Long-life milk
+ * Tinned Corned beef
  * Biscuits
  * Tinned ham
- * Tinned corned beef
- * Tomato ketchup
- * Nappies
- * Tuna
- * Sardines
- * Tinned fruit
- * Fruit juice
- * Cooking oil
- * Shampoo
- * Men's toiletries (disposable razors, shaving cream)
- * Microwave Rice
+ * Tinned meatballs
+ * Nappies (sized 5 & 6)

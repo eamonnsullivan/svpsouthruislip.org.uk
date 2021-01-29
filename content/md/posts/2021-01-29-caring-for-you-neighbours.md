@@ -1,4 +1,4 @@
-{:title "Caring for you neighbours"
+{:title "Caring for your neighbours"
  :layout :post
  :author "Paul O'Regan"
  :tags []}

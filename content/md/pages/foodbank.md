@@ -17,15 +17,17 @@ When not in the midst of a global pandemic, we would normally offer a cup of tea
 
 We are always grateful to receive donations of any non-perishable items to help support this work. Just drop them off to us during our normal hours. At the moment, we're most in need of the following:
 
- * Tea
- * Jam
- * Hand soap
- * Shaving gel
- * Toothpaste
- * Noodles
- * Long-life milk
- * Tinned Corned beef
+ * Tinned carrots
+ * Tinned pease
+ * Tea bags
+ * Sugar
+ * Fruit juice
+ * Long life milk
+ * Rice
+ * Nappies
  * Biscuits
- * Tinned ham
- * Tinned meatballs
- * Nappies (sized 5 & 6)
+ * Toothpaste
+ * Shampoo
+ * Shower gel
+ * Washing up liquid
+ * Toilet roll

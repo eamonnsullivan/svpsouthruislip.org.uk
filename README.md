@@ -3,12 +3,13 @@ Web site for the Saint Vincent de Paul Society at St. Gregory the Great Parish i
 
 ## Workflow for updating
 
-The pages are written in markdown and compiled into HTML using [Selmer](https://github.com/yogthos/selmer) templates. You will need [Leiningen](https://github.com/technomancy/leiningen) 2.5.0 or above installed.
+The pages are written in markdown and compiled into HTML using [Selmer](https://github.com/yogthos/selmer) templates. You will need [Clojure tools.deps](https://clojure.org/guides/deps_and_cli) installed.
 
 To run the site locally, change to the svpsouthruislip.org.uk directory and run:
 
 ``` bash
-lein ring server
+clojure -X:serve
+clojure -X:serve-fast
 ```
 
 To create or edit a page or new blog post, first create a new branch. Write your content, reloading the site on your local machine periodically to check that everything looks OK (and the links work).

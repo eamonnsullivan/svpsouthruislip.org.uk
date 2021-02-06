@@ -17,18 +17,18 @@ When not in the midst of a global pandemic, we would normally offer a cup of tea
 
 We are always grateful to receive donations of any non-perishable items to help support this work. Just drop them off to us during our normal hours. At the moment, we're most in need of the following:
 
- * Tinned carrots
- * Tinned peas
- * Tinned potatoes
- * Tea bags
- * Sugar
- * Fruit juice
  * Long life milk
+ * Squash
+ * Fruit juice
+ * Noodles
+ * Tuna
+ * Sugar
+ * Tinned tomatoes
+ * Baked beans
+ * Fruit
  * Rice
- * Nappies
- * Biscuits
- * Toothpaste
- * Shampoo
- * Shower gel
- * Washing up liquid
- * Toilet roll
+ * Mash
+ * Spaghetti hoops
+ * Tinned potatoes
+ * Children's cereal
+ * Sanitary pads

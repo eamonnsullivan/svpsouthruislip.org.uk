@@ -20,15 +20,17 @@ We are always grateful to receive donations of any non-perishable items to help 
  * Long life milk
  * Squash
  * Fruit juice
- * Noodles
- * Tuna
+ * Pasta sauce
+ * Cooking oil
+ * Coffee
  * Sugar
- * Tinned tomatoes
+ * Tuna
+ * Biscuits
+ * Sweet corn
+ * Carrots
+ * Peas
+ * Crisps
+ * Chickpeas
+ * Lentils
+ * Noodles
  * Baked beans
- * Fruit
- * Rice
- * Mash
- * Spaghetti hoops
- * Tinned potatoes
- * Children's cereal
- * Sanitary pads

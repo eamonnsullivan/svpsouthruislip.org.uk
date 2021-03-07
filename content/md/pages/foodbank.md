@@ -19,16 +19,16 @@ We are always grateful to receive donations of any non-perishable items to help 
 
  * Long life milk
  * Fruit juice
- * Powdered Mash
+ * Tuna/Sardines
+ * Noodles/pasta
  * Cooking oil
- * Sugar
- * Shampoo
- * Shower gel
- * Tinned fruit
- * Cakes or treats
  * Coffee
- * Tuna/sardines
+ * Sugar
+ * Jam
+ * Squash
+ * Tinned fruit
  * Biscuits
  * Cereal
  * Rice
- * Noodles/pasta
+ * Washing up liquid
+ * Toilet paper

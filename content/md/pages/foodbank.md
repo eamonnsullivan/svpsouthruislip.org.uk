@@ -18,24 +18,23 @@ When not in the midst of a global pandemic, we would normally offer a cup of tea
 We are always grateful to receive donations of any non-perishable items to help support this work. Just drop them off to us during our normal hours. At the moment, we're most in need of the following:
 
  * Long life milk
- * Fruit juice
+ * Noodles
+ * Crisps
+ * Squash
  * Tinned carrots, peas
+ * Tinned fruit
+ * Fruit juice
  * Sugar
  * Powdered mash
  * Washing powder
- * Toothpaste
- * Toiletries
+ * Toiletries (Shower gel, toothpaste)
  * Cooking oil
- * Tinned fruit
  * Coffee
  * Pasta sauces
  * Rice
  * Nappies (size 5 & 6)
  * Tuna
- * Cereal
- * Porridge oats
- * Noodles/pasta
+ * Pasta
  * Biscuits
- * Crisps
  * Washing up liquid
  * Toilet paper

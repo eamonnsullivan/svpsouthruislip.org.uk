@@ -20,12 +20,13 @@ We are always grateful to receive donations of any non-perishable items to help 
  * Long life milk
  * Rice
  * Tinned fruit
- * Coffee/Tea bags
  * Instant Noodles
+ * Ketchup
+ * Toilet Roll
+ * Shampoo
+ * Hand wash
  * Shower gel
- * Soap
- * Children’s sweets
- * Toothpaste
+ * Coffee/Tea bags
  * Fruit juice
  * Biscuits
  * Washing-up liquid

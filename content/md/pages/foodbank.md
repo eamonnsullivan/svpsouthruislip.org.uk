@@ -17,24 +17,23 @@ When not in the midst of a global pandemic, we would normally offer a cup of tea
 
 We are always grateful to receive donations of any non-perishable items to help support this work. Just drop them off to us during our normal hours. At the moment, we're most in need of the following:
 
+ * Tinned fruit
+ * Chickpeas
+ * Biscuits
+ * Long life milk
+ * Rice
+ * Crisps
+ * Tuna
+ * Shower gel/soap
  * Tuna or Sardines
  * Cooking oil
- * Tinned fruit
- * Long life milk
  * Deodorant
- * Body wash
  * Nappies
  * Fruit juice
- * Biscuits
- * Washing-up liquid
  * Laundry powder
- * Noodles
- * Rice
  * Toiletries
  * Tinned vegetables
- * Instant Noodles
  * Ketchup
  * Coffee/Tea bags
  * Pasta sauce
  * Ketchup
- * Cereal

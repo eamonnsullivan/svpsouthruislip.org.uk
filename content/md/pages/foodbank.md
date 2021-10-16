@@ -23,12 +23,12 @@ We are always grateful to receive donations of any non-perishable items to help 
  * Tinned tuna
  * Biscuits
  * Toilet roll
- * Washing up liquid
+ * Shampoo/conditioner
  * Sanitary pads
  * Fruit juice
  * Tinned tomatoes
+ * Instant coffee
  * Rice (Basmati, if possible)
- * Shampoo
  * Nappies (sizes 5 & 6)
  * Kidney beans
  * Pasta & sauce

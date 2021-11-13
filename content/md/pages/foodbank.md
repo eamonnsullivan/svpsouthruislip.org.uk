@@ -19,21 +19,21 @@ We are always grateful to receive donations of any non-perishable items to help 
 
  * Long life milk
  * Rice
- * Tinned tuna
+ * Juice/squash
+ * Chickpeas
+ * Kidney beans
+ * Tuna
+ * Tea/Coffee
+ * Tinned vegetables
+ * Biscuits/Chocolate
  * Instant Noodles
  * Jam
  * Tinned fruit
- * Chickpeas
  * Toilet roll
  * Toiletries (e.g., shower gel, shampoo)
  * Cooking oil
- * Biscuits
- * Tea/Coffee
  * Sugar
  * Sanitary pads
- * Fruit juice
  * Nappies (sizes 5 & 6)
- * Kidney beans
  * Pasta & sauce
- * Chocolate
  * Cereal

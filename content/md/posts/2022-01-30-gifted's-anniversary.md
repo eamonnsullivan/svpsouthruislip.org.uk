@@ -6,4 +6,4 @@ The SVP's shop, Gifted, will be open this weekend, after all weekend Masses. It 
 
 Like last year, we will have everything to help you celebrate St Patrick's Day -- cards, statues, rosary beads, key rings and much more. In addition we have a few things for Mothers day too. Please stop by and have a browse. Do let us know if you are looking for something specific and we will try and get it for you.
 
-As always, If you come across anyone who needs help, please do not hesitate to contact your SVP Team and we will do our best to help: 07563 775 777, info@svpsouthruislip.org.uk or www.svpsouthruislip.org.uk.
+As always, If you come across anyone who needs help, please do not hesitate to [contact your SVP Team](../../pages-output/contact/) and we will do our best to help.

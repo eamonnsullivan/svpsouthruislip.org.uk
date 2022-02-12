@@ -17,23 +17,23 @@ When not in the midst of a global pandemic, we would normally offer a cup of tea
 
 We are always grateful to receive donations of any non-perishable items to help support this work. Just drop them off to us during our normal hours. At the moment, we're most in need of the following:
 
- * Long-life milk (green)
- * Tuna
- * Coffee/Tea
- * Cooking oil
- * Tinned fruit
+ * Chickpeas
+ * Tea/Coffee
+ * Tinned meat
+ * Hot dogs
+ * Sardines/tuna
+ * Juice
+ * Biscuits
  * Crisps
- * Nappies (sizes 3-6)
+ * Pasta sauce
+ * Long-life milk (green)
  * Men's and women's toiletries
- * Toilet roll
+ * Cooking oil
+ * Nappies (sizes 3-6)
  * Rice
  * Tinned tomatoes, corn or carrots
- * Pasta or curry sauce
  * Noodles
- * Tinned meat
  * Sugar
  * Rice pudding
- * Custard
- * Porridge
+ * Cereal/Porridge
  * Squash and fruit juice
- * Chickpeas

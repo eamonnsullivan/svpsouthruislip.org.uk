@@ -18,7 +18,7 @@ When not in the midst of a global pandemic, we would normally offer a cup of tea
 We are always grateful to receive donations of any non-perishable items to help support this work. Just drop them off to us during our normal hours. At the moment, we're most in need of the following:
 
  * Tea/Coffee
- * Tinned corned beef/ham
+ * Baked beans
  * Tuna/Sardines
  * Biscuits/chocolates
  * Pasta sauce

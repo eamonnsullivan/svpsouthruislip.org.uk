@@ -21,11 +21,11 @@ We are always grateful to receive donations of any non-perishable items to help 
  * Long-life milk (green)
  * Corned beef/ham
  * Tinned vegetables
- * Nappies size 5 & 6
  * Jam
- * Biscuits
+ * Biscuits/chocolate
+ * Juice/squash
+ * Lentils
  * Rice/Noodles
- * Chocolates/sweets
  * Chickpeas
  * Baked beans
  * Tea/Coffee
@@ -36,4 +36,4 @@ We are always grateful to receive donations of any non-perishable items to help 
  * Cereal/Porridge
  * Sanitary pads
  * Tinned tomatoes
- * Juice/squash
+ * Baked beans

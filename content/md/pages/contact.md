@@ -20,7 +20,7 @@ South Ruislip, Middlesex HA4 0EG.<br/>
 
 ## Officers
 
- * Paul O'Regan, President
- * Alan Drew, Vice President
+ * Tracy Tierney, President
+ * Paul O'Regan, Vice President
  * Linda Donoghue, Treasurer
- * Eamonn Sullivan, Secretary
+ * Leanne Menezes, Secretary

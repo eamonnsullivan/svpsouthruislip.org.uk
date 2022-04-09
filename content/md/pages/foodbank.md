@@ -19,16 +19,16 @@ We are always grateful to receive donations of any non-perishable items to help 
 
  * Tuna
  * Long-life milk (green)
- * Corned beef/ham
- * Tinned vegetables
+ * Tinned meat
+ * Coffee/tea
+ * Noodles
  * Jam
  * Biscuits/chocolate
  * Juice/squash
+ * Tinned vegetables
  * Lentils
- * Rice/Noodles
  * Chickpeas
  * Baked beans
- * Tea/Coffee
  * Men's and women's toiletries
  * Crisps
  * Cooking oil

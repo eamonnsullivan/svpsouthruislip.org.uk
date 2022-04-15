@@ -14,10 +14,6 @@ South Ruislip, Middlesex HA4 0EG.<br/>
 *phone: 07563 775 777*<br/>
 *twitter: [@SouthRuislipSvp](https://twitter.com/SouthRuislipSvp)*<br/>
 
-### Bereavement Care Group
-
-*Bereavement care phone: 07562 412 986*<br/>
-
 ## Officers
 
  * Tracy Tierney, President

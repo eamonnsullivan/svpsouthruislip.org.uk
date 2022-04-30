@@ -20,20 +20,20 @@ We are always grateful to receive donations of any non-perishable items to help 
  * Tuna/sardines
  * Long-life milk
  * Coffee/tea
- * Noodles
  * Jam
  * Biscuits/chocolate
- * Juice/squash
  * Chickpeas
+ * Lentils
+ * Tinned fruit
+ * Rice pudding/custard
+ * Tinned meat and meaty soups
+ * Pasta sauce
+ * Sanitary pads
+ * Cooking oil
+ * Noodles
+ * Juice/squash
  * Sugar
  * Tinned vegetables
- * Lentils
- * Baked beans
  * Men's and women's toiletries
  * Crisps
- * Cooking oil
- * Rice pudding/custard
  * Cereal/Porridge
- * Sanitary pads
- * Tinned tomatoes
- * Baked beans

@@ -29,6 +29,14 @@ We are always grateful to receive donations of any non-perishable items to help 
  * Cooking oil
  * Tuna/sardines
  * Biscuits/chocolate
+ * Lentils
+ * Noodles
+ * Tuna/sardines
+ * Custard/rice pudding
+ * Tinned meat
+ * Cooking oil
+ * Sanitary pads
+ * Tuna/sardines
  * Chickpeas
  * Lentils
  * Tinned fruit

@@ -19,21 +19,21 @@ We are always grateful to receive donations of any non-perishable items to help 
 
  * Long-life milk
  * Coffee
- * Pasta sauce
- * Nappies sizes 4,5,6
+ * Pasta/curry sauce
  * Noodles
  * Tuna/sardines
- * Custard
  * Tinned meat
- * Juice/Squash
- * Tinned vegetables/tomatoes
- * Cooking oil
- * Biscuits/chocolate
  * Lentils
- * Chickpeas
- * Lentils
+ * Tinned vegetables
  * Tinned fruit
- * Rice pudding
+ * Chickpeas
+ * Cooking oil
+ * Kidney beans
+ * Juice
+ * Mash
+ * Biscuits/chocolate
+ * Tinned fruit
+ * Custard
  * Sugar
  * Men's toiletries
  * Cereal/Porridge

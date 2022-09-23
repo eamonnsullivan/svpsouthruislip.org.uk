@@ -12,4 +12,4 @@ Our main efforts include visiting people in the community who are housebound or 
 
 Our membership is also open to anyone, of any background. The main requirement is a desire to help.
 
-But like everyone else, we've been severely impacted by the coronavirus pandemic. Most of our activities, except the food bank, are on hold while we consider ways to offer them virtually. Stay tuned for more updates on that.
+Our younger members are planning a sleep-out next month to raise awareness and funds for homeless people. Please consider [donating](https://www.justgiving.com/crowdfunding/b-attitudes?utm_term=69Zmkm5Xz) to support them.at.

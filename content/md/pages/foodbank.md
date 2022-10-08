@@ -18,22 +18,22 @@ When not in the midst of a global pandemic, we would normally offer a cup of tea
 We are always grateful to receive donations of any non-perishable items to help support this work. Just drop them off to us during our normal hours. We normally don't take clothes, but we are getting lots of requests for winter coats, so we will take them if you have any to spare. We're most in need of the following:
 
  * Long-life milk
- * Coffee
- * Rice
- * Lentils
+ * Cereal/porridge
+ * Tinned soup
  * Chickpeas
+ * Tuna/sardines
+ * Hot dogs
+ * Rice
+ * Cooking oil
+ * Nappies size 5 & 6
+ * Squash/juice
+ * Coffee
+ * Lentils
  * Tinned vegetables
  * Noodles
  * Biscuits
  * Toiletries
- * Squash/juice
  * Kidney beans
- * Men's and women's toiletries
- * Nappies, size 5 & 6
  * Toilet paper
  * Pasta/curry sauce
- * Sugar
- * Cooking oil
- * Tuna
- * Tinned fruit
  * Tinned meat

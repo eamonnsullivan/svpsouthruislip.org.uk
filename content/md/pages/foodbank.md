@@ -18,16 +18,16 @@ When not in the midst of a global pandemic, we would normally offer a cup of tea
 We are always grateful to receive donations of any non-perishable items to help support this work. Just drop them off to us during our normal hours. We're most in need of the following:
 
  * Long-life milk
- * Cereal/porridge
  * Lentils/chickpeas
+ * Kidney beans
  * Tuna/sardines
  * Rice/Noodles
  * Nappies size 5 & 6
  * Squash/juice
  * Tinned vegetables
+ * Cereal/porridge
  * Pasta/curry sauce
  * Dry pasta
- * Kidney beans
  * Biscuits
  * Cooking oil
  * Coffee

@@ -21,19 +21,19 @@ We are always grateful to receive donations of any non-perishable items to help 
  * Lentils/chickpeas
  * Kidney beans
  * Tuna/sardines
- * Rice/Noodles
+ * Rice/noodles
  * Nappies size 5 & 6
  * Squash/juice
  * Tinned vegetables
  * Cereal/porridge
  * Pasta/curry sauce
- * Dry pasta
  * Biscuits
- * Cooking oil
- * Coffee
- * Crisps
- * Chocolate
+ * Coffee/tea
+ * Crisps/chocolate
  * Tinned fruit
  * Jam
  * Sugar
  * Toiletries
+ * Custard
+ * Dry pasta
+ * Cooking oil

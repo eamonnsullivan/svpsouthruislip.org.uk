@@ -25,7 +25,7 @@ We are always grateful to receive donations of any non-perishable items to help 
  * Nappies size 5 & 6
  * Squash/juice
  * Tinned vegetables
- * Cereal/porridge
+ * Coffee/tea
  * Pasta/curry sauce
  * Biscuits
  * Coffee/tea

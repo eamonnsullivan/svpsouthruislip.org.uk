@@ -17,24 +17,23 @@ When not in the midst of a global pandemic, we would normally offer a cup of tea
 
 We are always grateful to receive donations of any non-perishable items to help support this work. Just drop them off to us during our normal hours. We're most in need of the following:
 
- * Long life milk
+ * Long-life milk
  * Tinned tomatoes
- * Tuna/sardines
- * Rice
- * Chickpeas
+ * Tuna/sardines/meat
+ * Rice/noodles
+ * Chickpeas/lentils
  * Coffee
  * Mash
  * Biscuits
- * Toilet Roll
- * Sugar
- * Instant noodles
+ * Toilet paper
+ * Tinned vegetables
+ * Cooking oil
  * Tea
  * Tinned Meat
  * Pasta Sauce
  * Tinned Potato
- * Jam
- * Lentils
  * Kidney beans
  * Long Life juice
  * Tinned fruit
- * Tinned corn
+ * Nappies, sized 5 or 6
+ * Toiletries

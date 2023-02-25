@@ -11,29 +11,27 @@ Our food bank is primarily a distribution centre for [Hillingdon Foodbank](https
 
 In addition, we partner with [FareShare](https://fareshare.org.uk/) to distribute fresh food from major food retailers that would otherwise go to waste. We can also provide smaller parcels of food and essentials (such as toiletries or long-life milk) to those struggling to make ends meet.
 
-When not in the midst of a global pandemic, we would normally offer a cup of tea or coffee and some companionship for the people who visit us. Unfortunately, the coronavirus has meant we've had to temporarily [halt serving any food or drink](../../posts-output/2020-03-21-foodbank-changes/). We hope to start that again soon.
-
 ### [Donations](#donations)
 
 We are always grateful to receive donations of any non-perishable items to help support this work. Just drop them off to us during our normal hours. We're most in need of the following:
 
  * Long life milk
- * Rice/noodles
+ * Rice
+ * Pasta
+ * Noodles
  * Biscuits
  * Tinned fruit
- * Sardines
- * Tuna/sardines/meat
- * Chickpeas/lentils
+ * Tuna/sardines
+ * Tinned meat (e.g. corned beef)
+ * Chickpeas
+ * Lentils
  * Tea/Coffee
- * Chickpeas/lentils
+ * Kidney beans
+ * Pasta and curry sauce
  * Mash
- * Toilet paper
  * Tinned vegetables
  * Cooking oil
- * Pasta Sauce
- * Tinned Potato
  * Kidney beans
- * Long Life juice
+ * Long Life juice or squash
  * Tinned fruit
  * Nappies, sized 5 or 6
- * Toiletries

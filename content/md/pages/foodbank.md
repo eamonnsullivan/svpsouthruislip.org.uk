@@ -15,22 +15,23 @@ In addition, we partner with [FareShare](https://fareshare.org.uk/) to distribut
 
 We are always grateful to receive donations of any non-perishable items to help support this work. Just drop them off to us during our normal hours. We're most in need of the following:
 
- * Cooking oil
- * Nappies sized 5/6
- * Tuna
- * Chickpeas
- * Lentils
- * Tea and Coffee
- * Pasta or curry sauce
- * Custard or rice pudding
- * Juice/squash
- * Toiletries (soap, shampoo, deodorant)
- * Laundry soap
- * Toilet paper
+ * Tea
+ * Coffee
  * Rice
  * Pasta
  * Noodles
  * Biscuits
  * Tinned fruit
- * Long life milk
+ * Tuna
+ * Chickpeas
+ * Lentils
  * Kidney beans
+ * Pasta/curry sauce
+ * Custard
+ * Rice pudding
+ * Ladies toiletries
+ * Cooking oil
+ * Nappies sized 5/6
+ * Chickpeas
+ * Juice/squash
+ * Long life milk

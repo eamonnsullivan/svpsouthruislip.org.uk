@@ -20,8 +20,8 @@ We are always grateful to receive donations of any non-perishable items to help 
  * Rice
  * Pasta
  * Noodles
- * Biscuits
- * Tinned fruit
+ * Tinned meat
+ * Tinned vegetables
  * Tuna
  * Chickpeas
  * Lentils

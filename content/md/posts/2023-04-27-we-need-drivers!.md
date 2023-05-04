@@ -1,5 +1,6 @@
 {:title "We need drivers!"
  :layout :post
+ :author "Paul O'Regan"
  :tags []}
 The SVP Team always receives tremendous support from the parish and the wider community and this is witness that the Holy Spirit really is present today. An upcoming example of this is the weekend of May 12-14. Over that weekend, Waitrose in Ruislip are providing us with space at their front door for a food bank appeal. There will be teams of volunteers there, between 10am and 6pm, with shopping trolleys and money boxes, a table and some leaflets.
 

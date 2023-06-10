@@ -22,14 +22,13 @@ We are always grateful to receive donations of any non-perishable items to help 
  * Coffee
  * Chickpeas/lentils
  * Pasta/curry sauce
- * Custard/rice pudding
+ * Toiletries
  * Nappies size 5 & 6
  * Sugar
  * Rice
  * Pasta
+ * Custard/rice pudding
  * Noodles
- * Toiletries
- * Tinned vegetables
  * Tea
  * Tinned meat
  * Tuna/sardines

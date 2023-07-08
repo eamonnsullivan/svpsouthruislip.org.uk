@@ -15,23 +15,23 @@ In addition, we partner with [FareShare](https://fareshare.org.uk/) to distribut
 
 We are always grateful to receive donations of any non-perishable items to help support this work. Just drop them off to us during our normal hours. We're most in need of the following:
 
- * Tuna
- * Tinned Tomatoes
+ * Tinned fish (tuna/sardines)
+ * Tinned vegetables
+ * Tinned meat (hot dogs)
+ * Tinned fruit
  * Chickpeas
+ * Kidney beans
+ * Tea
  * Coffee
  * Long-life milk
- * Squash/juice
+ * Squash or long-life juice
  * Biscuits
- * Pasta/curry sauce
- * Nappies size 5 & 6
- * Cooking oil
- * Tinned vegetables
- * Toiletries
- * Sugar
- * Rice
- * Pasta
- * Custard/rice pudding
  * Noodles
- * Tea
- * Tinned meat
- * Kidney beans
+ * Rice
+ * Cooking oil
+ * Nappies size 5 & 6
+ * Sugar
+ * Pasta/curry sauce
+ * Custard
+ * Rice pudding
+ * Toiletries

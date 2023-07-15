@@ -28,9 +28,9 @@ We are always grateful to receive donations of any non-perishable items to help 
  * Biscuits
  * Noodles
  * Rice
+ * Sugar
  * Cooking oil
  * Nappies size 5 & 6
- * Sugar
  * Pasta/curry sauce
  * Custard
  * Rice pudding

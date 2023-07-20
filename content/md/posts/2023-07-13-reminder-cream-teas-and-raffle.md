@@ -1,5 +1,6 @@
 {:title "Reminder: Cream teas and raffle"
  :layout :post
+ :author "Paul O'Regan"
  :tags []}
 A final reminder that, on next Saturday 22nd July 3-5pm, the SVP team will be holding the annual Cream Teas and Raffle fund raising event. We hope that you can make it and that you can bring some of your friends and family too.
 

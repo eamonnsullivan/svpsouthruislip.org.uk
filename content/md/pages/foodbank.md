@@ -17,7 +17,7 @@ We are always grateful to receive donations of any non-perishable items to help 
 
  * Tinned meat
  * Tinned fish
- * Tinned corn
+ * Tinned vegetables
  * Tinned fruit
  * Chickpeas
  * Tea/Coffee

@@ -20,11 +20,9 @@ We are always grateful to receive donations of any non-perishable items to help 
  * Tinned vegetables
  * Tinned fruit
  * Chickpeas
- * Kidney beans
  * Tea/Coffee
  * Long-life milk
  * Squash or long-life juice
- * Biscuits
  * Rice
  * Pasta/Curry Sauce
  * Kidney beans
@@ -35,3 +33,4 @@ We are always grateful to receive donations of any non-perishable items to help 
  * Nappies size 5 & 6
  * Custard
  * Rice pudding
+ * Toiletries

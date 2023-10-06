@@ -8,4 +8,6 @@ Each month, we look ahead to the upcoming saint and holy days and try and stock 
 
 If you are looking for something in particular, though, just mention it to one of our volunteers at the table, and we'll do our best to source it for you.
 
-Finally, as always, please remain sensitively and lovingly aware of need within our community and just get in touch with us if you think our help is needed - we can be contacted on 07563 775777,  info@svpsouthruislip.org.uk and/or www.svpsouthruislip.org.uk. We will always try our best to help. God Bless.
+Finally, as always, please remain sensitively and lovingly aware of need within our community and just [get in touch with us](../../pages-output/contact/) if you think our help is needed. We will always try our best to help.
+
+God Bless.

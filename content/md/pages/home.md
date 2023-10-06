@@ -11,3 +11,5 @@ The Saint Vincent de Paul Society Conference at Saint Gregory the Great Parish i
 Our main efforts include visiting people in the community who are housebound or isolated, running a weekly food bank, counselling those who have been recently bereaved and mentoring young adults. See [our activities](#activities) for more details on these.
 
 Our membership is also open to anyone, of any background. The main requirement is a desire to help.
+
+This weekend, our younger members (known as the B-Attitudes) will be sleeping out to raise funds for World Homeless Day. If you would like to help, please see the group's [JustGiving page](https://www.justgiving.com/crowdfunding/the-b-attitudes).

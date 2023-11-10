@@ -13,7 +13,7 @@ In addition, we partner with [FareShare](https://fareshare.org.uk/) to distribut
 
 ### [Reverse Advent Calendar](#advent-appeal)
 
-For Advent this year, we're trying a [Reverse Advent Calendar](../../../pages/advent-calendar/reverse_advent.pdf) (click to download). Instead of a *receiving* calendar, this is a *giving* calendar. We're asking families to set aside a small, empty box and add items to it during Advent. In the week before Christmas, simply bring your (now full) box to St. Gregory the Great Parish and we'll distribute them from our food bank. This might be a fun activity to do with children -- in addition to the normal, chocolate-focused *receiving* calendar, of course!
+For Advent this year, we're trying a [Reverse Advent Calendar](../../../pages/advent-calendar/reverse_advent-v4.pdf) (click to download). Instead of a *receiving* calendar, this is a *giving* calendar. We're asking families to set aside a small, empty box and add items to it during Advent. In the week before Christmas, simply bring your (now full) box to St. Gregory the Great Parish and we'll distribute them from our food bank. This might be a fun activity to do with children -- in addition to the normal, chocolate-focused *receiving* calendar, of course!
 
 ### [Donations](#donations)
 

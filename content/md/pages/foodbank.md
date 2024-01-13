@@ -16,18 +16,19 @@ In addition, we partner with [FareShare](https://fareshare.org.uk/) to distribut
 We are always grateful to receive donations of any non-perishable items to help support this work. Just drop them off to us during our normal hours. We're most in need of the following:
 
  * Long-life milk
+ * Coffee
+ * Tinned tomatoes
  * Lentils
  * Noodles
  * Biscuits
  * Sugar
- * Tinned fish
- * Tinned sweetcorn
- * Coffee
+ * Tuna
+ * Eggs
  * Long-life juice
  * Rice
- * Pasta Sauce
  * Cooking oil
  * Toilet paper
  * Sanitary pads
  * Laundry soap
  * Washing up liquid
+ * Men's toiletries

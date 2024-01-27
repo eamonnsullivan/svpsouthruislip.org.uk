@@ -25,7 +25,6 @@ We are always grateful to receive donations of any non-perishable items to help 
  * Sugar
  * Tuna
  * Eggs
- * Rice
  * Cooking oil
  * Toilet paper
  * Sanitary pads

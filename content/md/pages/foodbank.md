@@ -19,6 +19,7 @@ We are always grateful to receive donations of any non-perishable items to help 
  * Long-life milk
  * Squash/long-life juice
  * Tinned tomatoes
+ * Sanitary pads
  * Lentils
  * Noodles
  * Biscuits
@@ -27,7 +28,6 @@ We are always grateful to receive donations of any non-perishable items to help 
  * Eggs
  * Cooking oil
  * Toilet paper
- * Sanitary pads
  * Laundry soap
  * Washing up liquid
  * Men's toiletries

@@ -21,6 +21,7 @@ We are always grateful to receive donations of any non-perishable items to help 
  * Chickpeas
  * Rice
  * Kidney beans
+ * Lentils
  * Sugar
  * Squash/long-life juice
  * Long-life milk

@@ -29,5 +29,6 @@ We are always grateful to receive donations of any non-perishable items to help 
  * Custard
  * Cooking oil
  * Toiletries
+ * Sanitary pads
  * Toilet paper
  * Nappies sizes 5 & 6

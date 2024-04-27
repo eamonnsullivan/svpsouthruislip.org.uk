@@ -15,14 +15,14 @@ In addition, we partner with [FareShare](https://fareshare.org.uk/) to distribut
 
 We are always grateful to receive donations of any non-perishable items to help support this work. Just drop them off to us during our normal hours. We're most in need of the following:
 
- * Pasta sauce
+ * Pasta
  * Rice
  * Long-life milk
  * Tinned fruit
  * Squash/long-life juice
- * Kidney beans
  * Chickpeas
  * Tinned tomatoes
+ * Pasta sauce
  * Tuna
  * Tinned meat
  * Lentils

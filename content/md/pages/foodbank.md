@@ -17,11 +17,11 @@ We are always grateful to receive donations of any non-perishable items to help 
 
  * Long-life milk
  * Squash/long-life juice
+ * Chickpeas
  * Nappies sizes 5/6
  * Pasta
  * Rice
  * Tinned fruit
- * Chickpeas
  * Tinned tomatoes
  * Pasta sauce
  * Tuna

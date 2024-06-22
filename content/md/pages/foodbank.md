@@ -18,8 +18,9 @@ We are always grateful to receive donations of any non-perishable items to help 
  * Long-life milk
  * Nappies sizes 5/6
  * Ladies pads
+ * Pasta
  * Pasta sauce
- * Coffee/Tea
+ * Coffee
  * Tuna
  * Tinned meat
  * Lentils
@@ -31,5 +32,4 @@ We are always grateful to receive donations of any non-perishable items to help 
  * Toilet paper
  * Chickpeas
  * Rice
- * Pasta
  * Squash/long-life juice

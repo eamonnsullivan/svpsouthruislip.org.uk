@@ -15,21 +15,21 @@ In addition, we partner with [FareShare](https://fareshare.org.uk/) to distribut
 
 We are always grateful to receive donations of any non-perishable items to help support this work. Just drop them off to us during our normal hours. We're most in need of the following:
 
- * Long-life milk
- * Nappies sizes 5/6
+ * Tinned meat
+ * Nappies sizes 3/4/5
  * Ladies pads
- * Pasta
+ * Shampoo/body wash
  * Pasta sauce
  * Coffee
- * Tuna
- * Tinned meat
- * Lentils
  * Sugar
+ * Long-life milk
  * Biscuits
+ * Chickpeas
+ * Lentils
  * Custard
  * Cooking oil
- * Toiletries
  * Toilet paper
- * Chickpeas
  * Rice
+ * Pasta
+ * Tuna/Sardines
  * Squash/long-life juice

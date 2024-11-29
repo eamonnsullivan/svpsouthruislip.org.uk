@@ -11,8 +11,8 @@ C/O Saint Gregory the Great Parish<br/>
 South Ruislip, Middlesex HA4 0EG.<br/>
 
 *email: [info@svpsouthruislip.org.uk](mailto:info@svpsouthruislip.org.uk)*<br/>
+*food bank email: [foodbank@svpsouthruislip.org.uk](mailto:foodbank@svpsouthruislip.org.uk)*<br/>
 *phone: 07563 775 777*<br/>
-*twitter: [@SouthRuislipSvp](https://twitter.com/SouthRuislipSvp)*<br/>
 
 ## Officers
 

@@ -11,6 +11,8 @@ Our food bank is primarily a distribution centre for [Hillingdon Foodbank](https
 
 In addition, we partner with [FareShare](https://fareshare.org.uk/) to distribute fresh food from major food retailers that would otherwise go to waste. We can also provide smaller parcels of food and essentials (such as toiletries or long-life milk) to those struggling to make ends meet.
 
+To avoid long queues, we run an appointment system at our centre. To make an appointment, call or text 07563 775 777 or email [foodbank@svpsouthruislip.org.uk](mailto:foodbank@svpsouthruislip.org.uk)</a>.
+
 ### [Reverse Advent Calendar](#advent-appeal)
 
 For Advent this year, we're doing what's called a Reverse Advent Calendar. Instead of a *receiving* calendar, this is a *giving* calendar. We're asking families to set aside a small, empty box and add items to it during Advent. In the week before Christmas, simply bring your (now full) box to St. Gregory the Great Parish and we'll distribute them from our food bank. This might be a fun activity to do with children -- in addition to the normal, chocolate-focused *receiving* calendar, of course!

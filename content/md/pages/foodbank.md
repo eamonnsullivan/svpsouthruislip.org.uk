@@ -13,16 +13,6 @@ In addition, we partner with [FareShare](https://fareshare.org.uk/) to distribut
 
 To avoid long queues, we run an appointment system at our centre. To make an appointment, call or text 07563 775 777 or email [foodbank@svpsouthruislip.org.uk](mailto:foodbank@svpsouthruislip.org.uk)</a>.
 
-### [Reverse Advent Calendar](#advent-appeal)
-
-For Advent this year, we're doing what's called a Reverse Advent Calendar. Instead of a *receiving* calendar, this is a *giving* calendar. We're asking families to set aside a small, empty box and add items to it during Advent. In the week before Christmas, simply bring your (now full) box to St. Gregory the Great Parish and we'll distribute them from our food bank. This might be a fun activity to do with children -- in addition to the normal, chocolate-focused *receiving* calendar, of course!
-
-<img src="../../../pages/advent-calendar/reverse-advent-2024.jpg"
-     alt="A Christmas tree with baubles, each displaying an item that the food bank needs."
-     width=500>
-
-You can also [download the calendar](../../../pages/advent-calendar/reverse-advent-2024.pdf) for printing.
-
 ### [Donations](#donations)
 
 We are always grateful to receive donations of any non-perishable items to help support this work. Just drop them off to us during our normal hours. We're most in need of the following:

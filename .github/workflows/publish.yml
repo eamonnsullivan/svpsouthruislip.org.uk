@@ -5,6 +5,9 @@ on:
     branches:
     - main
 
+permissions:
+  id-token: write
+  contents: read
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -21,13 +24,11 @@ jobs:
         cli: latest
     - name: Build
       run: clojure -M:build
-    - name: publish
-      uses: jakejarvis/s3-sync-action@master
+    - name: Configure AWS Credentials
+      uses: aws-actions/configure-aws-credentials@main
       with:
-        args: --acl public-read --follow-symlinks --delete
-      env:
-        AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
-        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-        AWS_REGION: 'eu-west-1'
-        SOURCE_DIR: 'public'
+        role-to-assume: 'arn:aws:iam::995361647121:role/S3Access'
+        aws-region: 'eu-west-1'
+    - name: publish
+      run: |
+        aws s3 sync public s3://svpsouthruislip.org.uk --acl public-read --follow-symlinks --delete

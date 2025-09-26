@@ -19,7 +19,7 @@ We are always grateful to receive donations of any non-perishable items to help 
 
  * Long-life milk
  * Squash/long-life juice
- * Tinned meat
+ * Tinned meat (pork, corned beef, etc.)
  * Tuna/Sardines
  * Chickpeas
  * Lentils

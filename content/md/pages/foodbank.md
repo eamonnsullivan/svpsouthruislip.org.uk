@@ -18,17 +18,13 @@ To avoid long queues, we run an appointment system at our centre. To make an app
 We are always grateful to receive donations of any non-perishable items to help support this work. Just drop them off to us during our normal hours. We're most in need of the following:
 
  * Tinned fish/meat
+ * Tinned fruit/vegetables
  * Lentils
- * Chickpeas
- * Kidney beans
- * Tinned vegetables
- * Tinned fruit
  * Tinned soup
+ * Pasta/Pasta Sauce
+ * Chickpeas
  * Cereal/porridge
  * Long-life milk
  * Coffee/tea
- * Sugar
- * Biscuits
+ * Toiletries/nappies
  * Laundry soap
- * Toiletries
- * Nappies

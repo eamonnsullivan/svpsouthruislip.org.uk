@@ -1,6 +1,6 @@
 {:title "Last Gifted of the year"
  :layout :post
- :author Paul O'Regan and Tracy Tierney
+ :author "Paul O'Regan and Tracy Tierney"
  :tags []}
 
 The support of the parish underpins the SVP's activities. This weekend our team running our shop, Gifted,

@@ -13,20 +13,12 @@ In addition, we partner with [FareShare](https://fareshare.org.uk/) to distribut
 
 To avoid long queues, we run an appointment system at our centre. To make an appointment, call or text 07563 775 777 or email [foodbank@svpsouthruislip.org.uk](mailto:foodbank@svpsouthruislip.org.uk)</a>.
 
-### [Reverse Advent Calendar](#advent)
-
-For Advent this year, we're doing what's called a Reverse Advent Calendar. Instead of a *receiving* calendar, this is a *giving* calendar. We're asking families to set aside a small, empty box and add items to it during Advent. Near the end of the season (our last session before Christmas will be Dec. 20) bring your (now full) box to the parish hall for distribution from our food bank. This might be a fun activity to do with children -- in addition to the normal, chocolate-focused *receiving* calendar, of course!
-
-
-<img src="../../../pages/advent-calendar/advent-calendar-2025.jpeg"
-     alt="A Christmas tree with baubles, each displaying an item that the food bank needs."
-     width=500>
-
 ### [Donations](#donations)
 
 We are always grateful to receive donations of any non-perishable items to help support this work. Just drop them off to us during our normal hours. We're most in need of the following:
 
- * Pasta/Pasta Sauce
+ * Cooking oil
+ * Rice
  * Tinned fish/meat
  * Tinned fruit/vegetables
  * Lentils
@@ -35,5 +27,6 @@ We are always grateful to receive donations of any non-perishable items to help 
  * Cereal/porridge
  * Long-life milk
  * Coffee/tea
- * Toiletries/nappies
+ * Pasta/Pasta Sauce
  * Laundry soap
+ * Toiletries/nappies sized 5 & 6

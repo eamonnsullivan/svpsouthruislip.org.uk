@@ -11,3 +11,5 @@ The Saint Vincent de Paul Society Conference at Saint Gregory the Great Parish i
 Our main efforts include visiting people in the community who are housebound or isolated, running a weekly food bank, counselling those who have been recently bereaved and mentoring young adults. See [our activities](#activities) for more details on these.
 
 Our membership is also open to anyone, of any background. The main requirement is a desire to help.
+
+Two of our team are raising funds for the national SVP organisation by walking the [Camino de Santiago de Compostela](https://en.wikipedia.org/wiki/Camino_de_Santiago) in April. Their walk starts on April 12 and lasts for 1 week. If you would like to help them reach their fund raising target then please use the [Just Giving](https://www.justgiving.com/page/tracy-tierney-1) website.

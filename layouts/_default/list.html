@@ -1,0 +1,5 @@
+{{ define "main" }}
+  <header class="list-header"><h1>{{ .Title }}</h1>{{ with .Content }}<div>{{ . }}</div>{{ end }}</header>
+  {{ range (.Paginate .RegularPagesRecursive).Pages }}{{ partial "post-card.html" . }}{{ else }}<p>No posts found.</p>{{ end }}
+  {{ partial "pagination.html" . }}
+{{ end }}

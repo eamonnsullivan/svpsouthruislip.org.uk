@@ -1,19 +1,59 @@
 # svpsouthruislip.org.uk
-Web site for the Saint Vincent de Paul Society at St. Gregory the Great Parish in South Ruislip, UK.
 
-## Workflow for updating
+Website for the Saint Vincent de Paul Society at St. Gregory the Great Parish in South Ruislip, UK. It is generated with [Hugo](https://gohugo.io/) and deployed to AWS S3.
 
-The pages are written in markdown and compiled into HTML using [Selmer](https://github.com/yogthos/selmer) templates. You will need [Clojure tools.deps](https://clojure.org/guides/deps_and_cli) installed.
+## Prerequisites
 
-To run the site locally, change to the svpsouthruislip.org.uk directory and run:
+Install Hugo Extended 0.165.0 or newer. On macOS with Homebrew:
 
-``` bash
-clojure -X:serve
-clojure -X:serve-fast
+```bash
+brew install hugo
+hugo version
 ```
 
-To create or edit a page or new blog post, first create a new branch. Write your content, reloading the site on your local machine periodically to check that everything looks OK (and the links work).
+No theme, JavaScript package, Clojure runtime, or other build dependency is required.
 
-When you are finished, push the branch to github and create a pull request. Look it over again and, when satisfied, merge the pull request and delete the branch.
+## Development
 
-Github Actions will then take over and deploy the changes to AWS.
+Start Hugo's development server, including future-dated posts:
+
+```bash
+hugo server --buildFuture
+```
+
+Open <http://localhost:1313/>. Hugo watches content, templates, configuration, and static assets and reloads the browser after changes.
+
+Create a production build in `public/`:
+
+```bash
+hugo --gc --minify
+```
+
+## Content
+
+- Posts live in `content/posts/`. Keep the date at the start of each filename and set explicit `date`, `url`, `author`, and `tags` front matter.
+- Pages live in `content/pages/` and retain their legacy `url` values. Homepage content lives in `content/_index.md`.
+- Global files such as icons and logos live in `static/img/`.
+- Assets belonging to nested posts live in `static/posts/<bundle>/`. Link to them with root-relative URLs such as `/posts/sleep-out/around_table.jpg`.
+- Page downloads and images live in `static/pages/<bundle>/`.
+- Local templates live in `layouts/`; site CSS lives in `static/css/site.css`. Site intentionally has no remote Hugo theme dependency.
+
+Example post front matter:
+
+```yaml
+---
+title: "Post title"
+date: "2026-01-15T00:00:00+00:00"
+url: "/posts-output/2026-01-15-post-title/"
+author: "Author name"
+tags: ["example"]
+---
+```
+
+## Workflow
+
+Create branch before changing content. Preview locally, check links, push branch, and create pull request. After merge, GitHub Actions builds and deploys site to AWS.
+
+## Migration note
+
+Repository migrated from Cryogen to Hugo. Cryogen's Clojure source, EDN configuration, generated output, and bundled themes were removed. Source posts, pages, authors, tags, global images, post assets, downloads, feed URL, and practical legacy content URLs are preserved.

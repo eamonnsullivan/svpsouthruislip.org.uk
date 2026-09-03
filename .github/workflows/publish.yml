@@ -12,18 +12,15 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout Master
-      uses: actions/checkout@master
-    - name: Prepare Java
-      uses: actions/setup-java@v1
+    - name: Checkout source
+      uses: actions/checkout@v4
+    - name: Prepare Hugo
+      uses: peaceiris/actions-hugo@v3
       with:
-        java-version: 11
-    - name: Prepare Clojure
-      uses: DeLaGuardo/setup-clojure@master
-      with:
-        cli: latest
+        hugo-version: '0.165.0'
+        extended: true
     - name: Build
-      run: clojure -M:build
+      run: hugo --gc --minify
     - name: Configure AWS Credentials
       uses: aws-actions/configure-aws-credentials@main
       with:

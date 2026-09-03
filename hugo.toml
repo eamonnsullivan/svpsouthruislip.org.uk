@@ -1,0 +1,39 @@
+baseURL = "https://svpsouthruislip.org.uk/"
+locale = "en-GB"
+title = "SVP@South Ruislip"
+timeZone = "Europe/London"
+buildFuture = true
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 5
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+  [permalinks.taxonomy]
+    tags = "/tags-output/"
+  [permalinks.term]
+    tags = "/tags-output/:slug/"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
+
+[outputFormats.RSS]
+  baseName = "feed"
+  mediaType = "application/rss+xml"
+
+[params]
+  author = "SVP South Ruislip"
+  description = "The Saint Vincent de Paul Society Conference at Saint Gregory the Great Parish in South Ruislip"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false

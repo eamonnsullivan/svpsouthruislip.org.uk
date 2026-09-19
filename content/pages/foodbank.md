@@ -25,7 +25,7 @@ We are always grateful to receive donations of any non-perishable items to help 
  * Chickpeas
  * Cereal/porridge
  * Long-life milk
- * Coffee/tea
+ * Coffee
  * Pasta/Pasta Sauce
  * Laundry soap
  * Toiletries/nappies sized 5 & 6

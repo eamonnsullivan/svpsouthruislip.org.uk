@@ -43,6 +43,7 @@ h3 { font-size: 1.25rem; }
 .post-card h2, .article-header h1, .list-header h1 { margin-top: 0; }
 .post-card h2 a { color: var(--ink); text-decoration-color: var(--brand-dark); }
 .article-content { overflow-wrap: anywhere; }
+.homepage-intro-image { float: right; margin: .625rem 0 .625rem 1.25rem; }
 .article-content h2, .article-content h3 { margin-top: 2em; }
 .post-meta { display: flex; flex-wrap: wrap; justify-content: space-between; gap: .25rem 1rem; color: var(--muted); font-size: .9rem; }
 .article-header { margin-bottom: 2rem; padding-bottom: 1.25rem; border-bottom: 1px solid var(--line); }
@@ -65,6 +66,7 @@ h3 { font-size: 1.25rem; }
   .header-inner { align-items: flex-start; flex-direction: column; padding-block: 1rem; }
   .nav-list a { padding: .45rem .6rem; }
   .page-grid { grid-template-columns: 1fr; }
+  .homepage-intro-image { display: block; float: none; width: 10rem; margin: 0 auto 1rem; }
   .sidebar { border-top: 1px solid var(--line); }
   .post-meta, .pagination { align-items: flex-start; flex-direction: column; }
   .pagination a:last-child { align-self: flex-end; }

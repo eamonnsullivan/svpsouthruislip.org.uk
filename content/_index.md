@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
 ---
-<img src="/img/svp4.png" hspace="20" vspace="10" width="250" height="250" align="right"/>
+<img class="homepage-intro-image" src="/img/svp4.png" width="250" height="250" alt="Saint Vincent de Paul Society"/>
 
 The Saint Vincent de Paul Society Conference at Saint Gregory the Great Parish in South Ruislip is a community of volunteers who aim to help others in practical ways. Our focus is hands-on, person-to-person care -- a friendly chat over a warm cup of tea. We are inspired by Christ's message to love our neighbour as ourselves, to feed the hungry, visit the imprisoned and befriend the lonely. Our neighbour is anyone in need in the local community, without regard to faith, ethnicity, status or sexual orientation.
 

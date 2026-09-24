@@ -54,6 +54,12 @@ tags: ["example"]
 
 Create branch before changing content. Preview locally, check links, push branch, and create pull request. After merge, GitHub Actions builds and deploys site to AWS.
 
+Pull requests run a strict Hugo production build. It fails for build errors, warnings, and duplicate output paths. Run the same check locally before pushing:
+
+```bash
+hugo --gc --minify --panicOnWarning --printPathWarnings
+```
+
 ## Migration note
 
 Repository migrated from Cryogen to Hugo. Cryogen's Clojure source, EDN configuration, generated output, and bundled themes were removed. Source posts, pages, authors, tags, global images, post assets, downloads, feed URL, and practical legacy content URLs are preserved.

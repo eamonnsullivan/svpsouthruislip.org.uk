@@ -22,10 +22,15 @@ We are always grateful to receive donations of any non-perishable items to help 
  * Tinned fruit/vegetables
  * Lentils
  * Tinned soup
+ * Juice/Squash
+ * Chocolate
+ * Biscuits
  * Chickpeas
  * Cereal/porridge
  * Long-life milk
- * Coffee
+ * Coffee/Tea
+ * Noodles
+ * Rice pudding/Custard
  * Pasta/Pasta Sauce
  * Laundry soap
  * Toiletries/nappies sized 5 & 6

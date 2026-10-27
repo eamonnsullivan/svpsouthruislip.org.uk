@@ -1,7 +1,8 @@
 ---
 title: "Thank you for supporting the cake sale"
 date: "2023-05-27T00:00:00+00:00"
-url: "/posts-output/2023-05-27-thank-you-for-supporting-the-cake-sale/"
+url: "/posts/2023-05-27-thank-you-for-supporting-the-cake-sale/"
+aliases: ["/posts-output/2023-05-27-thank-you-for-supporting-the-cake-sale/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -11,6 +12,6 @@ Next weekend, our religious items shop, Gifted, will be open after the weekend m
 
 Another date for your calendar is Wednesday 7th June, when the Bereavement Support Group will meet in the hall after 10am mass. Please come along if you just want someone to talk with, and if you fancy a cup of tea!!
 
-Finally, as always, please remain 'Aware' of need around us and do not hesitate to [contact your SVP Team](/pages-output/contact/) if our help is needed.
+Finally, as always, please remain 'Aware' of need around us and do not hesitate to [contact your SVP Team](/contact/) if our help is needed.
 
 God Bless.

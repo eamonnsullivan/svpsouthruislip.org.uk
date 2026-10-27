@@ -1,7 +1,8 @@
 ---
 title: "Hope Springs Eternal"
 date: "2025-07-06T00:00:00+00:00"
-url: "/posts-output/2025-07-06-hope-springs-eternal/"
+url: "/posts/2025-07-06-hope-springs-eternal/"
+aliases: ["/posts-output/2025-07-06-hope-springs-eternal/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -11,6 +12,6 @@ Hope is part of the DNA of the SVP. It is that special ripple that emanates, alm
 
 Why not consider an act of kindness on July 12? A 'Hello' to a stranger, an unplanned check-up on your elderly neighbour, friendly banter with the check-out assistant in the shop -- all these little simple acts of kindness can generate lovely, unintended, consequences!
 
-And, finally, please keep an eye out for need around you and just [contact the SVP](/pages-output/contact/) if you think we may be able to help. We'll also do our part in offering Hope.
+And, finally, please keep an eye out for need around you and just [contact the SVP](/contact/) if you think we may be able to help. We'll also do our part in offering Hope.
 
 God Bless.

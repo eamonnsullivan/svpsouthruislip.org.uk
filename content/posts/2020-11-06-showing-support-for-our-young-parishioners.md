@@ -1,7 +1,8 @@
 ---
 title: "Showing support for our young parishioners"
 date: "2020-11-06T00:00:00+00:00"
-url: "/posts-output/2020-11-06-showing-support-for-our-young-parishioners/"
+url: "/posts/2020-11-06-showing-support-for-our-young-parishioners/"
+aliases: ["/posts-output/2020-11-06-showing-support-for-our-young-parishioners/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ Despite the storm clouds and strong winds, there were so many rays of sunshine a
 
 All young people are our future and your amazing support is a rock for them -- so thank you so much. They all returned home on Sunday full of the Holy Spirit!!
 
-Finally, as we are once again in Lockdown, please remain aware of need around us and please [let us know](/pages-output/contact/) if our help is needed. We will always try our best.
+Finally, as we are once again in Lockdown, please remain aware of need around us and please [let us know](/contact/) if our help is needed. We will always try our best.
 
 God Bless!

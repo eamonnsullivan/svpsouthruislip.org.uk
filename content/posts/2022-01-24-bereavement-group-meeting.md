@@ -1,7 +1,8 @@
 ---
 title: "Bereavement group meeting"
 date: "2022-01-24T00:00:00+00:00"
-url: "/posts-output/2022-01-24-bereavement-group-meeting/"
+url: "/posts/2022-01-24-bereavement-group-meeting/"
+aliases: ["/posts-output/2022-01-24-bereavement-group-meeting/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -9,4 +10,4 @@ The SVP Bereavement Care group has been in operation for about four years now. H
 
 Bridget and the team meet about 10 people every month and also follow up with telephone calls to those that would like that.
 
-As always, If you come across anyone who needs help, please do not hesitate [contact your SVP team](/pages-output/contact/) and we will do our best to help.
+As always, If you come across anyone who needs help, please do not hesitate [contact your SVP team](/contact/) and we will do our best to help.

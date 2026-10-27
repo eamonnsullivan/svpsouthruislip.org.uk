@@ -1,7 +1,8 @@
 ---
 title: "Consider joining us"
 date: "2026-02-05T00:00:00+00:00"
-url: "/posts-output/2026-02-05-consider-joining-us/"
+url: "/posts/2026-02-05-consider-joining-us/"
+aliases: ["/posts-output/2026-02-05-consider-joining-us/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ Thank you for all your support at our SVP shop, known as 'Gifted', last weekend.
 
 Spring is definitely on the way and if you would like something to do in the lengthening evenings then why not consider joining the SVP Team. Additional help with home visits, care home visits, mentoring the B-Attitudes etc is always needed and joining our team might be just the ticket for you!!
 
-Finally, as always, please remain aware of need around you and just [contact the SVP](/pages-output/contact/) if you think that we can be of help. We'll always do our best.
+Finally, as always, please remain aware of need around you and just [contact the SVP](/contact/) if you think that we can be of help. We'll always do our best.
 
 God Bless.

@@ -1,7 +1,8 @@
 ---
 title: "B-Attitudes spruce up Our Lady garden"
 date: "2021-06-09T00:00:00+00:00"
-url: "/posts-output/our-lady-gardening/2021-06-09-our-lady-gardening/"
+url: "/posts/our-lady-gardening/2021-06-09-our-lady-gardening/"
+aliases: ["/posts-output/our-lady-gardening/2021-06-09-our-lady-gardening/"]
 author: "Daniel Bisland"
 tags: []
 ---

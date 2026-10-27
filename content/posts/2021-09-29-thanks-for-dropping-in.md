@@ -1,7 +1,8 @@
 ---
 title: "Thanks for dropping in"
 date: "2021-09-29T00:00:00+00:00"
-url: "/posts-output/2021-09-29-thanks-for-dropping-in/"
+url: "/posts/2021-09-29-thanks-for-dropping-in/"
+aliases: ["/posts-output/2021-09-29-thanks-for-dropping-in/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -13,7 +14,7 @@ Our SVP shop is open this weekend. We have a lovely selection of religious items
 
 The Bereavement Care group -- Bridget and the team -- will be in the hall on Wednesday, Oct. 6, after 10am mass.  Please drop in for a cup of tea and a chat.
 
-As always, if you come across anyone in need of our help in the community, please do not hesitate to [contact your SVP Team](/pages-output/contact/) and we will do our best to help.
+As always, if you come across anyone in need of our help in the community, please do not hesitate to [contact your SVP Team](/contact/) and we will do our best to help.
 
 God Bless
 Tracy

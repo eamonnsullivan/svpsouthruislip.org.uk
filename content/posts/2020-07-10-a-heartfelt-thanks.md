@@ -1,7 +1,8 @@
 ---
 title: "A Heartfelt Thanks"
 date: "2020-07-10T00:00:00+00:00"
-url: "/posts-output/2020-07-10-a-heartfelt-thanks/"
+url: "/posts/2020-07-10-a-heartfelt-thanks/"
+aliases: ["/posts-output/2020-07-10-a-heartfelt-thanks/"]
 author: "Paul O'Regan"
 tags: ["foodbank"]
 ---
@@ -15,6 +16,6 @@ We have also had an increase in the number of homeless visiting us and, because 
 
 As mentioned at the outset, the Holy Spirit is truly present at St Gregory's, Thank God.
 
-Finally, as always, please remain 'Aware' of need and just [get in touch](/pages-output/contact/) with us if you know of someone who might need the help of the SVP.
+Finally, as always, please remain 'Aware' of need and just [get in touch](/contact/) with us if you know of someone who might need the help of the SVP.
 
 God Bless!

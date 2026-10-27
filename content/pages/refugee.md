@@ -1,6 +1,7 @@
 ---
 title: "Immigration Detainee Support"
-url: "/pages-output/refugee/"
+url: "/refugee/"
+aliases: ["/pages-output/refugee/"]
 ---
 Our location in West London means that we're close to Europe's largest immigration removal centres, near Heathrow airport. The two centres, known as [Harmondworth](https://detentionaction.org.uk/about-detention/harmondsworth/) and [Colnbrook](https://detentionaction.org.uk/about-detention/colnbrook/), house several hundred asylum seekers and refugees in crowded, prison-like conditions while they appeal in the courts for a chance at freedom and safety in Britain. Many of these (mostly) young men are alone and have no one visiting them during their detention, which can last months or even years.
 

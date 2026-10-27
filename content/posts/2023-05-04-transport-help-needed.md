@@ -1,11 +1,12 @@
 ---
 title: "Transport help needed"
 date: "2023-05-04T00:00:00+00:00"
-url: "/posts-output/2023-05-04-transport-help-needed/"
+url: "/posts/2023-05-04-transport-help-needed/"
+aliases: ["/posts-output/2023-05-04-transport-help-needed/"]
 author: "Paul O'Regan"
 tags: []
 ---
-A final reminder that we would really appreciate some transport help this coming Friday, Saturday and Sunday, transferring food donations from Waitrose, in Ruislip, to the church hall. We expect to need donations transported from the front door of Waitrose, in their carpark, at 12 noon, 2pm, 4pm and 6pm on Friday and Saturday, and at 12 noon, 2pm and 4pm on Sunday. If you can fulfill any of these slots please [contact us](/pages-output/contact/).
+A final reminder that we would really appreciate some transport help this coming Friday, Saturday and Sunday, transferring food donations from Waitrose, in Ruislip, to the church hall. We expect to need donations transported from the front door of Waitrose, in their carpark, at 12 noon, 2pm, 4pm and 6pm on Friday and Saturday, and at 12 noon, 2pm and 4pm on Sunday. If you can fulfill any of these slots please [contact us](/contact/).
 
 Also, next weekend, our Gifted Shop will be open and your support for that initiative is always gratefully received. Remember, if you are looking for a particular item, and we do not have it in Gifted, then just let us know and we will try and get it for next month.
 

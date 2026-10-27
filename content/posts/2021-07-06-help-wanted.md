@@ -1,7 +1,8 @@
 ---
 title: "Help Wanted"
 date: "2021-07-06T00:00:00+00:00"
-url: "/posts-output/2021-07-06-help-wanted/"
+url: "/posts/2021-07-06-help-wanted/"
+aliases: ["/posts-output/2021-07-06-help-wanted/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -13,4 +14,4 @@ SVP: The main SVP group needs help with our many activities, including supportin
 
 B-ATTITUDE: If you are between 14 and 18 years old and would like to join our young person's group, please have a word with Fr Paulo or email us. During lockdown we managed a cake sale, made gifts for care home residents and gave the garden by Our Lady a bit of a makeover -- imagine what we can do out of lockdown!
 
-If any of these activities interest you, or if you come across anyone in need of our help in the community, please [contact us](/pages-output/contact/).
+If any of these activities interest you, or if you come across anyone in need of our help in the community, please [contact us](/contact/).

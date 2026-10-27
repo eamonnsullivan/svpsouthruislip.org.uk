@@ -1,6 +1,7 @@
 ---
 title: "Contact"
-url: "/pages-output/contact/"
+url: "/contact/"
+aliases: ["/pages-output/contact/"]
 ---
 ## Addresses
 

@@ -1,7 +1,8 @@
 ---
 title: "Christmas stockings"
 date: "2021-12-14T00:00:00+00:00"
-url: "/posts-output/2021-12-14-christmas-stockings/"
+url: "/posts/2021-12-14-christmas-stockings/"
+aliases: ["/posts-output/2021-12-14-christmas-stockings/"]
 tags: []
 ---
 Your SVP shop, Gifted, will be open after all masses this weekend. It is the last time we will be open this year and still have some Christmas items for sale, along with may other pieces.

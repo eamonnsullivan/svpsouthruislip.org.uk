@@ -1,7 +1,8 @@
 ---
 title: "Opening up"
 date: "2021-05-07T00:00:00+00:00"
-url: "/posts-output/2021-05-07-opening-up/"
+url: "/posts/2021-05-07-opening-up/"
+aliases: ["/posts-output/2021-05-07-opening-up/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -9,6 +10,6 @@ As you know the SVP shop, GIFTED, opened this weekend. Your support was amazing 
 
 As we all start to see some of our restrictions lifting gradually, the SVP is looking forward to getting back to some kind of normal. This would enable us to restart some of our activities.  To do this it would be wonderful to get some new volunteers. If you could see yourself getting involved in any of the SVP activities please come and chat to one of the SVP members and we will tell you all about it.
 
-As always, if you come across anyone in need of our help in the community please do not hesitate to [contact](/pages-output/contact/) your SVP Team and we will do our best to help
+As always, if you come across anyone in need of our help in the community please do not hesitate to [contact](/contact/) your SVP Team and we will do our best to help
 
 God Bless!

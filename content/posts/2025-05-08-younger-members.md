@@ -1,7 +1,8 @@
 ---
 title: "Younger Members"
 date: "2025-05-08T00:00:00+00:00"
-url: "/posts-output/2025-05-08-younger-members/"
+url: "/posts/2025-05-08-younger-members/"
+aliases: ["/posts-output/2025-05-08-younger-members/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -11,6 +12,6 @@ Our parish is blessed to have an SVP Team as well as a B-Attitudes Team (i.e., S
 
 The grown-ups look forward to working with both the B-Attitudes and the Mini-Vinnies in the coming years, such that the parish will always be a beacon of hope for those struggling with the day-to-day challenges of life.
 
-If you are aware of anyone facing such struggles at the moment then please [reach out](/pages-output/contact/) to us for help. We'll always do our best.
+If you are aware of anyone facing such struggles at the moment then please [reach out](/contact/) to us for help. We'll always do our best.
 
 God Bless.

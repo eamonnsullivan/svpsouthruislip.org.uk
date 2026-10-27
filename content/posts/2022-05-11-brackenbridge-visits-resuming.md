@@ -1,7 +1,8 @@
 ---
 title: "Brackenbridge visits resuming"
 date: "2022-05-11T00:00:00+00:00"
-url: "/posts-output/2022-05-11-brackenbridge-visits-resuming/"
+url: "/posts/2022-05-11-brackenbridge-visits-resuming/"
+aliases: ["/posts-output/2022-05-11-brackenbridge-visits-resuming/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -9,4 +10,4 @@ The SVP received some great news this week: Visitors are now welcome again at Br
 
 There is a little bit of sadness in that only two of the residents we visited remain at the home, the rest having passed away. Covid hit them hard.
 
-As always, if you come across anyone who needs help or a visit from an SVP member, please do not hesitate to [contact your SVP team](/pages-output/contact/) and we will do our best to help.
+As always, if you come across anyone who needs help or a visit from an SVP member, please do not hesitate to [contact your SVP team](/contact/) and we will do our best to help.

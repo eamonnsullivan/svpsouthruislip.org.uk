@@ -1,7 +1,8 @@
 ---
 title: "Young volunteers"
 date: "2025-07-10T00:00:00+00:00"
-url: "/posts-output/2025-07-10-young-volunteers/"
+url: "/posts/2025-07-10-young-volunteers/"
+aliases: ["/posts-output/2025-07-10-young-volunteers/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ The school holidays are almost upon us now, so young readers might be wondering 
 
 Think about where you live, and who lives near you. Become actively aware of what is around you and how you might help fix things! Start with small things, like helping an elderly person pack their groceries while you're standing in the queue watching! Say 'Hello' to your neighbours! Say 'Please' and 'Thank You' more often! All these little things can really change the day for the person on the receiving end. And, when you return to school, why not then join, or start, Mini-Vinnies in Primary School or join B-Attitudes here at church if you're in Secondary School. We have recently welcomed, for example, three new 14-year-old volunteers to Saturday foodbank and they are doing a tremendous job for us! Have a think, and spend your free time wisely this summer!!
 
-Finally, please keep an eye out for need around you and just [contact the SVP](/pages-output/contact/) if you think we may be able to help. We'll also do our part in offering Hope.
+Finally, please keep an eye out for need around you and just [contact the SVP](/contact/) if you think we may be able to help. We'll also do our part in offering Hope.
 
 God Bless

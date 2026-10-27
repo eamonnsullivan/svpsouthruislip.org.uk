@@ -1,7 +1,8 @@
 ---
 title: "Thank you!"
 date: "2023-10-12T00:00:00+00:00"
-url: "/posts-output/2023-10-12-a-thank-you/"
+url: "/posts/2023-10-12-a-thank-you/"
+aliases: ["/posts-output/2023-10-12-a-thank-you/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -11,6 +12,6 @@ Secondly, please be aware that next Tuesday, Oct. 17, is the UN International Da
 
 Maybe you'd like to start by joining our team of volunteers? If so, just get in touch!
 
-Finally, as always, please remain sensitively and lovingly alert to need within our community and [contact us](/pages-output/contact/) if you think our help is needed. We will always try our best to help.
+Finally, as always, please remain sensitively and lovingly alert to need within our community and [contact us](/contact/) if you think our help is needed. We will always try our best to help.
 
 God Bless.

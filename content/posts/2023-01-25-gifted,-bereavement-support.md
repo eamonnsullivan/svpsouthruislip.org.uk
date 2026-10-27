@@ -1,7 +1,8 @@
 ---
 title: "Gifted, Bereavement Support, B-Attitudes"
 date: "2023-01-25T00:00:00+00:00"
-url: "/posts-output/2023-01-25-gifted,-bereavement-support/"
+url: "/posts/2023-01-25-gifted,-bereavement-support/"
+aliases: ["/posts-output/2023-01-25-gifted,-bereavement-support/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -13,6 +14,6 @@ The New Year is now moving along and things are getting back to normal for the S
 
 If any of these activities interest you, or indeed if you'd just like to know about the SVP Team and what we do, then just get in touch!
 
-Finally, as always, please remain 'Aware' of need around us and do not hesitate to [contact your SVP Team](/pages-output/contact/) if our help is needed.
+Finally, as always, please remain 'Aware' of need around us and do not hesitate to [contact your SVP Team](/contact/) if our help is needed.
 
 God Bless.

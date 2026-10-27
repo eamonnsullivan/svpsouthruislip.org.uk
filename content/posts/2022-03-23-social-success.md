@@ -1,7 +1,8 @@
 ---
 title: "Social Success"
 date: "2022-03-23T00:00:00+00:00"
-url: "/posts-output/2022-03-23-social-success/"
+url: "/posts/2022-03-23-social-success/"
+aliases: ["/posts-output/2022-03-23-social-success/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -9,4 +10,4 @@ What a great time we had at the St Patrick's Day Bingo evening on Saturday! Ther
 
 The SVP has many other things in the pipeline, so watch the newsletter for the next event in the diary.
 
-We continue to support the community in our many activities. As always, if you come across anyone who needs help, please do not hesitate to [contact us](/pages-output/contact/) and we will do our best to help.
+We continue to support the community in our many activities. As always, if you come across anyone who needs help, please do not hesitate to [contact us](/contact/) and we will do our best to help.

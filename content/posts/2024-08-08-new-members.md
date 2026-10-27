@@ -1,7 +1,8 @@
 ---
 title: "New members"
 date: "2024-08-08T00:00:00+00:00"
-url: "/posts-output/2024-08-08-new-members/"
+url: "/posts/2024-08-08-new-members/"
+aliases: ["/posts-output/2024-08-08-new-members/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ It's always encouraging to know that someone reads our SVP News item each week! 
 
 There is still plenty of space for more new members though, so please just get in touch if you are interested. And particularly so if you are gifted with communication skills in Arabic, Farsi, Polish, Ukrainian or Romanian. We need such skills at our food bank each Saturday and you can just imagine what it would mean to a client whose first language is not English.
 
-Finally, as always, please remain aware of need around us and [just reach out](/pages-output/contact/) if our help is needed. We will always try our best to help.
+Finally, as always, please remain aware of need around us and [just reach out](/contact/) if our help is needed. We will always try our best to help.
 
 God Bless.

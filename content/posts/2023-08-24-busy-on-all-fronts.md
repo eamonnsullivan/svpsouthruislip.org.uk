@@ -1,7 +1,8 @@
 ---
 title: "Busy on all fronts"
 date: "2023-08-24T00:00:00+00:00"
-url: "/posts-output/2023-08-24-busy-on-all-fronts/"
+url: "/posts/2023-08-24-busy-on-all-fronts/"
+aliases: ["/posts-output/2023-08-24-busy-on-all-fronts/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ The SVP team continues to be busy on a number of fronts and we would like to tha
 
 On Friday evening, we held our B-Attitudes monthly meeting and plans are afoot to once again support World Homelessness Day in October -- more to follow! Also, with the start of the school year approaching, we are looking forward to strengthening our links with our Mini-Vinnies in St Swithun Wells. With the guidance of the Holy Spirit, we trust that all three strands of the SVP (adults team, B-Attitudes and Mini-Vinnies) will be able to help the needy amongst us.
 
-It takes a special courage to reach out and ask for help and, because of that, need, and the accompanying suffering, can remain very well hidden. Please remain sensitively and lovingly aware of need within our community and just [get in touch with us](/pages-output/contact/) if you think our help is needed. We will always try our best to help.
+It takes a special courage to reach out and ask for help and, because of that, need, and the accompanying suffering, can remain very well hidden. Please remain sensitively and lovingly aware of need within our community and just [get in touch with us](/contact/) if you think our help is needed. We will always try our best to help.
 
 God Bless.

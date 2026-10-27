@@ -1,7 +1,8 @@
 ---
 title: "Send Us Feedback"
 date: "2020-07-03T00:00:00+00:00"
-url: "/posts-output/2020-07-03-send-us-feedback/"
+url: "/posts/2020-07-03-send-us-feedback/"
+aliases: ["/posts-output/2020-07-03-send-us-feedback/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ Our SVP Monthly Meetings continue online to the usual schedule and that means Ju
 
 Our most active work streams at present include the food bank, bereavement care, phone-buddying and mentoring of the Young Persons SVP. If there are needs that we should be addressing, but that we have not got on our radar, then please do not hesitate to get in touch - it is sometimes difficult to see the bigger picture when you are too close to the detail so, rest assured, we will receive all feedback in a positive light!!
 
-Finally, as always, please remain 'Aware' of need and just [get in touch](/pages-output/contact/) with us if you know of someone who might need the help of the SVP.
+Finally, as always, please remain 'Aware' of need and just [get in touch](/contact/) with us if you know of someone who might need the help of the SVP.
 
 God Bless!

@@ -1,7 +1,8 @@
 ---
 title: "SVP Workstreams"
 date: "2025-07-24T00:00:00+00:00"
-url: "/posts-output/2025-07-24-svp-workstreams/"
+url: "/posts/2025-07-24-svp-workstreams/"
+aliases: ["/posts-output/2025-07-24-svp-workstreams/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ Your SVP team reflects the [mission of the global SVP family](https://svp.org.uk
 
 If one of these activities nudges something within you, then why not consider joining up? New members are always welcome and you'll be joining a wonderful group!
 
-Finally, please keep an eye out for needs around you and [just contact the SVP](/pages-output/contact/) if you think we may be able to help. We'll also do our part in offering Hope.
+Finally, please keep an eye out for needs around you and [just contact the SVP](/contact/) if you think we may be able to help. We'll also do our part in offering Hope.
 
 God Bless.

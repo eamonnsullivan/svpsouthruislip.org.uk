@@ -1,7 +1,8 @@
 ---
 title: "Young volunteers"
 date: "2026-03-12T00:00:00+00:00"
-url: "/posts-output/2026-03-12-young-volunteers/"
+url: "/posts/2026-03-12-young-volunteers/"
+aliases: ["/posts-output/2026-03-12-young-volunteers/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ It is lovely that young people continue to come forward to volunteer at our food
 
 With a team of typically eight young people each Saturday it means we sometimes need additional adult helpers. If you are over 18 years of age and would also like to join the food bank team, or even the SVP Team, then why not get in touch? We have lots of roles, so there will be one that will be the perfect fit for you!!
 
-Finally, as always, please remain aware of need around you and [just contact the SVP](/pages-output/contact/) if you think that we can be of help. We'll always do our best.
+Finally, as always, please remain aware of need around you and [just contact the SVP](/contact/) if you think that we can be of help. We'll always do our best.
 
 God Bless.

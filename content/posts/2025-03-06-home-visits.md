@@ -1,7 +1,8 @@
 ---
 title: "Home visits"
 date: "2025-03-06T00:00:00+00:00"
-url: "/posts-output/2025-03-06-home-visits/"
+url: "/posts/2025-03-06-home-visits/"
+aliases: ["/posts-output/2025-03-06-home-visits/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ The longer evenings are definitely on the way and the positive vibes that accomp
 
 Addressing the issue of loneliness has been at the heart of the SVP since its founding in 1833. If you would like to tackle this issue -- be it by visiting people at home all day, visiting our nearest care homes, visiting the detention centres in our borough, etc. -- then why not get in touch? There are plenty of ways you can help!
 
-Finally, as always, please remain aware of need around us and just [let us know](/pages-output/contact/) if you think the SVP can help. We'll always do our best.
+Finally, as always, please remain aware of need around us and just [let us know](/contact/) if you think the SVP can help. We'll always do our best.
 
 God Bless.

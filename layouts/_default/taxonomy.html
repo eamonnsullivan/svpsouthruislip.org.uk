@@ -1,4 +1,10 @@
 {{ define "main" }}
+{{ if eq .Kind "term" }}
+<header class="list-header"><h1>Posts tagged “{{ .Title }}”</h1></header>
+{{ range (.Paginate .Pages).Pages }}{{ partial "post-card.html" . }}{{ end }}
+{{ partial "pagination.html" . }}
+{{ else }}
 <header class="list-header"><h1>Tags</h1></header>
 <ul class="taxonomy-list">{{ range .Data.Terms.Alphabetical }}<li><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a> ({{ .Count }})</li>{{ end }}</ul>
+{{ end }}
 {{ end }}

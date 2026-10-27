@@ -1,7 +1,8 @@
 ---
 title: "Walking along with suffering"
 date: "2020-12-06T00:00:00+00:00"
-url: "/posts-output/2020-12-06-walking-along-with-suffering/"
+url: "/posts/2020-12-06-walking-along-with-suffering/"
+aliases: ["/posts-output/2020-12-06-walking-along-with-suffering/"]
 author: "Eamonn Sullivan"
 tags: ["refugee", "volunteering", "JRS"]
 ---

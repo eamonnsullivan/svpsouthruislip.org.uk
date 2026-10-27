@@ -1,7 +1,8 @@
 ---
 title: "Translators needed"
 date: "2024-08-01T00:00:00+00:00"
-url: "/posts-output/2024-08-01-translators-needed/"
+url: "/posts/2024-08-01-translators-needed/"
+aliases: ["/posts-output/2024-08-01-translators-needed/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ tags: []
 
 This brings challenges and exposes weaknesses. Probably our biggest weakness at the moment is our lack of language skills. Are you able to communicate in Arabic, Farsi, Polish, Ukrainian or Romanian? And would you like to volunteer at our food bank? You do not need to commit to every Saturday, but if you could help out, even a little, then that would be a huge help to our clients, and to us! Why not have a think and then just reach out to us! We'd love to hear from you.
 
-Finally, as always, please remain aware of need around us and [just reach out](/pages-output/contact/) if our help is needed. We will always try our best to help.
+Finally, as always, please remain aware of need around us and [just reach out](/contact/) if our help is needed. We will always try our best to help.
 
 God Bless.

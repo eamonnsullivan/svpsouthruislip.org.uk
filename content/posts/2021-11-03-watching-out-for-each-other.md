@@ -1,7 +1,8 @@
 ---
 title: "Watching out for each other"
 date: "2021-11-03T00:00:00+00:00"
-url: "/posts-output/2021-11-03-watching-out-for-each-other/"
+url: "/posts/2021-11-03-watching-out-for-each-other/"
+aliases: ["/posts-output/2021-11-03-watching-out-for-each-other/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -9,4 +10,4 @@ As the nights draw in and the weather is getting colder, please remember to keep
 
 The SVP can help with visits, phone calls or even getting shopping or a prescription. If there is something we can do to help, no matter how big or small, we will do our best to assist.
 
-If you come across anyone who needs help, please do not hesitate to [contact your SVP Team](/pages-output/contact/) and we will do our best to help.
+If you come across anyone who needs help, please do not hesitate to [contact your SVP Team](/contact/) and we will do our best to help.

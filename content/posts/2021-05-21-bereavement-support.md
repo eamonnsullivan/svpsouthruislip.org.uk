@@ -1,7 +1,8 @@
 ---
 title: "Bereavement support reopening in person"
 date: "2021-05-21T00:00:00+00:00"
-url: "/posts-output/2021-05-21-bereavement-support/"
+url: "/posts/2021-05-21-bereavement-support/"
+aliases: ["/posts-output/2021-05-21-bereavement-support/"]
 author: "Tracy Tierney"
 tags: ["bereavement"]
 ---
@@ -11,6 +12,6 @@ The pandemic put paid to our meetings in the hall. However, the bereavement team
 
 As some pandemic restrictions are lifted, the SVP are pleased to announce that we can reopen our bereavement care group in the church hall on the first Wednesday of every month, starting June 2, from 10:30 to noon. Please come and join us for a cup of tea or coffee and a chat!
 
-As always, if you come across anyone in need of our help in the community please do not hesitate to [contact](/pages-output/contact/) your SVP Team and we will do our best to help
+As always, if you come across anyone in need of our help in the community please do not hesitate to [contact](/contact/) your SVP Team and we will do our best to help
 
 God Bless!

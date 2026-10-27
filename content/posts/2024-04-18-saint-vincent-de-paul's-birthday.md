@@ -1,7 +1,8 @@
 ---
 title: "Saint Vincent de Paul's birthday"
 date: "2024-04-18T00:00:00+00:00"
-url: "/posts-output/2024-04-18-saint-vincent-de-paul's-birthday/"
+url: "/posts/2024-04-18-saint-vincent-de-paul's-birthday/"
+aliases: ["/posts-output/2024-04-18-saint-vincent-de-paul's-birthday/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ Birthdays come around quicker and quicker, it seems, and on Wednesday we are ble
 
 So, the SVP Team, and all SVP Teams, have two amazing role models to look towards when dealing with the very same issues of poverty and hunger today. As in 1581 and 1833, these issues continue to challenge, and as a corollary, provide opportunity: an opportunity to allow the Holy Spirit work through us and show the Love of God to others.
 
-As always, please remain aware of need around us and [just reach](/pages-output/contact/) if our help is needed. We will always try our best to help.
+As always, please remain aware of need around us and [just reach](/contact/) if our help is needed. We will always try our best to help.
 
 God Bless.

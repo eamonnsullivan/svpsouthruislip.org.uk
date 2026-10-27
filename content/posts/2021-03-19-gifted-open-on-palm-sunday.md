@@ -1,7 +1,8 @@
 ---
 title: "Gifted open on Palm Sunday"
 date: "2021-03-19T00:00:00+00:00"
-url: "/posts-output/2021-03-19-gifted-open-on-palm-sunday/"
+url: "/posts/2021-03-19-gifted-open-on-palm-sunday/"
+aliases: ["/posts-output/2021-03-19-gifted-open-on-palm-sunday/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ One of our new initiatives for 2021 has been the launch of Gifted, our religious
 
 As the first Sunday of April is Easter, the pinnacle of the Church year, we are going to move Gifted to Palm Sunday instead. If you are looking for Easter cards, or beautiful religious gifts such as rosary beads, crucifixes, medals, candles etc. then look no further than Gifted!!
 
-Finally, as always, please remain 'Aware' of need around us and please do not hesitate to [contact](/pages-output/contact/) your SVP team if our help is needed.
+Finally, as always, please remain 'Aware' of need around us and please do not hesitate to [contact](/contact/) your SVP team if our help is needed.
 
 God Bless!

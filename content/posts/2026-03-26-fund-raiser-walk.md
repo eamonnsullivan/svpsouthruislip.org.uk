@@ -1,7 +1,8 @@
 ---
 title: "Fund raiser walk"
 date: "2026-03-26T00:00:00+00:00"
-url: "/posts-output/2026-03-26-fund-raiser-walk/"
+url: "/posts/2026-03-26-fund-raiser-walk/"
+aliases: ["/posts-output/2026-03-26-fund-raiser-walk/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ Two of our team, Tracy and Debbie, are raising funds for the national SVP organi
 
 Our parish-based SVP team is 10 years old this April so the fundraising is a lovely way to "give back" to the national SVP. Please keep them in your prayers as they prepare for, and complete, the Camino!!
 
-Finally, as always, please remain aware of need around you and just [contact the SVP](/pages-output/contact/) if you think that we can be of help. We'll always do our best.
+Finally, as always, please remain aware of need around you and just [contact the SVP](/contact/) if you think that we can be of help. We'll always do our best.
 
 God Bless.

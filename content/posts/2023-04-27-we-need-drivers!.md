@@ -1,7 +1,8 @@
 ---
 title: "We need drivers!"
 date: "2023-04-27T00:00:00+00:00"
-url: "/posts-output/2023-04-27-we-need-drivers!/"
+url: "/posts/2023-04-27-we-need-drivers!/"
+aliases: ["/posts-output/2023-04-27-we-need-drivers!/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ The SVP Team always receives tremendous support from the parish and the wider co
 
 Experience from last year showed that the shopping trolleys soon fill up, as customers buy something in the shop and then put it in the trolley on the way out. We therefore need some drivers over the three days who are willing to bring the shopping trolley supplies from Waitrose back to the church hall.
 
-If you have transport, and can spare an hour that weekend, then can you please [contact us](/pages-output/contact/). The more drivers, the less effort for each one!
+If you have transport, and can spare an hour that weekend, then can you please [contact us](/contact/). The more drivers, the less effort for each one!
 
 God Bless.

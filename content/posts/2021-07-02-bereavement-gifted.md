@@ -1,7 +1,8 @@
 ---
 title: "Bereavement care group, Gifted"
 date: "2021-07-02T00:00:00+00:00"
-url: "/posts-output/2021-07-02-bereavement-gifted/"
+url: "/posts/2021-07-02-bereavement-gifted/"
+aliases: ["/posts-output/2021-07-02-bereavement-gifted/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -9,6 +10,6 @@ The Bereavement Care group will be open as usual in the church hall this Wednesd
 
 Gifted, our SVP group's religious items shop, is also open for business this weekend. You will find us at the back of the church, in the porch, with a selection of candles, statues, rosary beads and much more. If there is something you are looking for and we do not have it, please have a chat to us and we will do our best to source it for you.
 
-As always, if you come across anyone in need of our help in the community please  do not hesitate to [contact](/pages-output/contact/) your SVP Team and we will do our best to help.
+As always, if you come across anyone in need of our help in the community please  do not hesitate to [contact](/contact/) your SVP Team and we will do our best to help.
 
 God Bless, Tracy

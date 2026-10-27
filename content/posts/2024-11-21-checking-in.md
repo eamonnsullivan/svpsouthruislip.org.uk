@@ -1,7 +1,8 @@
 ---
 title: "Checking in"
 date: "2024-11-21T00:00:00+00:00"
-url: "/posts-output/2024-11-21-checking-in/"
+url: "/posts/2024-11-21-checking-in/"
+aliases: ["/posts-output/2024-11-21-checking-in/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ With the noticeable shortening of the days, and the recent cold snap in the weat
 
 Loneliness is a national, actually a universal, problem so if you'd like to get more involved in addressing it just contact the SVP team or even check out https://www.campaigntoendloneliness.org/ and let the Holy Spirit guide you!
 
-Finally, as always, please remain aware of other needs around us too and just [reach out](/pages-output/contact/) if our help is needed. We will always try our best to help.
+Finally, as always, please remain aware of other needs around us too and just [reach out](/contact/) if our help is needed. We will always try our best to help.
 
 God Bless.

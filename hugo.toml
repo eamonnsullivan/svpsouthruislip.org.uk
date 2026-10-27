@@ -13,9 +13,9 @@ enableRobotsTXT = true
 
 [permalinks]
   [permalinks.taxonomy]
-    tags = "/tags-output/"
+    tags = "/tags/"
   [permalinks.term]
-    tags = "/tags-output/:slug/"
+    tags = "/tags/:slug/"
 
 [outputs]
   home = ["HTML", "RSS"]

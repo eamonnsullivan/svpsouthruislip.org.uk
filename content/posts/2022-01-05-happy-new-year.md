@@ -1,7 +1,8 @@
 ---
 title: "Happy New Year"
 date: "2022-01-05T00:00:00+00:00"
-url: "/posts-output/2022-01-05-happy-new-year/"
+url: "/posts/2022-01-05-happy-new-year/"
+aliases: ["/posts-output/2022-01-05-happy-new-year/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -11,4 +12,4 @@ As I look back to what St Gregory's SVP and B-Attitudes achieved last year while
 
 Our food bank has continued throughout the restrictions and we're now adding a new service: The Disablement Association of Hillingdon (DASH) has launched a new project, funded by the Greater London Authority, to tackle poverty and hardship for people living in our borough. A representative will join us at the food bank on the first Saturday of the month, offering advice and support with issues such as benefits, debt management, immigration and housing difficulties.
 
-As always if you come across anyone in need, please do not hesitate to [contact your SVP Team](/pages-output/contact/) and we will do our best to help.
+As always if you come across anyone in need, please do not hesitate to [contact your SVP Team](/contact/) and we will do our best to help.

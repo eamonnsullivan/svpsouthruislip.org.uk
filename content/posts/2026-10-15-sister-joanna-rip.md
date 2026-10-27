@@ -1,7 +1,8 @@
 ---
 title: "Sister Joanna RIP"
 date: "2026-10-15T00:00:00+00:00"
-url: "/posts-output/2026-10-15-sister-joanna-rip/"
+url: "/posts/2026-10-15-sister-joanna-rip/"
+aliases: ["/posts-output/2026-10-15-sister-joanna-rip/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -12,6 +13,6 @@ As well as helping us spiritually, she also helped us in so many material ways: 
 
 Sr. Joanna was a rock for us and we would like to express our sincere condolences to her family and friends. Rest in peace, Sr. Joanna. We all love you. 
 
-Finally, as always, please remain aware of need in our community and just [contact us](/pages-output/contact/) if you think the SVP can be of help. We'll always do our best. 
+Finally, as always, please remain aware of need in our community and just [contact us](/contact/) if you think the SVP can be of help. We'll always do our best.
 
 God bless.

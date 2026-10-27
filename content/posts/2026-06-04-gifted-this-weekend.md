@@ -1,7 +1,8 @@
 ---
 title: "Gifted this weekend"
 date: "2026-06-04T00:00:00+00:00"
-url: "/posts-output/2026-06-04-gifted-this-weekend/"
+url: "/posts/2026-06-04-gifted-this-weekend/"
+aliases: ["/posts-output/2026-06-04-gifted-this-weekend/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ This Sunday is the first of the month, which is when we open our SVP shop, known
 
 And, given that we are still in Volunteers' Week, if you would like to help us run Gifted then you can have a chat about that with us also!
 
-Finally, as always, please keep an eye on neighbours who may be vulnerable and, please, just [contact the SVP](/pages-output/contact/) if you think that we can be of help. We'll always do our best.
+Finally, as always, please keep an eye on neighbours who may be vulnerable and, please, just [contact the SVP](/contact/) if you think that we can be of help. We'll always do our best.
 
 God Bless.

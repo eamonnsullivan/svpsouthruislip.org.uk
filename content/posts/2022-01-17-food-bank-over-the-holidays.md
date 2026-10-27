@@ -1,7 +1,8 @@
 ---
 title: "Food bank over the holidays"
 date: "2022-01-17T00:00:00+00:00"
-url: "/posts-output/2022-01-17-food-bank-over-the-holidays/"
+url: "/posts/2022-01-17-food-bank-over-the-holidays/"
+aliases: ["/posts-output/2022-01-17-food-bank-over-the-holidays/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -13,4 +14,4 @@ Our normal opening day is Saturday, so we were closed for Christmas and New Year
 
 We are now back to normal and as busy as ever. Every week we update a list of needs on the notice board in the parish porch. Your continued support is much appreciated.
 
-As always if you come across anyone in need, please do not hesitate to [contact your SVP team](/pages-output/contact/) and we will do our best to help.
+As always if you come across anyone in need, please do not hesitate to [contact your SVP team](/contact/) and we will do our best to help.

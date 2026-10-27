@@ -1,7 +1,8 @@
 ---
 title: "Keeping Young People on Track"
 date: "2024-06-20T00:00:00+00:00"
-url: "/posts-output/2024-06-20-keeping-young-people-on-track/"
+url: "/posts/2024-06-20-keeping-young-people-on-track/"
+aliases: ["/posts-output/2024-06-20-keeping-young-people-on-track/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -11,6 +12,6 @@ One long-term solution could be the SVP groups specifically aimed at nurturing y
 
 So, now that you are aware of these groups, why not suggest them to your youngsters! And, then, let the Holy Spirit do the rest!
 
-Finally, as always, please remain aware of need around us and [just reach out](/pages-output/contact/) if our help is needed. We will always try our best to help.
+Finally, as always, please remain aware of need around us and [just reach out](/contact/) if our help is needed. We will always try our best to help.
 
 God Bless.

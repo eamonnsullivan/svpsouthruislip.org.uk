@@ -1,7 +1,8 @@
 ---
 title: "Young Persons SVP"
 date: "2020-04-25T00:00:00+00:00"
-url: "/posts-output/2020-04-25-young-persons-svp/"
+url: "/posts/2020-04-25-young-persons-svp/"
+aliases: ["/posts-output/2020-04-25-young-persons-svp/"]
 author: "Paul O'Regan"
 tags: ["youth", "social justice"]
 ---
@@ -9,8 +10,8 @@ Last Thursday was the birthday of [Blessed Frederic Ozanam](https://en.wikipedia
 
 Earlier this year, we were blessed with the coming together of similar (and younger) students in *our* parish, who also wanted to do *their* part in addressing the social justice issues of *their* time. This team, which we call the "Young Persons SVP," is now 12-strong and is mentored by some SVP members.
 
-Please remember Blessed Frederic, and our young members, in your prayers and please thank God for blessing us with such wonderful new friends. Some of you may already know them as they have being helping with home deliveries and [Foodbank](/pages-output/foodbank/) duties during the pandemic so please say hello to them the next time you see them. They can be a bit shy!!
+Please remember Blessed Frederic, and our young members, in your prayers and please thank God for blessing us with such wonderful new friends. Some of you may already know them as they have being helping with home deliveries and [Foodbank](/foodbank/) duties during the pandemic so please say hello to them the next time you see them. They can be a bit shy!!
 
-As ever, a huge thank you for your ongoing support and please remember last week's task: [let us know](/pages-output/contact/) if there are any vulnerable people missing out on our help. We're never quite sure if we've got everyone covered, so your local knowledge would be much appreciated.
+As ever, a huge thank you for your ongoing support and please remember last week's task: [let us know](/contact/) if there are any vulnerable people missing out on our help. We're never quite sure if we've got everyone covered, so your local knowledge would be much appreciated.
 
 God Bless!

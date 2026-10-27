@@ -1,7 +1,8 @@
 ---
 title: "Compassion and care"
 date: "2023-11-16T00:00:00+00:00"
-url: "/posts-output/2023-11-16-compassion-and-care/"
+url: "/posts/2023-11-16-compassion-and-care/"
+aliases: ["/posts-output/2023-11-16-compassion-and-care/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ If you browse the [Saint Vincent de Paul headquarters website](https://svp.org.u
 
 As we now begin preparations to celebrate the birth of the Prince of Peace, Christ our Lord, let us reclaim and take personal ownership of these two words of peace. Let's introduce them, and associated actions, into our daily vocabulary and interactions with our friends and communities. Then, just let the Holy Spirit do the rest.
 
-To close, as ever, please remain sensitively and lovingly aware of need within our community and just [get in touch with us](/pages-output/contact/) if you think our help is needed. We will always try our best to help.
+To close, as ever, please remain sensitively and lovingly aware of need within our community and just [get in touch with us](/contact/) if you think our help is needed. We will always try our best to help.
 
 God Bless.

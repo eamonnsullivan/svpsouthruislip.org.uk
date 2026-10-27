@@ -1,7 +1,8 @@
 ---
 title: "Welcoming the New Year"
 date: "2021-01-08T00:00:00+00:00"
-url: "/posts-output/2021-01-08-welcoming-the-new-year/"
+url: "/posts/2021-01-08-welcoming-the-new-year/"
+aliases: ["/posts-output/2021-01-08-welcoming-the-new-year/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -11,6 +12,6 @@ We held our January monthly meeting on Monday evening and, once again, it was a 
 
 This time of year is very busy for the food bank and we are very grateful for all your help with donations, especially the cup-a-soups -- a warm drink is worth its weight in gold on these cold Saturdays!
 
-Finally, as always, please remain 'Aware' of need around us and if the help of your SVP Team is needed then [contact us](/pages-output/contact/).
+Finally, as always, please remain 'Aware' of need around us and if the help of your SVP Team is needed then [contact us](/contact/).
 
 God Bless!

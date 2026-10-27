@@ -1,7 +1,8 @@
 ---
 title: "Cream teas"
 date: "2023-07-06T00:00:00+00:00"
-url: "/posts-output/2023-07-06-cream-teas/"
+url: "/posts/2023-07-06-cream-teas/"
+aliases: ["/posts-output/2023-07-06-cream-teas/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ We are holding our annual Cream Teas & Raffle Afternoon at 3pm to 5pm on Saturda
 
 Remember, this event is for everyone -- you, your family and friends and your neighbours, who may never have even heard of the SVP. The Holy Spirit works in mysterious ways, so why not spread the word far and wide and let the Holy Spirit do the rest!
 
-Finally, as always, please remain aware of need around us and do not hesitate to [contact your SVP Team](/pages-output/contact/) if our help is needed. We will always try our best to help.
+Finally, as always, please remain aware of need around us and do not hesitate to [contact your SVP Team](/contact/) if our help is needed. We will always try our best to help.
 
 God Bless.

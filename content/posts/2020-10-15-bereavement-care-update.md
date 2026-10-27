@@ -1,14 +1,15 @@
 ---
 title: "Bereavement Care Update"
 date: "2020-10-15T00:00:00+00:00"
-url: "/posts-output/2020-10-15-bereavement-care-update/"
+url: "/posts/2020-10-15-bereavement-care-update/"
+aliases: ["/posts-output/2020-10-15-bereavement-care-update/"]
 author: "Paul O'Regan"
 tags: ["bereavement"]
 ---
-In this SVP Awareness month, and indeed since the pandemic started, the SVP has tried to 'Rise to the Challenge' and keep its activities going. Our food bank and home deliveries are some visible examples of this, but our [Bereavement Care](/pages-output/bereavement/) group have also been very busy. So much so, that we now have a dedicated phone number for this group, 07562 412 986.
+In this SVP Awareness month, and indeed since the pandemic started, the SVP has tried to 'Rise to the Challenge' and keep its activities going. Our food bank and home deliveries are some visible examples of this, but our [Bereavement Care](/bereavement/) group have also been very busy. So much so, that we now have a dedicated phone number for this group, 07562 412 986.
 
 Please share this number among your friends and family, as you can never be sure where the need exists. Thank you in advance.
 
-Finally, please remain aware of need and if the help of the SVP is needed then please [let us know](/pages-output/contact/).
+Finally, please remain aware of need and if the help of the SVP is needed then please [let us know](/contact/).
 
 God Bless!

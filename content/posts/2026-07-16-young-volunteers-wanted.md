@@ -1,7 +1,8 @@
 ---
 title: "Young volunteers wanted"
 date: "2026-07-16T00:00:00+00:00"
-url: "/posts-output/2026-07-16-young-volunteers-wanted/"
+url: "/posts/2026-07-16-young-volunteers-wanted/"
+aliases: ["/posts-output/2026-07-16-young-volunteers-wanted/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -11,6 +12,6 @@ If this kind of group interests you, please contact the SVP or chat to any of us
 
 Put your thinking caps on, bring your ideas, and get in touch -- we look forward to hearing from you!
 
-Finally, as always, please remain aware of those in need in our community and [contact us](/pages-output/contact/) if you think the SVP can help. We'll always do our best.
+Finally, as always, please remain aware of those in need in our community and [contact us](/contact/) if you think the SVP can help. We'll always do our best.
 
 God bless.

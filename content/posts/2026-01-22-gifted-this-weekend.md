@@ -1,7 +1,8 @@
 ---
 title: "Gifted this weekend"
 date: "2026-01-22T00:00:00+00:00"
-url: "/posts-output/2026-01-22-gifted-this-weekend/"
+url: "/posts/2026-01-22-gifted-this-weekend/"
+aliases: ["/posts-output/2026-01-22-gifted-this-weekend/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ Our SVP fund raising shop, known as 'Gifted', will make its first appearance of 
 
 Following on from last week's SVP News item, another two brilliant Duke of Edinburgh (DoE) volunteers joined us at the food bank on Saturday, bringing the total to six new young DoE volunteers since the start of January. It is clear that the Holy Spirit continues to work incredibly hard in our parish. What a blessing that is!
 
-Finally, as always, please remain aware of need around you and [just contact the SVP](/pages-output/contact/) if you think that we can be of help. We'll always do our best.
+Finally, as always, please remain aware of need around you and [just contact the SVP](/contact/) if you think that we can be of help. We'll always do our best.
 
 God Bless.

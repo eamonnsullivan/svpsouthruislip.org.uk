@@ -1,7 +1,8 @@
 ---
 title: "Welcome back!"
 date: "2026-08-27T00:00:00+00:00"
-url: "/posts-output/2026-08-27-welcome-back/"
+url: "/posts/2026-08-27-welcome-back/"
+aliases: ["/posts-output/2026-08-27-welcome-back/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -11,6 +12,6 @@ September can be busy and, looking at the SVP agenda, it is certainly shaping up
 
 Alongside these events, we will continue our regular visits to people in their homes, care homes and the refugee detention centre, as well as running our weekly food bank. If you would like to help with any of these initiatives, please don't hesitate to speak with us. 
 
-Finally, as always, please remain aware of people in need in our community and [contact us](/pages-output/contact/) if you think the SVP can help. We'll always do our best.
+Finally, as always, please remain aware of people in need in our community and [contact us](/contact/) if you think the SVP can help. We'll always do our best.
 
 God bless.

@@ -1,7 +1,8 @@
 ---
 title: "Summer activities"
 date: "2026-07-23T00:00:00+00:00"
-url: "/posts-output/2026-07-23-summer-activities/"
+url: "/posts/2026-07-23-summer-activities/"
+aliases: ["/posts-output/2026-07-23-summer-activities/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -21,7 +22,7 @@ please do not hesitate to chat with any of us when you see us. You're
 guaranteed to find a listening ear!
 
 Finally, as always, please remain aware of needs in our community and
-just [contact us](/pages-output/contact/) if you think the SVP
+just [contact us](/contact/) if you think the SVP
 can be of help. We'll always do our best.
 
 God bless.

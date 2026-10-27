@@ -19,4 +19,6 @@ jobs:
         hugo-version: '0.165.0'
         extended: true
     - name: Run strict Hugo build
-      run: hugo --gc --minify --panicOnWarning --printPathWarnings
+      run: hugo --gc --minify --cleanDestinationDir --panicOnWarning --printPathWarnings
+    - name: Check URLs and legacy redirects
+      run: python3 -m unittest discover -s tests -v

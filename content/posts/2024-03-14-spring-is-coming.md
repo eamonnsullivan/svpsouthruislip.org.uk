@@ -1,7 +1,8 @@
 ---
 title: "Spring is coming"
 date: "2024-03-14T00:00:00+00:00"
-url: "/posts-output/2024-03-14-spring-is-coming/"
+url: "/posts/2024-03-14-spring-is-coming/"
+aliases: ["/posts-output/2024-03-14-spring-is-coming/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ Next Thursday, March 21, marks the Spring equinox, from which point the days bec
 
 If any of these aspects of social justice touch a chord within you, and if you are feeling re-energised by the returning Spring, then why not get in touch with us? New members are the lifeblood of any group, keeping it fresh and sustainable, so don't be shy if you'd like to find out more!
 
-Finally, as always, please remain aware of need around us and [just reach out to us](/pages-output/contact/) if our help is needed. We will always try our best to help.
+Finally, as always, please remain aware of need around us and [just reach out to us](/contact/) if our help is needed. We will always try our best to help.
 
 God Bless.

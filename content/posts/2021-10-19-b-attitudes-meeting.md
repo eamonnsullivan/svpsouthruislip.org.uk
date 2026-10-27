@@ -1,7 +1,8 @@
 ---
 title: "B-Attitudes meeting"
 date: "2021-10-19T00:00:00+00:00"
-url: "/posts-output/2021-10-19-b-attitudes-meeting/"
+url: "/posts/2021-10-19-b-attitudes-meeting/"
+aliases: ["/posts-output/2021-10-19-b-attitudes-meeting/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -9,6 +10,6 @@ Our B-Attitude group will be meeting again on Friday, Oct. 29, at 5pm in the chu
 
 If you and your friends would like to join us, please come along to the meeting and see what we are all about. The group is for young people of high school age. We look forward to welcoming any new members.
 
-As always, if you come across anyone in need of our help in the community, please do not hesitate to [contact your SVP Team](/pages-output/contact/) and we will do our best to help.
+As always, if you come across anyone in need of our help in the community, please do not hesitate to [contact your SVP Team](/contact/) and we will do our best to help.
 
 God Bless!

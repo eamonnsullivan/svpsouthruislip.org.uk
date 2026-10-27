@@ -1,7 +1,8 @@
 ---
 title: "Bake sale for Brackenbridge House Care Home and Mary's Meals"
 date: "2023-05-06T00:00:00+00:00"
-url: "/posts-output/2023-05-06-b-attitude-bake-sale/"
+url: "/posts/2023-05-06-b-attitude-bake-sale/"
+aliases: ["/posts-output/2023-05-06-b-attitude-bake-sale/"]
 author: "Alexander"
 tags: []
 ---

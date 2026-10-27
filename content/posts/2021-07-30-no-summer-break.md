@@ -1,7 +1,8 @@
 ---
 title: "No summer break"
 date: "2021-07-30T00:00:00+00:00"
-url: "/posts-output/2021-07-30-no-summer-break/"
+url: "/posts/2021-07-30-no-summer-break/"
+aliases: ["/posts-output/2021-07-30-no-summer-break/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -9,6 +10,6 @@ As we all start to enjoy the summer holidays I wanted to let you know that the S
 
 The SVP shop, GIFTED, is open after all masses this weekend at the back of the church in the porch. The food bank remains open every Saturday between noon and 2pm, for all those in need of help with food. The Bereavement Care team with be available to meet over a cup of tea or coffee on Wednesday, Aug. 4. Home visits will also continue. Even the refugee detention centres near Heathrow are now allowing some face-to-face visits.
 
-If any of these activities interest you, and you'd like to learn more about them, please [get in touch](/pages-output/contact/).
+If any of these activities interest you, and you'd like to learn more about them, please [get in touch](/contact/).
 
 God bless!

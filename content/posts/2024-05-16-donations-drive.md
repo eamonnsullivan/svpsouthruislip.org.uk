@@ -1,7 +1,8 @@
 ---
 title: "Donations Drive"
 date: "2024-05-16T00:00:00+00:00"
-url: "/posts-output/2024-05-16-donations-drive/"
+url: "/posts/2024-05-16-donations-drive/"
+aliases: ["/posts-output/2024-05-16-donations-drive/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ We'd like to thank everyone who continues to donate food to the food bank via ou
 
 Next weekend, May 24-26, we are doing a donations drive at Waitrose in Ruislip, who do some fantastic community outreach throughout the year. If you see us at the main shop entrance in the carpark on those days, then why not stop and say hello? We'd love to see some familiar faces!
 
-Finally, as always, please remain aware of need around us and [just reach out](/pages-output/contact/) if our help is needed. We will always try our best to help.
+Finally, as always, please remain aware of need around us and [just reach out](/contact/) if our help is needed. We will always try our best to help.
 
 God Bless.

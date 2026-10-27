@@ -1,7 +1,8 @@
 ---
 title: "Bingo evening, food bank support"
 date: "2026-03-05T00:00:00+00:00"
-url: "/posts-output/2026-03-05-bingo-evening,-food-bank-support/"
+url: "/posts/2026-03-05-bingo-evening,-food-bank-support/"
+aliases: ["/posts-output/2026-03-05-bingo-evening,-food-bank-support/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ Thank you once again for your support of 'Gifted' last weekend and for the upcom
 
 A thank you, also, to everyone who continues to donate to the food bank. It is as busy as ever each Saturday and your help is always gratefully received by our clients.
 
-Finally, as always, please remain aware of need around you and [just contact the SVP](/pages-output/contact/) if you think that we can be of help. We'll always do our best.
+Finally, as always, please remain aware of need around you and [just contact the SVP](/contact/) if you think that we can be of help. We'll always do our best.
 
 God Bless.

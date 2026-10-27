@@ -1,7 +1,8 @@
 ---
 title: "Christmas by Candlelight"
 date: "2025-11-27T00:00:00+00:00"
-url: "/posts-output/2025-11-27-christmas-by-candlelight/"
+url: "/posts/2025-11-27-christmas-by-candlelight/"
+aliases: ["/posts-output/2025-11-27-christmas-by-candlelight/"]
 author: "Paul O'Regan and Tracy Tierney"
 tags: []
 ---
@@ -20,7 +21,7 @@ your family and friends to join us for what promises to be a joyful
 and festive evening.
 
 Finally, please keep an eye out for needs around you and just [contact
-the SVP](/pages-output/contact/) if you think that we can be of
+the SVP](/contact/) if you think that we can be of
 help. We'll also do our best.
 
 God Bless.

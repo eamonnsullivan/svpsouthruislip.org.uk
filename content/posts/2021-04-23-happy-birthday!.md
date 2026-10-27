@@ -1,7 +1,8 @@
 ---
 title: "Special birthdays"
 date: "2021-04-23T00:00:00+00:00"
-url: "/posts-output/2021-04-23-happy-birthday!/"
+url: "/posts/2021-04-23-happy-birthday!/"
+aliases: ["/posts-output/2021-04-23-happy-birthday!/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ This weekend marks some major birthdays for the SVP! Tomorrow is the birthday of
 
 In 1833, when the Holy Spirit moved Blessed Frederic to address the issues of hunger, poverty, homelessness and illness around the Sorbonne University in Paris, he assembled a group of friends together to help him answer the call. He named this group after St Vincent de Paul, who is the patron saint of charity.
 
-Today, the SVP thrives throughout the world, including here at St Gregory the Great Parish, South Ruislip!! Please give thanks to God for the gifts of the souls of St Vincent de Paul and Blessed Frederic and for their legacies. And, if you see issues of hunger, poverty, homelessness and illness within our community then please do not hesitate to [contact](/pages-output/contact/) your SVP Team and we will do our best to help.
+Today, the SVP thrives throughout the world, including here at St Gregory the Great Parish, South Ruislip!! Please give thanks to God for the gifts of the souls of St Vincent de Paul and Blessed Frederic and for their legacies. And, if you see issues of hunger, poverty, homelessness and illness within our community then please do not hesitate to [contact](/contact/) your SVP Team and we will do our best to help.
 
 God Bless!

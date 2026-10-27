@@ -20,7 +20,9 @@ jobs:
         hugo-version: '0.165.0'
         extended: true
     - name: Build
-      run: hugo --gc --minify
+      run: hugo --gc --minify --cleanDestinationDir --panicOnWarning --printPathWarnings
+    - name: Check URLs and legacy redirects
+      run: python3 -m unittest discover -s tests -v
     - name: Configure AWS Credentials
       uses: aws-actions/configure-aws-credentials@cbe3b392738ccf3f987d68400dafcf4b0624a56c # v6.2.4
       with:

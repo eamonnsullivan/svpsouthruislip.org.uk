@@ -1,7 +1,8 @@
 ---
 title: "Turning concern into action"
 date: "2022-11-24T00:00:00+00:00"
-url: "/posts-output/2022-11-24-turning-concern-into-action/"
+url: "/posts/2022-11-24-turning-concern-into-action/"
+aliases: ["/posts-output/2022-11-24-turning-concern-into-action/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ As we enter the beautiful, expectant season of Advent, it is all action in the S
 
 The SVP is about 'Turning Concern into Action.' Our fabulous teams of SVP and B-Attitude volunteers epitomise this. If it appeals to you, then why not consider joining us? As mentioned last week, it's never too early to start your New Year's Resolution!
 
-Finally, as ever, please remain 'Aware' of need around us and do not hesitate to [contact your SVP Team](/pages-output/contact/) if our help is needed.
+Finally, as ever, please remain 'Aware' of need around us and do not hesitate to [contact your SVP Team](/contact/) if our help is needed.
 
 God Bless.

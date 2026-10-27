@@ -1,7 +1,8 @@
 ---
 title: "The food bank through the pandemic"
 date: "2021-05-15T00:00:00+00:00"
-url: "/posts-output/2021-05-15-food-bank-pandemic/"
+url: "/posts/2021-05-15-food-bank-pandemic/"
+aliases: ["/posts-output/2021-05-15-food-bank-pandemic/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -11,6 +12,6 @@ There are two sides to the food bank at St Gregory's: On one side, the SVP are a
 
 Last weekend we sent food home for 61 families, made up of 132 adults and 111 children. Two dozen families received food from Hillingdon Foodbank and 37 families from St Gregory's food bank
 
-As always, if you come across anyone in need of our help in the community please do not hesitate to [contact](/pages-output/contact/) your SVP Team and we will do our best to help
+As always, if you come across anyone in need of our help in the community please do not hesitate to [contact](/contact/) your SVP Team and we will do our best to help
 
 God Bless!

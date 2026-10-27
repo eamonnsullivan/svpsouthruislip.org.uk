@@ -1,7 +1,8 @@
 ---
 title: "Need a few men and vans"
 date: "2023-02-16T00:00:00+00:00"
-url: "/posts-output/2023-02-16-need-a-few-men-and-vans/"
+url: "/posts/2023-02-16-need-a-few-men-and-vans/"
+aliases: ["/posts-output/2023-02-16-need-a-few-men-and-vans/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ One of the blessings of being able to help those in need is that you meet wonder
 
 One area we struggle with, though, is the practicality of joining the dots -- e.g., arranging transport to pick up a donation of a bed or a table and delivering that to the person in need. If you are able to help, can you please make contact with us? Ideally, we would have a bank of transporters so that the burden can be shared. Please consider this request and respond as you can. You will find it very rewarding.
 
-Finally, as always, please remain 'Aware' of need around us and do not hesitate to [contact your SVP Team](/pages-output/contact/) if our help is needed.
+Finally, as always, please remain 'Aware' of need around us and do not hesitate to [contact your SVP Team](/contact/) if our help is needed.
 
 God Bless.

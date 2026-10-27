@@ -1,7 +1,8 @@
 ---
 title: "B-Attitudes"
 date: "2026-05-10T00:00:00+00:00"
-url: "/posts-output/2026-05-10-b-attitudes/"
+url: "/posts/2026-05-10-b-attitudes/"
+aliases: ["/posts-output/2026-05-10-b-attitudes/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ Our parish is blessed to have a young persons' SVP Group, officially known as th
 
 If any young people, 14 to 18 years old, have free time after the exams, and want to do something useful, then why not get in touch!!
 
-Finally, as always, please remain aware of need around you and just [contact the SVP](/pages-output/contact/) if you think that we can be of help. We'll always do our best.
+Finally, as always, please remain aware of need around you and just [contact the SVP](/contact/) if you think that we can be of help. We'll always do our best.
 
 God Bless.

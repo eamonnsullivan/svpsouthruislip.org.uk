@@ -1,7 +1,8 @@
 ---
 title: "Helping our parishioners"
 date: "2021-08-13T00:00:00+00:00"
-url: "/posts-output/2021-08-13-helping-our-parishioners/"
+url: "/posts/2021-08-13-helping-our-parishioners/"
+aliases: ["/posts-output/2021-08-13-helping-our-parishioners/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -9,4 +10,4 @@ The past year and a half have been hard for many. We've lost family and friends 
 
 Over the past few weeks we have become aware of parishioners who have needed a little help and we have been able to assist. It takes courage to ask for help. Rest assured that this will always be handled in a non-judgemental, confidential and respectful manner.
 
-There are many way to [contact us](/pages-output/contact/), either by email, by phone, or if you feel more comfortable chatting face to face, you can always find us at the food bank on a Saturday between 12 noon and 2pm or at mass. Fr Paulo will point you in the right direction. We look forward to hearing from you!
+There are many way to [contact us](/contact/), either by email, by phone, or if you feel more comfortable chatting face to face, you can always find us at the food bank on a Saturday between 12 noon and 2pm or at mass. Fr Paulo will point you in the right direction. We look forward to hearing from you!

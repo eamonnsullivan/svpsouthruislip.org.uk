@@ -1,7 +1,8 @@
 ---
 title: "Waitrose food bank collection"
 date: "2022-07-13T00:00:00+00:00"
-url: "/posts-output/2022-07-13-waitrose-food-bank-collection/"
+url: "/posts/2022-07-13-waitrose-food-bank-collection/"
+aliases: ["/posts-output/2022-07-13-waitrose-food-bank-collection/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -9,4 +10,4 @@ The SVP, along with our younger members in the B-Attitudes, will be doing a buck
 
 If you are shopping at Waitrose this weekend please stop by our table and have a chat. It will be lovely to see a familiar face!
 
-As always the SVP continues to be here for the parish and our community. If you or anyone you know would like a visit from an SVP member [get in touch](/pages-output/contact/) and we will do our best to help.
+As always the SVP continues to be here for the parish and our community. If you or anyone you know would like a visit from an SVP member [get in touch](/contact/) and we will do our best to help.

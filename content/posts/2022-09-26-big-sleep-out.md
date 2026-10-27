@@ -1,7 +1,8 @@
 ---
 title: "Big Sleep-Out"
 date: "2022-09-26T00:00:00+00:00"
-url: "/posts-output/2022-09-26-big-sleep-out/"
+url: "/posts/2022-09-26-big-sleep-out/"
+aliases: ["/posts-output/2022-09-26-big-sleep-out/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,4 +10,4 @@ Autumn is quickly approaching and winter lurks beyond. These seasons can be part
 
 Fr Paulo has kindly agreed that we can use the church grounds for this Sleep-Out (using just a sheet of cardboard and a sleeping bag!). If you would like to help then please donate to the collection boxes at the Gifted Shop this weekend or online using the [JustGiving page](https://www.justgiving.com/crowdfunding/b-attitudes?utm_term=69Zmkm5Xz).
 
-Finally, thank you to all who turned up at our annual SVP mass on Friday, Sept. 23. As ever, please remain aware of need around us and do not hesitate to [contact your SVP Team](/pages-output/contact/) if our help is needed.
+Finally, thank you to all who turned up at our annual SVP mass on Friday, Sept. 23. As ever, please remain aware of need around us and do not hesitate to [contact your SVP Team](/contact/) if our help is needed.

@@ -1,7 +1,8 @@
 ---
 title: "Call for Foodbank Volunteers"
 date: "2020-06-26T00:00:00+00:00"
-url: "/posts-output/2020-06-26-call-for-foodbank-volunteers/"
+url: "/posts/2020-06-26-call-for-foodbank-volunteers/"
+aliases: ["/posts-output/2020-06-26-call-for-foodbank-volunteers/"]
 author: "Paul O'Regan"
 tags: ["foodbank"]
 ---
@@ -15,6 +16,6 @@ We are now toying with the idea of building up a broader team of Foodbank volunt
 
 If these conditions work for you, and you are reasonably flexible with your Saturdays, from around 11:30-14:30, then why not have a think and get in touch! The new rota, if that is the path the team chooses, will probably start on Saturday, Sept. 5, allowing time for new volunteers to come to earlier sessions as a taster.
 
-Finally, as always, please remain 'Aware' of need and just [get in touch](/pages-output/contact/) with us if you know of someone who might need the help of the SVP.
+Finally, as always, please remain 'Aware' of need and just [get in touch](/contact/) with us if you know of someone who might need the help of the SVP.
 
 God Bless!

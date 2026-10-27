@@ -1,7 +1,8 @@
 ---
 title: "Full agenda"
 date: "2022-11-17T00:00:00+00:00"
-url: "/posts-output/2022-11-17-full-agenda/"
+url: "/posts/2022-11-17-full-agenda/"
+aliases: ["/posts-output/2022-11-17-full-agenda/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ Last weekend we recommenced our regular weekly visits to Brackenbridge House car
 
 It is a pretty full agenda and we always welcome new members!! If that is you, then why not get in touch? It could even be an early New Year's Resolution!!
 
-Finally, as ever, please remain 'Aware' of need around us and do not hesitate to [contact your SVP Team](/pages-output/contact/) if our help is needed.
+Finally, as ever, please remain 'Aware' of need around us and do not hesitate to [contact your SVP Team](/contact/) if our help is needed.
 
 God Bless.

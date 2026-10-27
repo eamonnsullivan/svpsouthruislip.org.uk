@@ -1,7 +1,8 @@
 ---
 title: "Christmas appeals"
 date: "2023-11-30T00:00:00+00:00"
-url: "/posts-output/2023-11-30-christmas-appeals/"
+url: "/posts/2023-11-30-christmas-appeals/"
+aliases: ["/posts-output/2023-11-30-christmas-appeals/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ The run-up to Christmas is always a time full of appeals for the needy. This yea
 
 And speaking of appeals; you might remember the B-Attitudes cake sale earlier in the year. Well, with some of the funds raised, they have now assembled some Christmas presents for the residents of our local care home, Brackenbridge House. It is brilliant to see our young people engaging with the elderly in our parish -- another work of the Holy Spirit!!
 
-To close, as ever, please remain aware of need within our community and just [get in touch with us](/pages-output/contact/) if you think our help is needed. We will always try our best to help.
+To close, as ever, please remain aware of need within our community and just [get in touch with us](/contact/) if you think our help is needed. We will always try our best to help.
 
 God Bless.

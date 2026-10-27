@@ -1,7 +1,8 @@
 ---
 title: "Jesuit Refugee Service"
 date: "2021-06-09T00:00:00+00:00"
-url: "/posts-output/2021-06-09-jesuit-refugee-service/"
+url: "/posts/2021-06-09-jesuit-refugee-service/"
+aliases: ["/posts-output/2021-06-09-jesuit-refugee-service/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -11,4 +12,4 @@ Four members of our team are now involved. The role has changed during the pande
 
 If this work interests you, talk to us and we can tell you more about it.
 
-As always, if you come across anyone in need of our help in the community please do not hesitate to [contact](/pages-output/contact/) your SVP Team and we will do our best to help.
+As always, if you come across anyone in need of our help in the community please do not hesitate to [contact](/contact/) your SVP Team and we will do our best to help.

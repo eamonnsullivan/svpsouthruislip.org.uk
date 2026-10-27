@@ -1,7 +1,8 @@
 ---
 title: "Lent starts"
 date: "2025-02-27T00:00:00+00:00"
-url: "/posts-output/2025-02-27-lent-starts/"
+url: "/posts/2025-02-27-lent-starts/"
+aliases: ["/posts-output/2025-02-27-lent-starts/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -11,6 +12,6 @@ As the youngsters grew up, though, the idea of 'doing something for Lent' was in
 
 Are you thinking of what to do to mark Lent? Researching the four pillars of the SVP is a great start and will lead you on to an incredible journey of new ideas, all culminating in the one truth that we are all brothers and sisters and must look after each other. Starting each day by pondering, and then practicing this, might be an idea worth considering?
 
-Finally, as always, please remain aware of need around us and just [let us know](/pages-output/contact/) if you think the SVP can help. We'll always do our best.
+Finally, as always, please remain aware of need around us and just [let us know](/contact/) if you think the SVP can help. We'll always do our best.
 
 God Bless.

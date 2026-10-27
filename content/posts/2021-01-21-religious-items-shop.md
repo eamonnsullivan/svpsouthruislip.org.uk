@@ -1,7 +1,8 @@
 ---
 title: "Religious Items Shop"
 date: "2021-01-21T00:00:00+00:00"
-url: "/posts-output/2021-01-21-religious-items-shop/"
+url: "/posts/2021-01-21-religious-items-shop/"
+aliases: ["/posts-output/2021-01-21-religious-items-shop/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ As our first initiative of 2021, the SVP Team are hoping to start a religious it
 
 As mentioned last week, the SVP's mission is to provide spiritual help as well as physical help so, please God, this new initiative may have, as yet, unseen benefits. The stock is likely to include statues, rosary beads/rings, prayer books and cards and other such items. Please spend a moment browsing -- social-distanced, of course -- once it is all set up. And please spread the word!!
 
-Finally, as always, please remain 'Aware' of need around us and if the help of your SVP Team is needed then [contact us](/pages-output/contact/).
+Finally, as always, please remain 'Aware' of need around us and if the help of your SVP Team is needed then [contact us](/contact/).
 
 God Bless!

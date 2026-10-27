@@ -1,7 +1,8 @@
 ---
 title: "Vinnie Packs"
 date: "2021-11-16T00:00:00+00:00"
-url: "/posts-output/2021-11-16-vinnie-packs/"
+url: "/posts/2021-11-16-vinnie-packs/"
+aliases: ["/posts-output/2021-11-16-vinnie-packs/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -11,4 +12,4 @@ Our B-Attitude group along with some of our SVP members spent Sunday afternoon p
 
 The SVP shop, Gifted, will be open this weekend. As well as Christmas cards and gifts, we have produced a beautiful calendar of our church, St Gregory the Great. Calendars will be on sale this weekend at £5 each.
 
-As always, If you come across anyone who needs help, please do not hesitate to [contact your SVP Team](/pages-output/contact/) and we will do our best to help.
+As always, If you come across anyone who needs help, please do not hesitate to [contact your SVP Team](/contact/) and we will do our best to help.

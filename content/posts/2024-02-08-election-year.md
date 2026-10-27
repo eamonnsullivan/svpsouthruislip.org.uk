@@ -1,7 +1,8 @@
 ---
 title: "Election year"
 date: "2024-02-08T00:00:00+00:00"
-url: "/posts-output/2024-02-08-election-year/"
+url: "/posts/2024-02-08-election-year/"
+aliases: ["/posts-output/2024-02-08-election-year/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ You may recently have read the statistic that more than 50 major elections, invo
 
 A quick browse of the national [SVP website](https://svp.org.uk/) will give you a good flavour of the issues of social justice that we all have a say in. Rather than letting a newspaper headline, or the politician with the loudest voice, govern your opinion, maybe you could use this 'quiet' time to do a bit of background reading and a bit of self-education, which will then place you in a much more informed position when the big day comes!! Have a think!
 
-Finally, as always, please remain aware of need around us and just [get in touch with the SVP](/pages-output/contact/) if you think our help is needed. We will always try our best to help.
+Finally, as always, please remain aware of need around us and just [get in touch with the SVP](/contact/) if you think our help is needed. We will always try our best to help.
 
 God Bless.

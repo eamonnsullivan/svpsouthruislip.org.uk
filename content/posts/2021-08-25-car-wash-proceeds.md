@@ -1,7 +1,8 @@
 ---
 title: "Car wash proceeds"
 date: "2021-08-25T00:00:00+00:00"
-url: "/posts-output/2021-08-25-car-wash-proceeds/"
+url: "/posts/2021-08-25-car-wash-proceeds/"
+aliases: ["/posts-output/2021-08-25-car-wash-proceeds/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -11,4 +12,4 @@ Before lockdown, a group of teenagers from our parish would visit the care home 
 
 Please keep the residents in your prayers, as they have had a tough time during the pandemic.
 
-If you or anyone you know would like a visit, please [contact the SVP](/pages-output/contact/).
+If you or anyone you know would like a visit, please [contact the SVP](/contact/).

@@ -1,7 +1,8 @@
 ---
 title: "Christmas thank you"
 date: "2024-12-12T00:00:00+00:00"
-url: "/posts-output/2024-12-12-christmas-thank-you/"
+url: "/posts/2024-12-12-christmas-thank-you/"
+aliases: ["/posts-output/2024-12-12-christmas-thank-you/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ Christmas time is always a very humbling time for the SVP Team. The generosity o
 
 Please rest assured that all you do for those in need is gratefully received and if you ever want to get closer to the action then just get in touch with any SVP member about joining us. You will find it incredibly fulfilling and rewarding.
 
-Finally, as always, please remain aware of other needs around us too and just [reach out](/pages-output/contact/) if our help is needed. We will always try our best to help.
+Finally, as always, please remain aware of other needs around us too and just [reach out](/contact/) if our help is needed. We will always try our best to help.
 
 God Bless.

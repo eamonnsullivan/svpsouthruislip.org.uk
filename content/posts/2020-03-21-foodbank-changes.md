@@ -1,7 +1,8 @@
 ---
 title: "Changes at our food bank"
 date: "2020-03-21T00:00:00+00:00"
-url: "/posts-output/2020-03-21-foodbank-changes/"
+url: "/posts/2020-03-21-foodbank-changes/"
+aliases: ["/posts-output/2020-03-21-foodbank-changes/"]
 author: "Eamonn Sullivan"
 tags: ["coronavirus", "foodbank"]
 ---

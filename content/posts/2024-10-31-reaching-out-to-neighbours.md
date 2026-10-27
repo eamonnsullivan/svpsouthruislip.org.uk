@@ -1,7 +1,8 @@
 ---
 title: "Reaching out to neighbours"
 date: "2024-10-31T00:00:00+00:00"
-url: "/posts-output/2024-10-31-reaching-out-to-neighbours/"
+url: "/posts/2024-10-31-reaching-out-to-neighbours/"
+aliases: ["/posts-output/2024-10-31-reaching-out-to-neighbours/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -11,6 +12,6 @@ Visits can be in the home, care homes, hospitals, prisons, detention centres, or
 
 Also, don't make the common error of associating loneliness with just the elderly. Today, sadly, many of our young people also suffer from loneliness, so please say a prayer for them also.
 
-Finally, as always, please remain aware of other needs around us too and just [reach out](/pages-output/contact/) if our help is needed. We will always try our best to help.
+Finally, as always, please remain aware of other needs around us too and just [reach out](/contact/) if our help is needed. We will always try our best to help.
 
 God Bless.

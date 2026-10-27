@@ -1,7 +1,8 @@
 ---
 title: "Home visits"
 date: "2025-10-23T00:00:00+00:00"
-url: "/posts-output/2025-10-23-home-visits/"
+url: "/posts/2025-10-23-home-visits/"
+aliases: ["/posts-output/2025-10-23-home-visits/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ Home visits were traditionally a cornerstone of the SVP mission. Members would c
 
 With the clock "falling back" this weekend, it is a good time to remember this basic service of the SVP. Loneliness is a terrible illness in every community. Please keep an eye on your elderly and/or vulnerable neighbours this autumn.
 
-If you are aware of someone suffering from loneliness, and you are unable to find time to spend with them, then please [reach out](/pages-output/contact/) to the SVP. We're at the end of the phone, and at the end of the email address, and we'll always do our best to help.
+If you are aware of someone suffering from loneliness, and you are unable to find time to spend with them, then please [reach out](/contact/) to the SVP. We're at the end of the phone, and at the end of the email address, and we'll always do our best to help.
 
 God Bless.

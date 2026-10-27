@@ -1,7 +1,8 @@
 ---
 title: "Social Justice Day"
 date: "2024-02-15T00:00:00+00:00"
-url: "/posts-output/2024-02-15-social-justice-day/"
+url: "/posts/2024-02-15-social-justice-day/"
+aliases: ["/posts-output/2024-02-15-social-justice-day/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ Tuesday is the UN World Day of Social Justice, a topic that has underpinned the 
 
 That is not the end of the story, though. Jesus also left us with the Gifts of the Holy Spirit -- for example, Wisdom, Understanding, Courage, Right Judgement.... Why not consider how you could use these gifts to address social justice issues? And why not consider tuning in to some of the [online talks](https://www.un.org/en/observances/social-justice-day) on social justice on Tuesday!
 
-And, as ever, please remain aware of social justice issues around us and just [get in touch with the SVP](/pages-output/contact/) if you think our help is needed. We will always try our best to help.
+And, as ever, please remain aware of social justice issues around us and just [get in touch with the SVP](/contact/) if you think our help is needed. We will always try our best to help.
 
 God Bless.

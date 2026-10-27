@@ -11,8 +11,6 @@ brew install hugo
 hugo version
 ```
 
-No theme, JavaScript package, Clojure runtime, or other build dependency is required.
-
 ## Development
 
 Start Hugo's development server, including future-dated posts:
@@ -34,7 +32,6 @@ hugo --gc --minify --cleanDestinationDir
 - Posts live in `content/posts/`. Keep the date at the start of each filename and set explicit `date`, `url`, `author`, and `tags` front matter. URLs start with `/posts/`; retain existing dates and nested paths.
 - Pages live in `content/pages/` with root-level URLs such as `/foodbank/` or `/contact/`. Homepage content lives in `content/_index.md`.
 - Tags use `/tags/` and `/tags/<slug>/`. Files in `content/tags/` preserve display labels and aliases for previously published tags; new tags need no legacy aliases.
-- When changing a published URL, keep its previous path in `aliases` and update internal links. Navigation uses Hugo page references so it follows page URL changes.
 - Global files such as icons and logos live in `static/img/`.
 - Assets belonging to nested posts live in `static/posts/<bundle>/`. Link to them with root-relative URLs such as `/posts/sleep-out/around_table.jpg`.
 - Page downloads and images live in `static/pages/<bundle>/`.
@@ -64,6 +61,8 @@ python3 -m unittest discover -s tests -v
 ```
 
 `tests/legacy_urls.json` records the published URL inventory at migration time. Keep these redirect checks even if content moves again. Always build with `--cleanDestinationDir` to prevent obsolete generated pages from surviving in `public/`.
+
+These checks must pass before any changes can be merged to the main branch for deployment.
 
 ## Migration note
 

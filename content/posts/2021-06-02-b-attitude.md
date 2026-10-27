@@ -1,7 +1,8 @@
 ---
 title: "B-Attitude"
 date: "2021-06-02T00:00:00+00:00"
-url: "/posts-output/2021-06-02-b-attitude/"
+url: "/posts/2021-06-02-b-attitude/"
+aliases: ["/posts-output/2021-06-02-b-attitude/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -11,4 +12,4 @@ Last year they were involved in a bake sale which raised funds for elderly resid
 
 If you would like to get involved in this active group please call us for more information or come along to the next meeting on Friday 25th June at 5.30pm in the church hall.
 
-As always, if you come across anyone in need of our help in the community please do not hesitate to [contact](/pages-output/contact/) your SVP Team and we will do our best to help.
+As always, if you come across anyone in need of our help in the community please do not hesitate to [contact](/contact/) your SVP Team and we will do our best to help.

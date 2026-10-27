@@ -1,7 +1,8 @@
 ---
 title: "A mobile lifeline"
 date: "2022-02-14T00:00:00+00:00"
-url: "/posts-output/2022-02-14-a-mobile-lifeline/"
+url: "/posts/2022-02-14-a-mobile-lifeline/"
+aliases: ["/posts-output/2022-02-14-a-mobile-lifeline/"]
 author: "Eamonn Sullivan"
 tags: []
 ---
@@ -9,4 +10,4 @@ When refugees are on the move, their most precious item is often their smartphon
 
 A year ago, St Gregory's responded generously when the SVP asked for old smartphones and tablets. The Jesuit Refugee Service, which we help support, said dozens of these devices were distributed to people awaiting immigration appeals and were gratefully received. Recently, some more devices have been donated, so we'll be bringing them to the JRS next month.
 
-If you have old smart phones or tablets that you could donate, please [contact the SVP](/pages-output/contact/).
+If you have old smart phones or tablets that you could donate, please [contact the SVP](/contact/).

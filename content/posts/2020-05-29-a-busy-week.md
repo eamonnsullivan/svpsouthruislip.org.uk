@@ -1,7 +1,8 @@
 ---
 title: "A Busy Week"
 date: "2020-05-29T00:00:00+00:00"
-url: "/posts-output/2020-05-29-a-busy-week/"
+url: "/posts/2020-05-29-a-busy-week/"
+aliases: ["/posts-output/2020-05-29-a-busy-week/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ The new week is a busy one for the SVP as we have our June meeting on Monday eve
 
 This new workstream commenced with Lockdown in March and the fabulous parishioners who came forward to help really are silver linings in the current cloud. On this Pentecost Sunday, it is wonderful confirmation that the Holy Spirit is living with us.
 
-A final request, please remain 'Aware' of need and just [get in touch with us](/pages-output/contact/) if you know of someone who might need the help of the SVP.
+A final request, please remain 'Aware' of need and just [get in touch with us](/contact/) if you know of someone who might need the help of the SVP.
 
 God Bless!

@@ -1,7 +1,8 @@
 ---
 title: "Gifted shop open"
 date: "2023-10-29T00:00:00+00:00"
-url: "/posts-output/2023-10-29-gifted-shop-open/"
+url: "/posts/2023-10-29-gifted-shop-open/"
+aliases: ["/posts-output/2023-10-29-gifted-shop-open/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ The sharp-minded amongst you will have realised that our Gifted shop is open thi
 
 If you would like to volunteer to help run the shop then please mention that too! Keeping the shop open for all four weekend masses is a challenge so please come forward if you think it will work for you!
 
-Finally, as always, please remain sensitively and lovingly aware of need within our community and just [get in touch with us](/pages-output/contact/) if you think our help is needed. We will always try our best to help.
+Finally, as always, please remain sensitively and lovingly aware of need within our community and just [get in touch with us](/contact/) if you think our help is needed. We will always try our best to help.
 
 God Bless.

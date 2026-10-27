@@ -1,7 +1,8 @@
 ---
 title: "Just Giving page for Homelessness Sleep-Out"
 date: "2022-09-23T00:00:00+00:00"
-url: "/posts-output/2022-09-23-just-giving-page-for-homeless-sleepout/"
+url: "/posts/2022-09-23-just-giving-page-for-homeless-sleepout/"
+aliases: ["/posts-output/2022-09-23-just-giving-page-for-homeless-sleepout/"]
 author: "Eamonn Sullivan"
 tags: []
 ---

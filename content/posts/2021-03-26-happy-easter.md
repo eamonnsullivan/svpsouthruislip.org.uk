@@ -1,7 +1,8 @@
 ---
 title: "Happy Easter"
 date: "2021-03-26T00:00:00+00:00"
-url: "/posts-output/2021-03-26-happy-easter/"
+url: "/posts/2021-03-26-happy-easter/"
+aliases: ["/posts-output/2021-03-26-happy-easter/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -11,6 +12,6 @@ Without your help, though, the hope being offered by the SVP Team would not be p
 
 'Gifted', our religious items stall, is open this weekend and we hope you enjoy the selection of gifts on offer! No Easter eggs though!!
 
-Finally, as always, please remain 'Aware' of need around us and please do not hesitate to [contact](/pages-output/contact/) your SVP team if our help is needed.
+Finally, as always, please remain 'Aware' of need around us and please do not hesitate to [contact](/contact/) your SVP team if our help is needed.
 
 God Bless!

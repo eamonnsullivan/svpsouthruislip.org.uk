@@ -1,7 +1,8 @@
 ---
 title: "Volunteers needed"
 date: "2024-04-25T00:00:00+00:00"
-url: "/posts-output/2024-04-25-volunteers-needed/"
+url: "/posts/2024-04-25-volunteers-needed/"
+aliases: ["/posts-output/2024-04-25-volunteers-needed/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ Are you over 18? Can you spare a few hours on some Saturdays? Would you like to 
 
 With life events occurring and the holiday periods approaching, we now need to strengthen this team. The teenager section is in a super strong position, but the adult side of things could do with some new volunteers. Does this grab your attention? Then why not get in touch! Your hours and Saturday frequency can be up to you and the more volunteers, the less the effort! Have a think and just reach out to us if you'd like to know more.
 
-Finally, as always, please remain aware of need around us and [just reach out](/pages-output/contact/) if our help is needed. We will always try our best to help.
+Finally, as always, please remain aware of need around us and [just reach out](/contact/) if our help is needed. We will always try our best to help.
 
 God Bless.

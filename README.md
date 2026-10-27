@@ -26,13 +26,15 @@ Open <http://localhost:1313/>. Hugo watches content, templates, configuration, a
 Create a production build in `public/`:
 
 ```bash
-hugo --gc --minify
+hugo --gc --minify --cleanDestinationDir
 ```
 
 ## Content
 
-- Posts live in `content/posts/`. Keep the date at the start of each filename and set explicit `date`, `url`, `author`, and `tags` front matter.
-- Pages live in `content/pages/` and retain their legacy `url` values. Homepage content lives in `content/_index.md`.
+- Posts live in `content/posts/`. Keep the date at the start of each filename and set explicit `date`, `url`, `author`, and `tags` front matter. URLs start with `/posts/`; retain existing dates and nested paths.
+- Pages live in `content/pages/` with root-level URLs such as `/foodbank/` or `/contact/`. Homepage content lives in `content/_index.md`.
+- Tags use `/tags/` and `/tags/<slug>/`. Files in `content/tags/` preserve display labels and aliases for previously published tags; new tags need no legacy aliases.
+- When changing a published URL, keep its previous path in `aliases` and update internal links. Navigation uses Hugo page references so it follows page URL changes.
 - Global files such as icons and logos live in `static/img/`.
 - Assets belonging to nested posts live in `static/posts/<bundle>/`. Link to them with root-relative URLs such as `/posts/sleep-out/around_table.jpg`.
 - Page downloads and images live in `static/pages/<bundle>/`.
@@ -44,7 +46,7 @@ Example post front matter:
 ---
 title: "Post title"
 date: "2026-01-15T00:00:00+00:00"
-url: "/posts-output/2026-01-15-post-title/"
+url: "/posts/2026-01-15-post-title/"
 author: "Author name"
 tags: ["example"]
 ---
@@ -54,12 +56,17 @@ tags: ["example"]
 
 Create branch before changing content. Preview locally, check links, push branch, and create pull request. After merge, GitHub Actions builds and deploys site to AWS.
 
-Pull requests run a strict Hugo production build. It fails for build errors, warnings, and duplicate output paths. Run the same check locally before pushing:
+Pull requests and deployments run a clean, strict Hugo production build and URL regression tests (Python 3.10 or newer, standard library only). They check build errors, warnings, duplicate output paths, internal links, canonical URLs, feed/sitemap URLs, navigation, and every migrated legacy redirect. Run the same checks locally before pushing:
 
 ```bash
-hugo --gc --minify --panicOnWarning --printPathWarnings
+hugo --gc --minify --cleanDestinationDir --panicOnWarning --printPathWarnings
+python3 -m unittest discover -s tests -v
 ```
+
+`tests/legacy_urls.json` records the published URL inventory at migration time. Keep these redirect checks even if content moves again. Always build with `--cleanDestinationDir` to prevent obsolete generated pages from surviving in `public/`.
 
 ## Migration note
 
-Repository migrated from Cryogen to Hugo. Cryogen's Clojure source, EDN configuration, generated output, and bundled themes were removed. Source posts, pages, authors, tags, global images, post assets, downloads, feed URL, and practical legacy content URLs are preserved.
+Repository migrated from Cryogen to Hugo. Cryogen's Clojure source, EDN configuration, generated output, and bundled themes were removed. Source posts, pages, authors, tags, global images, post assets, downloads, and the feed URL are preserved.
+
+Canonical URLs now use `/posts/…`, root-level pages, and `/tags/…` instead of `/posts-output/…`, `/pages-output/…`, and `/tags-output/…`. Existing date and nested post suffixes are unchanged. Hugo aliases preserve all previously published post, page, and tag URLs as HTML redirect pages with canonical links to their replacements. These work with the existing S3 deployment, but they are browser redirects, **not HTTP 301 responses**. Permanent HTTP redirects require separate hosting/CDN configuration. External sites' URLs are unchanged.

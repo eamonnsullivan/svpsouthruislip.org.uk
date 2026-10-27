@@ -1,7 +1,8 @@
 ---
 title: "Thank You to our Volunteers"
 date: "2020-06-12T00:00:00+00:00"
-url: "/posts-output/2020-06-12-thank-you-to-our-volunteers/"
+url: "/posts/2020-06-12-thank-you-to-our-volunteers/"
+aliases: ["/posts-output/2020-06-12-thank-you-to-our-volunteers/"]
 author: "Paul O'Regan"
 tags: ["volunteers"]
 ---
@@ -11,6 +12,6 @@ In the parish, we have the Mini-Vinnies (primary school ages), the Young Persons
 
 All of this work, of course, is just a simple manifestation of the Holy Spirit working within the community, and we are very blessed that this is the case. Please say a prayer that this continues to be so.
 
-Finally, as always, please remain 'Aware' of need and just [get in touch](/pages-output/contact/) with us if you know of someone who might need the help of the SVP.
+Finally, as always, please remain 'Aware' of need and just [get in touch](/contact/) with us if you know of someone who might need the help of the SVP.
 
 God Bless!

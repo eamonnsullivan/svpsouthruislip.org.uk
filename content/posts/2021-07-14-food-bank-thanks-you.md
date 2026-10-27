@@ -1,7 +1,8 @@
 ---
 title: "Food bank thanks you"
 date: "2021-07-14T00:00:00+00:00"
-url: "/posts-output/2021-07-14-food-bank-thanks-you/"
+url: "/posts/2021-07-14-food-bank-thanks-you/"
+aliases: ["/posts-output/2021-07-14-food-bank-thanks-you/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -11,4 +12,4 @@ As lockdown eased over the past weeks we have been able to adjust how we run and
 
 We would like to thank you, the parishioner, for always helping with donations. I am amazed at how much comes in our food bank box each week. Thank you so much! It is because of your support we are able to continue helping our community.
 
-As always, if you come across anyone in need of our help in the community, please do not hesitate to [contact](/pages-output/contact/) your SVP Team and we will do our best to help.
+As always, if you come across anyone in need of our help in the community, please do not hesitate to [contact](/contact/) your SVP Team and we will do our best to help.

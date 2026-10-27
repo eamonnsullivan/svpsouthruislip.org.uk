@@ -23,7 +23,7 @@
         <ul class="nav-list">
           <li><a href="{{ relURL "/" }}"{{ if .IsHome }} aria-current="page"{{ end }}>Home</a></li>
           <li><a href="{{ relURL "/archives/" }}"{{ if eq .RelPermalink "/archives/" }} aria-current="page"{{ end }}>Archives</a></li>
-          <li><a href="{{ relURL "/pages-output/contact/" }}"{{ if eq .RelPermalink "/pages-output/contact/" }} aria-current="page"{{ end }}>Contact</a></li>
+          {{ with site.GetPage "/pages/contact" }}<li><a href="{{ .RelPermalink }}"{{ if eq $.RelPermalink .RelPermalink }} aria-current="page"{{ end }}>Contact</a></li>{{ end }}
           <li><a href="{{ relURL "/feed.xml" }}">RSS</a></li>
         </ul>
       </nav>
@@ -36,14 +36,14 @@
         <h2>Our Activities</h2>
         <ul>
           {{ range slice
-            (dict "title" "Foodbank" "url" "/pages-output/foodbank/")
-            (dict "title" "Home visits" "url" "/pages-output/home-visits/")
-            (dict "title" "Bereavement Care" "url" "/pages-output/bereavement/")
-            (dict "title" "Support for young people and mentoring" "url" "/pages-output/mentoring/")
-            (dict "title" "Immigration Detainee Support" "url" "/pages-output/refugee/")
-            (dict "title" "Care home visits" "url" "/pages-output/care-home-visits/")
-            (dict "title" "Prayer Activities" "url" "/pages-output/prayer-activities/")
-          }}<li><a href="{{ relURL .url }}">{{ .title }}</a></li>{{ end }}
+            (dict "title" "Foodbank" "page" "/pages/foodbank")
+            (dict "title" "Home visits" "page" "/pages/home-visits")
+            (dict "title" "Bereavement Care" "page" "/pages/bereavement")
+            (dict "title" "Support for young people and mentoring" "page" "/pages/mentoring")
+            (dict "title" "Immigration Detainee Support" "page" "/pages/refugee")
+            (dict "title" "Care home visits" "page" "/pages/care-home-visits")
+            (dict "title" "Prayer Activities" "page" "/pages/prayer-activities")
+          }}{{ $title := .title }}{{ with site.GetPage .page }}<li><a href="{{ .RelPermalink }}">{{ $title }}</a></li>{{ end }}{{ end }}
         </ul>
       </section>
       <section><h2>Links</h2><ul><li><a href="https://www.svp.org.uk/">SVP England and Wales</a></li><li><a href="https://www.st-gregory.org.uk/">The Parish of St. Gregory the Great</a></li><li><a href="https://www.facebook.com/StGregorySR/">The Parish Facebook Page</a></li></ul></section>

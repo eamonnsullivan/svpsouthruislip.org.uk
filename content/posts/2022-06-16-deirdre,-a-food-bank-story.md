@@ -1,7 +1,8 @@
 ---
 title: "Deirdre, a food bank story"
 date: "2022-06-16T00:00:00+00:00"
-url: "/posts-output/2022-06-16-deirdre,-a-food-bank-story/"
+url: "/posts/2022-06-16-deirdre,-a-food-bank-story/"
+aliases: ["/posts-output/2022-06-16-deirdre,-a-food-bank-story/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -11,4 +12,4 @@ Deirdre, not her real name, is a lovely lady in her 40s who is unable to work du
 
 A few weeks later Deirdre returned, but not for food. Her benefits were now in place and she came with a card of thanks and a £20 donation to help others who attend food bank.
 
-Keep all of the food bank visitors in your prayers and, as always, if you come across anyone who needs help or a visit from an SVP member, please do not hesitate to [contact your SVP team](/pages-output/contact/) and we will do our best to help.
+Keep all of the food bank visitors in your prayers and, as always, if you come across anyone who needs help or a visit from an SVP member, please do not hesitate to [contact your SVP team](/contact/) and we will do our best to help.

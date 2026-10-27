@@ -1,7 +1,8 @@
 ---
 title: "St Patrick's Day Bingo Evening"
 date: "2022-03-08T00:00:00+00:00"
-url: "/posts-output/2022-03-08-st-patrick's-day-evening/"
+url: "/posts/2022-03-08-st-patrick's-day-evening/"
+aliases: ["/posts-output/2022-03-08-st-patrick's-day-evening/"]
 tags: []
 ---
 Planning is well underway for the SVP's St Patrick's Day Bingo Evening, to be held in the church hall on Saturday, March 19. We will open the doors at 6.15 pm, with eyes down at 7 pm.

@@ -1,7 +1,8 @@
 ---
 title: "Duke of Edinburgh"
 date: "2026-02-26T00:00:00+00:00"
-url: "/posts-output/2026-02-26-duke-of-edinburgh/"
+url: "/posts/2026-02-26-duke-of-edinburgh/"
+aliases: ["/posts-output/2026-02-26-duke-of-edinburgh/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ Thank you in advance for the continuing support you show for the SVP! This weeke
 
 On a different note, we continue to see fabulous young people come forward to help us at the food bank each Saturday. Since the start of the year, we have gained almost a football team-sized group! This helps them achieve their Duke of Edinburgh (DofE) goals and it helps us spread the gifts and fruits of the Holy Spirit to our food bank clients -- so a win-win!! Please pray for these young people as they are our future.
 
-Finally, as always, please remain aware of need around you and just [contact the SVP](/pages-output/contact/) if you think that we can be of help. We'll always do our best.
+Finally, as always, please remain aware of need around you and just [contact the SVP](/contact/) if you think that we can be of help. We'll always do our best.
 
 God Bless.

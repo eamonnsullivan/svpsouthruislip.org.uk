@@ -1,7 +1,8 @@
 ---
 title: "Young Persons SVP Bake Sale"
 date: "2020-11-01T00:00:00+00:00"
-url: "/posts-output/bake-sale/2020-11-01-young-persons-svp-bake-sale/"
+url: "/posts/bake-sale/2020-11-01-young-persons-svp-bake-sale/"
+aliases: ["/posts-output/bake-sale/2020-11-01-young-persons-svp-bake-sale/"]
 author: "Tracy Tierney"
 tags: []
 ---

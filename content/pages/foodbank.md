@@ -1,6 +1,7 @@
 ---
 title: "Foodbank"
-url: "/pages-output/foodbank/"
+url: "/foodbank/"
+aliases: ["/pages-output/foodbank/"]
 ---
 *Opening hours: Saturday, 12:00-14:00*
 

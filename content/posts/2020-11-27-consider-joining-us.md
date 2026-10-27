@@ -1,7 +1,8 @@
 ---
 title: "Consider a New Year's Resolution"
 date: "2020-11-27T00:00:00+00:00"
-url: "/posts-output/2020-11-27-consider-joining-us/"
+url: "/posts/2020-11-27-consider-joining-us/"
+aliases: ["/posts-output/2020-11-27-consider-joining-us/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ This Sunday we enter the new year in the church's calendar as the beautiful and 
 
 The SVP Team is always open to, and welcoming of, new members so why not consider joining as a gift to your spirit? If you would like to have a direct and positive impact on the life of a person in need, and to receive the gift of joy in return, then you will be making a great choice! Find a quiet moment, have a ponder, and just let the Holy Spirit bring you to the decision.
 
-And finally, as ever, please remain 'Aware' of need around us and if the help of your SVP Team is needed then [let us know](/pages-output/contact/). We will always try our best.
+And finally, as ever, please remain 'Aware' of need around us and if the help of your SVP Team is needed then [let us know](/contact/). We will always try our best.
 
 God Bless!

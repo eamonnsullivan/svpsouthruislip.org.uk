@@ -1,7 +1,8 @@
 ---
 title: "Camino de Santiago pilgrimage"
 date: "2026-04-23T00:00:00+00:00"
-url: "/posts-output/2026-04-23-camino-de-santiago-pilgrimage/"
+url: "/posts/2026-04-23-camino-de-santiago-pilgrimage/"
+aliases: ["/posts-output/2026-04-23-camino-de-santiago-pilgrimage/"]
 author: "Tracy Tierney"
 tags: []
 ---

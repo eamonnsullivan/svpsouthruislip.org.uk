@@ -1,7 +1,8 @@
 ---
 title: "Our core mission"
 date: "2021-06-18T00:00:00+00:00"
-url: "/posts-output/2021-06-18-our-core-mission/"
+url: "/posts/2021-06-18-our-core-mission/"
+aliases: ["/posts-output/2021-06-18-our-core-mission/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -11,4 +12,4 @@ I am happy to say we can now resume visits, so long as we stick to the rule of s
 
 We currently see around 16 people, who have become friends to us. Some are ill. Some have lost loved ones and are feeling lonely. Some just need someone to talk to who perhaps isn't family. Whatever the need, we pop in, have a cup of tea and a good chat.
 
-If you or anyone you know would like a visit please [contact](/pages-output/contact/) the SVP. We would love to see you.
+If you or anyone you know would like a visit please [contact](/contact/) the SVP. We would love to see you.

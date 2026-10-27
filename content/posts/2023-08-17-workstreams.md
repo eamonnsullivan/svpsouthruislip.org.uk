@@ -1,7 +1,8 @@
 ---
 title: "Workstreams"
 date: "2023-08-17T00:00:00+00:00"
-url: "/posts-output/2023-08-17-workstreams/"
+url: "/posts/2023-08-17-workstreams/"
+aliases: ["/posts-output/2023-08-17-workstreams/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ We recently held our regular SVP Team monthly meeting and the agenda was choc-a-
 
 Even though we are doing a range of activities we do not want to rest on our laurels while there might be some other need out there. Are you aware of any need that we are not addressing? When we are involved in the detail at the coalface it is very easy to miss the bigger picture, so we depend on you to tell us what we're not seeing!
 
-Please get in touch if anything comes to mind and, as always, please [let us know](/pages-output/contact/) if you or someone you know needs our help. We will always try our best to help.
+Please get in touch if anything comes to mind and, as always, please [let us know](/contact/) if you or someone you know needs our help. We will always try our best to help.
 
 God Bless.

@@ -1,7 +1,8 @@
 ---
 title: "Help Wanted"
 date: "2022-04-06T00:00:00+00:00"
-url: "/posts-output/2022-04-06-help-wanted/"
+url: "/posts/2022-04-06-help-wanted/"
+aliases: ["/posts-output/2022-04-06-help-wanted/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -9,4 +10,4 @@ The SVP is looking for additional help. If you speak a foreign language, and can
 
 There will be an SVP member in the porch after every mass this weekend. They will make themselves known to you. Please stop by and give them your details and we will be in touch.
 
-Alternatively you can [contact the SVP](/pages-output/contact/).
+Alternatively you can [contact the SVP](/contact/).

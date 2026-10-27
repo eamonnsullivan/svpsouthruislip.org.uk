@@ -1,7 +1,8 @@
 ---
 title: "Mobile phones for the JRS"
 date: "2021-03-12T00:00:00+00:00"
-url: "/posts-output/2021-03-12-mobile-phones-for-the-jrs/"
+url: "/posts/2021-03-12-mobile-phones-for-the-jrs/"
+aliases: ["/posts-output/2021-03-12-mobile-phones-for-the-jrs/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ We support both the mission of the SVP, and that of the Jesuit Refugee Service (
 
 Please pray for those in detention and, most importantly, for our government, that they will be guided by the gifts and fruits of the Holy Spirit when formulating its policies on the treatment of our brothers and sisters in the unfortunate situation of being a refugee.
 
-Finally, as always, please remain 'Aware' of need around us and please do not hesitate to [contact](/pages-output/contact/) your SVP team if our help is needed.
+Finally, as always, please remain 'Aware' of need around us and please do not hesitate to [contact](/contact/) your SVP team if our help is needed.
 
 God Bless!

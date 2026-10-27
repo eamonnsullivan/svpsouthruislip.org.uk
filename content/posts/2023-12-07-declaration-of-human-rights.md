@@ -1,7 +1,8 @@
 ---
 title: "Declaration of Human Rights"
 date: "2023-12-07T00:00:00+00:00"
-url: "/posts-output/2023-12-07-declaration-of-human-rights/"
+url: "/posts/2023-12-07-declaration-of-human-rights/"
+aliases: ["/posts-output/2023-12-07-declaration-of-human-rights/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ Sunday is the 75th anniversary of the Universal Declaration of Human Rights (UDH
 
 If you would like to join our conference then why not get in touch. Although the UDHR is 75 years old, there is still so much need to address. Have a think and then reach out to us if you'd like to know more.
 
-To close, as ever, please remain aware of need within our community and just [get in touch with us](/pages-output/contact/) if you think our help is needed. We will always try our best to help.
+To close, as ever, please remain aware of need within our community and just [get in touch with us](/contact/) if you think our help is needed. We will always try our best to help.
 
 God Bless.

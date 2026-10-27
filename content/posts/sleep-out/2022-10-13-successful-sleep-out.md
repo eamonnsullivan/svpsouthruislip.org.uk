@@ -1,7 +1,8 @@
 ---
 title: "Successful sleep-out"
 date: "2022-10-13T00:00:00+00:00"
-url: "/posts-output/sleep-out/2022-10-13-successful-sleep-out/"
+url: "/posts/sleep-out/2022-10-13-successful-sleep-out/"
+aliases: ["/posts-output/sleep-out/2022-10-13-successful-sleep-out/"]
 author: "Paul O'Regan, photos by Gillian Burke"
 tags: []
 ---
@@ -11,7 +12,7 @@ tags: []
 
 As we come to the close of World Homeless Week, we would like to say a huge 'Thank You', on behalf of the B-Attitudes! Last Saturday evening, a group of seven hardy B-Attitudes, safeguarded by three SVP adult members, slept under the stars in support of our sisters and brothers who have to face this situation on a nightly basis. Our parishioners, and people even beyond our parish, donated to this cause to the amazing sum of £1,839.00. Please accept our sincerest thank you for this continual support and please pray for all those who remain homeless, be it World Homeless Week or be it not. The B-Attitudes will now be focusing on turning these funds into real action and we will keep you posted on progress.
 
-Finally, as ever, please remain aware of the need around us and do not hesitate to [contact your SVP Team](/pages-output/contact/) if our help is needed.
+Finally, as ever, please remain aware of the need around us and do not hesitate to [contact your SVP Team](/contact/) if our help is needed.
 
 God Bless.
 

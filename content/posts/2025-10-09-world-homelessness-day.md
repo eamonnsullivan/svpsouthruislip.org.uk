@@ -1,7 +1,8 @@
 ---
 title: "World Homelessness Day"
 date: "2025-10-09T00:00:00+00:00"
-url: "/posts-output/2025-10-09-world-homelessness-day/"
+url: "/posts/2025-10-09-world-homelessness-day/"
+aliases: ["/posts-output/2025-10-09-world-homelessness-day/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ World Homelessness Day is tomorrow (Oct. 10). To mark this day, our fabulous B-A
 
 On Saturday, Oct. 18, we have the SVP Bingo evening. This is always a popular and fun-filled event! Tickets are on sale after all masses this weekend.
 
-Finally, as always, please keep an eye out for need around you and [just contact the SVP](/pages-output/contact/) if you think we can help. We'll always do our best.
+Finally, as always, please keep an eye out for need around you and [just contact the SVP](/contact/) if you think we can help. We'll always do our best.
 
 God Bless.

@@ -1,7 +1,8 @@
 ---
 title: "Overwhelming Response to the Foodbank Appeal"
 date: "2020-05-01T00:00:00+00:00"
-url: "/posts-output/foodbank-response/2020-05-01-foodbank-response/"
+url: "/posts/foodbank-response/2020-05-01-foodbank-response/"
+aliases: ["/posts-output/foodbank-response/2020-05-01-foodbank-response/"]
 author: "Paul O'Regan"
 tags: ["foodbank"]
 ---
@@ -13,6 +14,6 @@ It just goes to prove that even the cloud of a pandemic can have a 'Wonder'-ful 
 
 Can you just imagine what that must mean to someone who feels cut off from society -- to feel loved again? Your response has been such that we may now, even, be able to help other aspects of the Foodbank family through the [Hillingdon Foodbank](https://hillingdon.foodbank.org.uk/) headquarters in Uxbridge. We have always been a receiver from the HQ -- maybe now we'll be able to give back too! None of this would be possible without your response so, really, a huge 'Thank You' from all the team.
 
-Finally, as ever, please remain aware of need in the community and, if help is needed, please [let us know](/pages-output/contact/).
+Finally, as ever, please remain aware of need in the community and, if help is needed, please [let us know](/contact/).
 
 God Bless!

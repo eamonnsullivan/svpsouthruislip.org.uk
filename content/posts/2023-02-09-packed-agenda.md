@@ -1,7 +1,8 @@
 ---
 title: "Packed agenda"
 date: "2023-02-09T00:00:00+00:00"
-url: "/posts-output/2023-02-09-packed-agenda/"
+url: "/posts/2023-02-09-packed-agenda/"
+aliases: ["/posts-output/2023-02-09-packed-agenda/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -11,6 +12,6 @@ There is a tremendous energy within the team, and a real longing to do what we c
 
 We would like to thank you for all your support, and would like to ask you to pray for all those that we try and help. And in particular, thank you for supporting our Gifted Shop last weekend -- it was almost a sell-out! Don't worry though, more stock has already been ordered!
 
-Finally, as always, please remain 'Aware' of need around us and do not hesitate to [contact your SVP Team](/pages-output/contact/) if our help is needed.
+Finally, as always, please remain 'Aware' of need around us and do not hesitate to [contact your SVP Team](/contact/) if our help is needed.
 
 God Bless.

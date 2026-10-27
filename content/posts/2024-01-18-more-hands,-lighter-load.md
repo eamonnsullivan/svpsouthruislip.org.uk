@@ -1,7 +1,8 @@
 ---
 title: "More hands, lighter load"
 date: "2024-01-18T00:00:00+00:00"
-url: "/posts-output/2024-01-18-more-hands,-lighter-load/"
+url: "/posts/2024-01-18-more-hands,-lighter-load/"
+aliases: ["/posts-output/2024-01-18-more-hands,-lighter-load/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -11,6 +12,6 @@ Last week, we received two lovely enquiries from people who would like to know a
 
 And to repeat our request from last Sunday: please keep an eye out for the vulnerable in your neighbourhood during this cold and dark period of the year. As Jesus once said, before returning to His Father; we are now His eyes, His ears, His hands on the Earth, so let's use them to 'Turn Concern into Action'.
 
-Finally, as always, please remain aware of need within our community and just [get in touch with the SVP](/pages-output/contact/) if you think our help is needed. We will always try our best to help.
+Finally, as always, please remain aware of need within our community and just [get in touch with the SVP](/contact/) if you think our help is needed. We will always try our best to help.
 
 God Bless and stay warm.

@@ -1,7 +1,8 @@
 ---
 title: "World Refugee Day"
 date: "2024-06-13T00:00:00+00:00"
-url: "/posts-output/2024-06-13-world-refugee-day/"
+url: "/posts/2024-06-13-world-refugee-day/"
+aliases: ["/posts-output/2024-06-13-world-refugee-day/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ Next Thursday, June 20, is the UN World Refugee Day. As you know, working for so
 
 Please set a few moments aside on Thursday to empathise with our brother and sister refugees. It could be any one of us, given different circumstances. And then, with the election coming up, why not inform yourself on where the various candidates stand on this issue. You will then be in a great position to use your gifts of Knowledge, Wisdom, Courage and Understanding in the polling booth.
 
-Finally, as always, please remain aware of need around us and [just reach out](/pages-output/contact/) if our help is needed. We will always try our best to help.
+Finally, as always, please remain aware of need around us and [just reach out](/contact/) if our help is needed. We will always try our best to help.
 
 God Bless.

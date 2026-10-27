@@ -1,7 +1,8 @@
 ---
 title: "Last Gifted of the year"
 date: "2025-12-01T00:00:00+00:00"
-url: "/posts-output/2025-12-01-christmas-by-candlelight/"
+url: "/posts/2025-12-01-christmas-by-candlelight/"
+aliases: ["/posts-output/2025-12-01-christmas-by-candlelight/"]
 author: "Paul O'Regan and Tracy Tierney"
 tags: []
 ---
@@ -12,7 +13,7 @@ just mention it to us and we'll try and source it for you.
 
 Also, don't forget your tickets for 'Christmas by Candlelight' on Sunday, Dec. 21.
 
-Finally, please keep an eye out for needs around you and just [contact the SVP](/pages-output/contact/) if you
+Finally, please keep an eye out for needs around you and just [contact the SVP](/contact/) if you
 think that we can be of help. We'll always do our best.
 
 God Bless.

@@ -1,7 +1,8 @@
 ---
 title: "Are You Called to Leadership?"
 date: "2020-05-15T00:00:00+00:00"
-url: "/posts-output/2020-05-15-are-you-called-to-leadership/"
+url: "/posts/2020-05-15-are-you-called-to-leadership/"
+aliases: ["/posts-output/2020-05-15-are-you-called-to-leadership/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -13,6 +14,6 @@ Our SVP Conference (the official word for 'team') at St Gregory's was formally f
 
 The SVP Team asks you to please pray that a candidate, or candidates, will come forward during the next 12 months and that we will have a successful election. If you, or someone you know, is interested in knowing more, please get in touch with one of the team. Thanks a million in advance.
 
-Finally, as always, please be 'Aware' of need in the community and, if help is needed, [contact your SVP Team](/pages-output/contact/).
+Finally, as always, please be 'Aware' of need in the community and, if help is needed, [contact your SVP Team](/contact/).
 
 God Bless!

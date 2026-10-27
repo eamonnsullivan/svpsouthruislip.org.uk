@@ -1,7 +1,8 @@
 ---
 title: "Awareness month"
 date: "2021-09-09T00:00:00+00:00"
-url: "/posts-output/2021-09-09-awareness-month/"
+url: "/posts/2021-09-09-awareness-month/"
+aliases: ["/posts-output/2021-09-09-awareness-month/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -11,6 +12,6 @@ We would like to thank all of those who get involved in any way at all. Without 
 
 We have all been challenged as a result of Covid-19 and need your help more than ever. There are families short of food, lonely people who need a friend, those facing illness and many other situations. Please join us and work to help them in any way you can, be it packing food, collecting donations or phoning someone for a chat.  There are many ways in which you can help.
 
-If you would like more information about helping the SVP, please [contact us](/pages-output/contact/).
+If you would like more information about helping the SVP, please [contact us](/contact/).
 
 God Bless!

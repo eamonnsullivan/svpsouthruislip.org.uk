@@ -1,7 +1,8 @@
 ---
 title: "Reaching out to the Lonely"
 date: "2023-03-16T00:00:00+00:00"
-url: "/posts-output/2023-03-16-reaching-out-to-the-lonely/"
+url: "/posts/2023-03-16-reaching-out-to-the-lonely/"
+aliases: ["/posts-output/2023-03-16-reaching-out-to-the-lonely/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ One of the pillars of the SVP is to reach out to the lonely. Many people are ver
 
 If helping the lonely, the poor, the sick or the imprisoned strikes a chord within your heart, then why not get in touch? A strong group of volunteers ensures that the work we do is sustainable. So please have a think!
 
-Finally, as always, please remain 'Aware' of need around us and do not hesitate to [contact your SVP Team](/pages-output/contact/) if our help is needed.
+Finally, as always, please remain 'Aware' of need around us and do not hesitate to [contact your SVP Team](/contact/) if our help is needed.
 
 God Bless.

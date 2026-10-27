@@ -1,7 +1,8 @@
 ---
 title: "Jubilee cake sale success"
 date: "2022-06-09T00:00:00+00:00"
-url: "/posts-output/2022-06-09-jubilee-cake-sale-success/"
+url: "/posts/2022-06-09-jubilee-cake-sale-success/"
+aliases: ["/posts-output/2022-06-09-jubilee-cake-sale-success/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -9,4 +10,4 @@ The B-Attitudes would like to thank everyone who supported the Jubilee cake sale
 
 A date for your diary: On Saturday, July 9, we will hold a family quiz night in the church hall. More details to follow in the coming weeks.
 
-As always, if you come across anyone who needs help or a visit from an SVP member, please do not hesitate to [contact your SVP team](/pages-output/contact/) and we will do our best to help.
+As always, if you come across anyone who needs help or a visit from an SVP member, please do not hesitate to [contact your SVP team](/contact/) and we will do our best to help.

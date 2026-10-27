@@ -1,7 +1,8 @@
 ---
 title: "Stirrings of the Holy Spirit"
 date: "2025-04-03T00:00:00+00:00"
-url: "/posts-output/2025-04-03-stirrings-of-the-holy-spirit/"
+url: "/posts/2025-04-03-stirrings-of-the-holy-spirit/"
+aliases: ["/posts-output/2025-04-03-stirrings-of-the-holy-spirit/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -11,6 +12,6 @@ We visited one such primary school last week to say 'Thank You' and the level of
 
 If the Holy Spirit is stirring something in you, and if you think that helping the needy might be the response being sought, then why not consider joining the team? We always need new members such that the work of the SVP remains sustainable. If you want to 'Turn Concern into Action' then why not get in touch!
 
-Finally, as ever, please remain aware of need around us and just [let us know](/pages-output/contact/) if you think the SVP can help. We'll always do our best.
+Finally, as ever, please remain aware of need around us and just [let us know](/contact/) if you think the SVP can help. We'll always do our best.
 
 God Bless.

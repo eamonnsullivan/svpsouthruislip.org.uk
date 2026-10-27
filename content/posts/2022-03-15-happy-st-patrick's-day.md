@@ -1,7 +1,8 @@
 ---
 title: "Happy St Patrick's Day"
 date: "2022-03-15T00:00:00+00:00"
-url: "/posts-output/2022-03-15-happy-st-patrick's-day/"
+url: "/posts/2022-03-15-happy-st-patrick's-day/"
+aliases: ["/posts-output/2022-03-15-happy-st-patrick's-day/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -9,4 +10,4 @@ Happy St Patrick's Day! I hope you had a great one and are able to join our St P
 
 Funds raised from the bingo evening will help to fund activities undertaken by the SVP -- the food bank, our bereavement care group, support for the homeless and visiting residents of care homes, refugees, the sick, housebound and lonely.
 
-As always, if you come across anyone who needs help, please do not hesitate to [contact your SVP Team](/pages-output/contact/) and we will do our best to help.
+As always, if you come across anyone who needs help, please do not hesitate to [contact your SVP Team](/contact/) and we will do our best to help.

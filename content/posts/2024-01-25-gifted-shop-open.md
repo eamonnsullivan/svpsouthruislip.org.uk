@@ -1,7 +1,8 @@
 ---
 title: "Gifted shop open"
 date: "2024-01-25T00:00:00+00:00"
-url: "/posts-output/2024-01-25-gifted-shop-open/"
+url: "/posts/2024-01-25-gifted-shop-open/"
+aliases: ["/posts-output/2024-01-25-gifted-shop-open/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ The New Year is now ticking along, as all the others have, and so much so that n
 
 If there is something in particular that you are seeking, then just ask one of us at the table and we'll do our best to source it for you. Thank you in advance for your ongoing support of this particular SVP work stream.
 
-Finally, as always, please remain aware of need around us and just [get in touch with the SVP](/pages-output/contact/) if you think our help is needed.
+Finally, as always, please remain aware of need around us and just [get in touch with the SVP](/contact/) if you think our help is needed.
 
 God Bless.

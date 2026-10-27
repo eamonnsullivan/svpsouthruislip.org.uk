@@ -1,7 +1,8 @@
 ---
 title: "Next steps for the Foodbank"
 date: "2020-07-24T00:00:00+00:00"
-url: "/posts-output/2020-07-24-next-steps-for-the-food-bank/"
+url: "/posts/2020-07-24-next-steps-for-the-food-bank/"
+aliases: ["/posts-output/2020-07-24-next-steps-for-the-food-bank/"]
 author: "Paul O'Regan"
 tags: ["foodbank"]
 ---
@@ -11,6 +12,6 @@ Since Lockdown commenced, the Foodbank has been operated by a 'volunteers bubble
 
 Thank you to those who have kindly stepped forward to be part of the new rota and it is still not too late to get in touch if you would like to be included! The Foodbank leaders meet next Saturday to discuss the idea of re-introducing a rota, potentially to start on Sept. 5, and we will be in touch with all those who expressed an interest once a safe strategy is agreed.
 
-Finally, as always, please remain 'Aware' of need and just [get in touch](/pages-output/contact/) with us if you know of someone who might need the help of the SVP.
+Finally, as always, please remain 'Aware' of need and just [get in touch](/contact/) with us if you know of someone who might need the help of the SVP.
 
 God Bless!

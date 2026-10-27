@@ -1,7 +1,8 @@
 ---
 title: "March activities"
 date: "2023-02-23T00:00:00+00:00"
-url: "/posts-output/2023-02-23-march-activities/"
+url: "/posts/2023-02-23-march-activities/"
+aliases: ["/posts-output/2023-02-23-march-activities/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -14,6 +15,6 @@ The noticeable lengthening of the evening is a sure sign that the year is rollin
 
 So: It is all go!! We are doing other things too, so have a look at our website and see if there is something there that you would like to help with. Maybe it could become your Lenten commitment?
 
-Finally, as always, please remain 'Aware' of need around us and do not hesitate to [contact your SVP Team](/pages-output/contact/) if our help is needed.
+Finally, as always, please remain 'Aware' of need around us and do not hesitate to [contact your SVP Team](/contact/) if our help is needed.
 
 God Bless.

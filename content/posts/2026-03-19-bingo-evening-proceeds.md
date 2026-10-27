@@ -1,7 +1,8 @@
 ---
 title: "Bingo evening proceeds"
 date: "2026-03-19T00:00:00+00:00"
-url: "/posts-output/2026-03-19-bingo-evening-proceeds/"
+url: "/posts/2026-03-19-bingo-evening-proceeds/"
+aliases: ["/posts-output/2026-03-19-bingo-evening-proceeds/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ We really hope you enjoyed the bingo evening last Saturday. We would like to tha
 
 The team remains busy on a number of fronts, including the food bank, the bereavement support group, and visits to homes, care homes and the immigration detention centre. We also continue to mentor the B-Attitudes team in the parish so these various workstreams keep all hands occupied! If you'd like to help out with any of this work, or if you'd like to just find out more, then please feel free to contact any of the team as you see us out and about the parish. We can also be found via the details below.
 
-Finally, as always, please remain aware of need around you and just [contact the SVP](/pages-output/contact/) if you think that we can be of help. We'll always do our best.
+Finally, as always, please remain aware of need around you and just [contact the SVP](/contact/) if you think that we can be of help. We'll always do our best.
 
 God Bless.

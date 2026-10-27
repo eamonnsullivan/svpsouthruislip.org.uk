@@ -1,7 +1,8 @@
 ---
 title: "Visiting the lonely"
 date: "2025-12-11T00:00:00+00:00"
-url: "/posts-output/2025-12-11-visiting-the-lonely/"
+url: "/posts/2025-12-11-visiting-the-lonely/"
+aliases: ["/posts-output/2025-12-11-visiting-the-lonely/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -21,7 +22,7 @@ planning your 2026 resolutions, then do not forget to consider joining
 the SVP. You won't regret it!!
 
 Finally, please remain aware of need around you and just [contact the
-SVP](/pages-output/contact/) if you think that we can be of help.
+SVP](/contact/) if you think that we can be of help.
 We'll always do our best.
 
 God Bless.

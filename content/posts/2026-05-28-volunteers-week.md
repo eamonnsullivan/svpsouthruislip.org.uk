@@ -1,7 +1,8 @@
 ---
 title: "Volunteers week"
 date: "2026-05-28T00:00:00+00:00"
-url: "/posts-output/2026-05-28-volunteers-week/"
+url: "/posts/2026-05-28-volunteers-week/"
+aliases: ["/posts-output/2026-05-28-volunteers-week/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ This coming week is the U.K.'s annual Volunteers' Week, so please keep all volun
 
 Volunteering has many, many benefits. For young people with long summer holidays ahead, it can give real-life, character-forming opportunities. If anyone is interested in joining any of the SVP teams, please don't hesitate to contact us!
 
-Finally, as always, please keep an eye on neighbours who may be vulnerable and, please, just [contact the SVP](/pages-output/contact/) if you think that we can be of help. We'll always do our best.
+Finally, as always, please keep an eye on neighbours who may be vulnerable and, please, just [contact the SVP](/contact/) if you think that we can be of help. We'll always do our best.
 
 God Bless.

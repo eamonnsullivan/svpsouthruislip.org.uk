@@ -1,7 +1,8 @@
 ---
 title: "Taking a step"
 date: "2022-12-08T00:00:00+00:00"
-url: "/posts-output/2022-12-08-taking-a-step/"
+url: "/posts/2022-12-08-taking-a-step/"
+aliases: ["/posts-output/2022-12-08-taking-a-step/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ We had our final monthly meeting of the year on Monday evening and, as usual, th
 
 Please play your part too, though, and keep an eye on your vulnerable family members, friends and/or neighbours. The first step is to take a step and if we all do something, then that could make all the difference to someone in need.
 
-Our request, as ever, is to please remain 'Aware' of need around us and do not hesitate to [contact your SVP Team](/pages-output/contact/) if our help is needed.
+Our request, as ever, is to please remain 'Aware' of need around us and do not hesitate to [contact your SVP Team](/contact/) if our help is needed.
 
 God Bless.

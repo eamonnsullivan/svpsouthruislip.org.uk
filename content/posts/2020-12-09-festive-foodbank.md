@@ -1,13 +1,14 @@
 ---
 title: "Seasonal items needed at our food bank"
 date: "2020-12-09T00:00:00+00:00"
-url: "/posts-output/2020-12-09-festive-foodbank/"
+url: "/posts/2020-12-09-festive-foodbank/"
+aliases: ["/posts-output/2020-12-09-festive-foodbank/"]
 author: "Tracy Tierney"
 tags: ["foodbank", "holidays"]
 ---
 With the festive season rapidly approaching, the food bank is as busy as ever. The holidays can be especially hard on families who are struggling, and the global pandemic is making it harder still.
 
-As always, we rely on your donations. Items we most regularly require are listed [here](/pages-output/foodbank/#donations). In addition to these, please consider donating seasonal items that may be a treat for those in need, such as the following:
+As always, we rely on your donations. Items we most regularly require are listed [here](/foodbank/#donations). In addition to these, please consider donating seasonal items that may be a treat for those in need, such as the following:
 
  * Christmas Cake
  * Chocolates

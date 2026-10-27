@@ -1,7 +1,8 @@
 ---
 title: "B-Attitudes fundraising"
 date: "2024-10-24T00:00:00+00:00"
-url: "/posts-output/2024-10-24-b-attitudes-fundraising/"
+url: "/posts/2024-10-24-b-attitudes-fundraising/"
+aliases: ["/posts-output/2024-10-24-b-attitudes-fundraising/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,7 +10,7 @@ Last Saturday evening, seven hardy B-Attitudes, safeguarded by two equally-hardy
 
 The B-Attitudes and SVP teams would like to say a huge 'Thank You' for all your support and generosity, as a result of which they raised an amazing sum of £593.00! You can rest assured that these funds will now be used to top up our stock of homeless items, such as warm gloves, socks, thermals, sleeping bags and the like, as well as buying some special Christmas gifts for those in Brackenbridge House.
 
-The parish is blessed to have such teams of volunteers within its midst. If you ever want to join in just [get in touch](/pages-output/contact/)!
+The parish is blessed to have such teams of volunteers within its midst. If you ever want to join in just [get in touch](/contact/)!
 
 Finally, as always, please remain aware of need around us and just reach out if our help is needed.
 

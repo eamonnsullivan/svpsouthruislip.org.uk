@@ -1,7 +1,8 @@
 ---
 title: "The Four Pillars"
 date: "2025-01-23T00:00:00+00:00"
-url: "/posts-output/2025-01-23-the-four-pillars/"
+url: "/posts/2025-01-23-the-four-pillars/"
+aliases: ["/posts-output/2025-01-23-the-four-pillars/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ In a recent SVP News item we referred to the four pillars of the SVP. As a remin
 
 The [website](https://www.campaigntoendloneliness.org) is also a great source of information on an issue that appears to affect many people today, especially young people.
 
-Addressing loneliness has been a pillar of the SVP since its foundation in 1833, so if you need help with this, please just [reach out](/pages-output/contact/) to us. We'll always do our best to help.
+Addressing loneliness has been a pillar of the SVP since its foundation in 1833, so if you need help with this, please just [reach out](/contact/) to us. We'll always do our best to help.
 
 God Bless.

@@ -1,7 +1,8 @@
 ---
 title: "From national to local"
 date: "2024-07-25T00:00:00+00:00"
-url: "/posts-output/2024-07-25-from-national-to-local/"
+url: "/posts/2024-07-25-from-national-to-local/"
+aliases: ["/posts-output/2024-07-25-from-national-to-local/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -10,6 +11,6 @@ Whether it be advocating for Social Justice at government level, helping the mos
 
 At our team (known as an SVP conference) level, we try to mirror these examples through our workstreams such as the food bank, the bereavement support group, home, carehome and detention centre visits and such like. If you would like to help, or if you have any ideas for us, then why not get in touch! We'd love to hear from you.
 
-Finally, as always, please remain aware of need around us and [just reach out](/pages-output/contact/) if our help is needed. We will always try our best to help.
+Finally, as always, please remain aware of need around us and [just reach out](/contact/) if our help is needed. We will always try our best to help.
 
 God Bless.

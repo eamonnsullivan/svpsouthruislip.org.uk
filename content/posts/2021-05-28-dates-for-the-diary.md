@@ -1,7 +1,8 @@
 ---
 title: "Dates for the Diary"
 date: "2021-05-28T00:00:00+00:00"
-url: "/posts-output/2021-05-28-dates-for-the-diary/"
+url: "/posts/2021-05-28-dates-for-the-diary/"
+aliases: ["/posts-output/2021-05-28-dates-for-the-diary/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -17,4 +18,4 @@ If you can not make the session the team is available on the telephone: Call 075
 
 The SVP shop, Gifted, will be open for business after each weekend mass. Our focus this month is the young parishioners who will soon be taking their first Holy Communion. We have a selection of gifts and cards. In addition, we have a selection of rosary beads, statues and many other items.
 
-As always, if you come across anyone in need of our help in the community please do not hesitate to [contact](/pages-output/contact/) your SVP Team and we will do our best to help
+As always, if you come across anyone in need of our help in the community please do not hesitate to [contact](/contact/) your SVP Team and we will do our best to help

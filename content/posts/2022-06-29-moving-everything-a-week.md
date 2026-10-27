@@ -1,7 +1,8 @@
 ---
 title: "Moving everything a week"
 date: "2022-06-29T00:00:00+00:00"
-url: "/posts-output/2022-06-29-moving-everything-a-week/"
+url: "/posts/2022-06-29-moving-everything-a-week/"
+aliases: ["/posts-output/2022-06-29-moving-everything-a-week/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -9,4 +10,4 @@ The SVP shop, Gifted, was due to be open this weekend. Due to Fr Paul's Golden J
 
 Also, a reminder that the bereavement group will not meet as usual on the first Wednesday in July, but will meet instead on Wednesday, July 13.
 
-As always the SVP continues to be here for the parish and our community. If you or anyone you know would like a visit from an SVP member [please get in touch](/pages-output/contact/) and we will do our best to help.
+As always the SVP continues to be here for the parish and our community. If you or anyone you know would like a visit from an SVP member [please get in touch](/contact/) and we will do our best to help.

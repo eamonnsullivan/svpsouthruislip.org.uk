@@ -1,7 +1,8 @@
 ---
 title: "Concern into action"
 date: "2021-12-06T00:00:00+00:00"
-url: "/posts-output/2021-12-06-concern-into-action/"
+url: "/posts/2021-12-06-concern-into-action/"
+aliases: ["/posts-output/2021-12-06-concern-into-action/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -9,4 +10,4 @@ The SVP motto is "turn concern into action", so this festive season we would lik
 
 As you receive cards and letters through the post, please collect the stamps and drop them into the special stamp box in the church porch or in the church hall. Please leave about 1 cm of envelope or packaging around the stamp. The SVP and B-Attitudes will then sort the stamps and send them off to the RNIB, where they will recycle them into much needed funds for their services.
 
-As the weather is getting colder and more storms approach, please continue to watch out for your elderly neighbours. As always if you come across anyone in need, please do not hesitate to [contact your SVP Team](/pages-output/contact/) and we will do our best to help.
+As the weather is getting colder and more storms approach, please continue to watch out for your elderly neighbours. As always if you come across anyone in need, please do not hesitate to [contact your SVP Team](/contact/) and we will do our best to help.

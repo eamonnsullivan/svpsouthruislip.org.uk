@@ -1,7 +1,8 @@
 ---
 title: "Festival Mass"
 date: "2021-09-02T00:00:00+00:00"
-url: "/posts-output/2021-09-02-festival-mass/"
+url: "/posts/2021-09-02-festival-mass/"
+aliases: ["/posts-output/2021-09-02-festival-mass/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -9,6 +10,6 @@ Our first ever SVP Festival Mass at St. Gregory the Great Parish will be held at
 
 Also, the SVP shop will be open this weekend before and after mass on Saturday Evening and all masses on Sunday. We have a selection of religious items and greeting cards.
 
-As always, if you or anyone you know would like a visit please [contact the SVP](/pages-output/contact/).
+As always, if you or anyone you know would like a visit please [contact the SVP](/contact/).
 
 God Bless!

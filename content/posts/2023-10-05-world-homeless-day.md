@@ -1,7 +1,8 @@
 ---
 title: "World Homeless Day"
 date: "2023-10-05T00:00:00+00:00"
-url: "/posts-output/2023-10-05-world-homeless-day/"
+url: "/posts/2023-10-05-world-homeless-day/"
+aliases: ["/posts-output/2023-10-05-world-homeless-day/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -9,6 +10,6 @@ Next Tuesday is World Homeless Day. In an effort to raise funds to help the home
 
 Thank you, also, to those who managed to turn up at our annual SVP Mass last weekend -- it was lovely to see such a range of SVP, B-Attitudes, parishioners and clients!
 
-Finally, as always, please remain sensitively and lovingly aware of need within our community and just [get in touch with us](/pages-output/contact/) if you think our help is needed. We will always try our best to help.
+Finally, as always, please remain sensitively and lovingly aware of need within our community and just [get in touch with us](/contact/) if you think our help is needed. We will always try our best to help.
 
 God Bless.

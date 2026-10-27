@@ -1,7 +1,8 @@
 ---
 title: "Joyful Music"
 date: "2020-06-19T00:00:00+00:00"
-url: "/posts-output/2020-06-19-joyful-music/"
+url: "/posts/2020-06-19-joyful-music/"
+aliases: ["/posts-output/2020-06-19-joyful-music/"]
 author: "Paul O'Regan"
 tags: ["foodbank"]
 ---
@@ -11,6 +12,6 @@ The Foodbank session was very busy, the 'new normal', and we never got to say th
 
 Client numbers have more than doubled (busiest Saturday recently had 40 families), so among these troubles let's share some Joy, just one Fruit of the Gifts of the Holy Spirit.
 
-Finally, as always, please remain 'Aware' of need and just [get in touch](/pages-output/contact/) with us if you know of someone who might need the help of the SVP.
+Finally, as always, please remain 'Aware' of need and just [get in touch](/contact/) with us if you know of someone who might need the help of the SVP.
 
 God Bless!

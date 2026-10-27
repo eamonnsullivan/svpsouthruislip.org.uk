@@ -1,7 +1,8 @@
 ---
 title: "HSBC partnership, Christmas stockings"
 date: "2021-11-08T00:00:00+00:00"
-url: "/posts-output/2021-11-08-hsbc-partnership,-christmas-stockings/"
+url: "/posts/2021-11-08-hsbc-partnership,-christmas-stockings/"
+aliases: ["/posts-output/2021-11-08-hsbc-partnership,-christmas-stockings/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -9,4 +10,4 @@ The SVP has partnered with HSBC on a few occasions this year: Staff members of t
 
 As Christmas is fast approaching, the SVP is looking to put stockings together for children whose parents have found the need to use our food bank. To do this we need a little help. If you could add any of the following when you are shopping, it would be greatly appreciated: selection boxes, chocolate coins, chocolate Santas, large tubes of sweets or anything you think is appropriate.
 
-Please continue to watch out for your elderly neighbours and as always if you come across anyone who needs help, please do not hesitate to [contact your SVP Team](/pages-output/contact/) and we will do our best to help.
+Please continue to watch out for your elderly neighbours and as always if you come across anyone who needs help, please do not hesitate to [contact your SVP Team](/contact/) and we will do our best to help.

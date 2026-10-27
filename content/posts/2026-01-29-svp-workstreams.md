@@ -1,7 +1,8 @@
 ---
 title: "SVP Workstreams"
 date: "2026-01-29T00:00:00+00:00"
-url: "/posts-output/2026-01-29-svp-workstreams/"
+url: "/posts/2026-01-29-svp-workstreams/"
+aliases: ["/posts-output/2026-01-29-svp-workstreams/"]
 author: "Paul O'Regan"
 tags: []
 ---
@@ -13,6 +14,6 @@ Other team members also remain busy with home and care home visits, the B-Attitu
 
 If any of these workstreams interest you, then why not reach out to any SVP member and see where the journey takes you!!
 
-Finally, as always, please remain aware of need around you and just [contact the SVP](/pages-output/contact/) if you think that we can be of help. We'll always do our best.
+Finally, as always, please remain aware of need around you and just [contact the SVP](/contact/) if you think that we can be of help. We'll always do our best.
 
 God Bless.

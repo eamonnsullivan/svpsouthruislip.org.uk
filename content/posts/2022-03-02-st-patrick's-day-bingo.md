@@ -1,7 +1,8 @@
 ---
 title: "St Patrick's Day Bingo"
 date: "2022-03-02T00:00:00+00:00"
-url: "/posts-output/2022-03-02-st-patrick's-day-bingo/"
+url: "/posts/2022-03-02-st-patrick's-day-bingo/"
+aliases: ["/posts-output/2022-03-02-st-patrick's-day-bingo/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -9,4 +10,4 @@ As St Patrick's Day is fast approaching, we are well underway with the preparati
 
 The SVP shop will be open this weekend after all masses on Saturday evening and Sunday. We have stocked up, not only for St Patrick's Day (March 17), but also for St Joseph's Day (March 19), Mothers Day (March 27) and Easter (April 17). Please stop by for a browse and a chat.
 
-As always, if you come across anyone who needs help, please do not hesitate to [contact your SVP Team](/pages-output/contact/) and we will do our best to help.
+As always, if you come across anyone who needs help, please do not hesitate to [contact your SVP Team](/contact/) and we will do our best to help.

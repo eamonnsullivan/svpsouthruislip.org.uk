@@ -1,7 +1,8 @@
 ---
 title: "Bereavement group meeting"
 date: "2021-10-27T00:00:00+00:00"
-url: "/posts-output/2021-10-27-bereavement-group-meeting/"
+url: "/posts/2021-10-27-bereavement-group-meeting/"
+aliases: ["/posts-output/2021-10-27-bereavement-group-meeting/"]
 author: "Tracy Tierney"
 tags: []
 ---
@@ -9,6 +10,6 @@ The SVP Bereavement Care group meets on the first Wednesday of every month, so w
 
 Next weekend, Nov. 6-7, the SVP shop will be open in the porch. We are excited to let you know our first lot of Christmas stock has arrived and will be on sale -- everything from cards to Advent candles.
 
-As always, if you come across anyone in need of our help in the community, please do not hesitate to [contact your SVP Team](/pages-output/contact/) and we will do our best to help.
+As always, if you come across anyone in need of our help in the community, please do not hesitate to [contact your SVP Team](/contact/) and we will do our best to help.
 
 God Bless!

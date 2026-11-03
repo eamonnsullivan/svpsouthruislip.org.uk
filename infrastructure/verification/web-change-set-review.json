@@ -1,0 +1,121 @@
+{
+  "account_id": "995361647121",
+  "region": "eu-west-1",
+  "reviewed_at": "2026-11-03T09:12:26Z",
+  "stack_state_checked_at": "2026-11-03T09:12:26Z",
+  "change_set_arn": "arn:aws:cloudformation:eu-west-1:995361647121:changeSet/svpsouthruislip-web-import-review1/6b57bcea-cc73-41ec-81f3-6c2e40de08c7",
+  "stack_id": "arn:aws:cloudformation:eu-west-1:995361647121:stack/svpsouthruislip-web/b48ce660-d6df-11f1-af9b-0a4affad8cf7",
+  "change_set_type_requested": "IMPORT",
+  "created_by": "human administrator CLI",
+  "created_at": "2026-11-02T17:06:12.156000+00:00",
+  "preparation_approved_by_human": true,
+  "execution_approved": true,
+  "execution_approval_recorded_at": "2026-11-03T09:17:57Z",
+  "execution_performed": true,
+  "execution_performed_by": "human administrator CLI",
+  "import_complete_at": "2026-11-03T09:31:25.802000+00:00",
+  "completion_verified_at": "2026-11-03T10:09:24Z",
+  "review_outcome": "IMPORT_COMPLETE_VERIFIED",
+  "completion_evidence": "infrastructure/verification/web-import-completion.json",
+  "previous_pause_decision": {
+    "recorded_at": "2026-11-02T17:30:32Z",
+    "response": "Pause — leave protected review stack",
+    "paused": true,
+    "resume_requires_fresh_preflight_and_new_exact_arn_approval": true
+  },
+  "user_decision": {
+    "recorded_at": "2026-11-03T09:17:57Z",
+    "response": "Approve web import and immediate policy",
+    "paused": false,
+    "human_confirmed_freeze_and_backups": true,
+    "scope": "Human executes only the exact five-resource web Import change set, waits for IMPORT_COMPLETE, immediately attaches the reviewed stack policy, and stops for verification. No normal updates or other import batches; MCP stays read-only."
+  },
+  "current_human_operator": {
+    "profile": "AdministratorAccess-995361647121",
+    "account_id": "995361647121",
+    "arn": "arn:aws:sts::995361647121:assumed-role/AWSReservedSSO_AdministratorAccess_cb7450173a83f9aa/eamonn",
+    "identity_source": "Fresh human CLI GetCallerIdentity export reviewed locally"
+  },
+  "review_sources": {
+    "detail": "Human administrator exported unfiltered CLI responses; assistant reviewed local JSON and independently checked live stack/change-set summaries through read-only MCP.",
+    "mcp_inspection_denies": [
+      "cloudformation:DescribeChangeSet",
+      "cloudformation:GetTemplate",
+      "cloudformation:DescribeEvents"
+    ],
+    "mcp_permissions_expanded_for_review": false,
+    "private_export_directory": "infrastructure/work/web-review1"
+  },
+  "sha256": {
+    "operator-identity.json": "1152cb2ff7628ff0c1221d43065509cc57e3636dbef8f97edf0b28d3fcc62087",
+    "request.json": "242616da60565b200f5e081edf7e07519c93177862bf0e246999b8d3599eaa58",
+    "template.yaml": "cf05d55ef6477c0453ea4dcacb78e5e86ba6f20d51f3ce472210a0826d83561d",
+    "change-set.json": "f907001b0b9d2e20b47982ef31d085ebfcf1b1f15bb7b5094d57dc246f541346",
+    "prepared-template.json": "3acc1bea7acc6dd631b77fa718bd1a3e5c390207b8447da005113aaf4970a6ed",
+    "validation-events.json": "1682b4e4217bc9f5f92c232c549bc27aa2403ee7ede5ff8bb624b9167998fba4"
+  },
+  "reviewed_pre_execution_plan": {
+    "status": "CREATE_COMPLETE",
+    "execution_status": "AVAILABLE",
+    "prepared_template_byte_identical_to_approved_request_and_source": true,
+    "resource_change_count": 5,
+    "all_actions_import": true,
+    "all_original_physical_ids_and_types_match": true,
+    "add_modify_remove_replacement_count": 0,
+    "all_resources_have_both_retain_policies": true,
+    "outputs_present": false,
+    "parameters_present": false,
+    "extra_stack_tags_requested": false,
+    "capabilities": [],
+    "include_nested_stacks": false,
+    "auto_import_requested": false,
+    "unconsumed_pagination_tokens": false
+  },
+  "reviewed_changes": [
+    {"Action": "Import", "LogicalResourceId": "LegacyOriginAccessIdentity", "PhysicalResourceId": "E1H05UTZYYPBPP", "ResourceType": "AWS::CloudFront::CloudFrontOriginAccessIdentity"},
+    {"Action": "Import", "LogicalResourceId": "RedirectBucket", "PhysicalResourceId": "www.svpsouthruislip.org.uk", "ResourceType": "AWS::S3::Bucket"},
+    {"Action": "Import", "LogicalResourceId": "SiteBucketPolicy", "PhysicalResourceId": "svpsouthruislip.org.uk", "ResourceType": "AWS::S3::BucketPolicy"},
+    {"Action": "Import", "LogicalResourceId": "SiteBucket", "PhysicalResourceId": "svpsouthruislip.org.uk", "ResourceType": "AWS::S3::Bucket"},
+    {"Action": "Import", "LogicalResourceId": "SiteDistribution", "PhysicalResourceId": "E2ZXKXV2U7OYGL", "ResourceType": "AWS::CloudFront::Distribution"}
+  ],
+  "events": {
+    "operation_id": "6b57bcea-cc73-41ec-81f3-6c2e40de08c7",
+    "operation_type": "CREATE_CHANGESET",
+    "returned_event_count": 2,
+    "terminal_status": "SUCCEEDED",
+    "validation_error_events_returned": 0,
+    "validation_warning_events_returned": 0,
+    "limitation": "Only two stack-operation events were returned; absence of validation findings does not prove exhaustive checks or live property equality."
+  },
+  "policy_reference_review": {
+    "preview": "Bucket-policy Ref/Sub values are shown as KNOWN_AFTER_APPLY in AfterContext.",
+    "resolution": "Resolved using verified import identities: SiteBucket=svpsouthruislip.org.uk and LegacyOriginAccessIdentity=E1H05UTZYYPBPP.",
+    "resolved_bucket_and_policy_match_live_read_at": "2026-11-02T17:15:19Z"
+  },
+  "pre_execution_state": {
+    "stack_status": "REVIEW_IN_PROGRESS",
+    "adopted_resource_count": 0,
+    "termination_protection_enabled": true,
+    "termination_protection_verified_at": "2026-11-03T09:12:26Z",
+    "deployment_mode": "STANDARD",
+    "rollback_disabled": false,
+    "stack_tags": [],
+    "stack_policy_attachment": "DEFERRED_UNTIL_IMPORT_COMPLETE_BEFORE_ANY_NORMAL_UPDATE",
+    "human_policy_timing_acknowledgement_recorded": true
+  },
+  "readiness_refresh": {
+    "service_configuration_read_window_start": "2026-11-03T09:01:03Z",
+    "service_configuration_read_window_end": "2026-11-03T09:01:17Z",
+    "service_configuration_mismatches_or_unresolved_denies": false,
+    "enabled_regions_checked_for_ownership": 17,
+    "ownership_checked_at": "2026-11-03T09:03:59Z",
+    "conflicting_target_resource_ownership_found": false,
+    "public_dns_ds_and_http_checked_at": "2026-11-03T09:04:18Z",
+    "public_baseline_unchanged": true,
+    "stack_policy_sha256": "d20d0e9d6091176ca4eca646d40fcf851996a1382341a05d9fb554b0f6aee5ff",
+    "limitation": "Point-in-time checks only, not a guarantee of future runtime behavior. Human approval is limited to the exact reviewed web change set and immediate post-import policy attachment."
+  },
+  "next_gate_at_web_verification": "Web import and verification were complete. Next was fresh DNSSEC-key preflight followed by separate preparation and execution approvals; web approval did not authorize key/DNS changes or normal updates.",
+  "current_migration_summary": "infrastructure/verification/adoption-completion.json",
+  "next_gate": "All ten original resources are adopted and verified. Do not repeat imports/execution/drift. Human freeze release, ordinary updates/publication and temporary read-supplement removal remain separate decisions."
+}

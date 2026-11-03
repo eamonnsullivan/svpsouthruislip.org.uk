@@ -1,0 +1,118 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "ReadOnlySiteBucketConfiguration",
+      "Effect": "Allow",
+      "Action": [
+        "s3:GetBucketLocation",
+        "s3:GetBucketWebsite",
+        "s3:GetBucketPolicy",
+        "s3:GetBucketPolicyStatus",
+        "s3:GetBucketAcl",
+        "s3:GetBucketPublicAccessBlock",
+        "s3:GetBucketOwnershipControls",
+        "s3:GetEncryptionConfiguration",
+        "s3:GetBucketVersioning",
+        "s3:GetBucketLogging",
+        "s3:GetBucketTagging",
+        "s3:GetLifecycleConfiguration",
+        "s3:GetBucketCORS",
+        "s3:GetBucketNotification",
+        "s3:GetReplicationConfiguration",
+        "s3:GetBucketObjectLockConfiguration",
+        "s3:GetBucketRequestPayment",
+        "s3:GetAccelerateConfiguration",
+        "s3:GetInventoryConfiguration",
+        "s3:GetMetricsConfiguration",
+        "s3:GetAnalyticsConfiguration",
+        "s3:GetIntelligentTieringConfiguration"
+      ],
+      "Resource": [
+        "arn:aws:s3:::svpsouthruislip.org.uk",
+        "arn:aws:s3:::www.svpsouthruislip.org.uk",
+        "arn:aws:s3:::aws-website-southruislipsaintvincentdepaulsociety-3sps9"
+      ]
+    },
+    {
+      "Sid": "ReadOnlyAccountS3PublicAccessSettings",
+      "Effect": "Allow",
+      "Action": "s3:GetAccountPublicAccessBlock",
+      "Resource": "*",
+      "Condition": {
+        "StringEquals": {
+          "aws:PrincipalAccount": "995361647121"
+        }
+      }
+    },
+    {
+      "Sid": "ReadOnlySiteDistributionConfiguration",
+      "Effect": "Allow",
+      "Action": [
+        "cloudfront:GetDistribution",
+        "cloudfront:GetDistributionConfig",
+        "cloudfront:ListTagsForResource"
+      ],
+      "Resource": "arn:aws:cloudfront::995361647121:distribution/E2ZXKXV2U7OYGL"
+    },
+    {
+      "Sid": "ReadOnlySiteOriginAccessIdentityConfiguration",
+      "Effect": "Allow",
+      "Action": [
+        "cloudfront:GetCloudFrontOriginAccessIdentity",
+        "cloudfront:GetCloudFrontOriginAccessIdentityConfig"
+      ],
+      "Resource": "arn:aws:cloudfront::995361647121:origin-access-identity/E1H05UTZYYPBPP"
+    },
+    {
+      "Sid": "ReadOnlySiteDnssecKeyConfiguration",
+      "Effect": "Allow",
+      "Action": [
+        "kms:DescribeKey",
+        "kms:GetKeyPolicy",
+        "kms:GetKeyRotationStatus",
+        "kms:ListResourceTags"
+      ],
+      "Resource": "arn:aws:kms:us-east-1:995361647121:key/944105a2-c852-4c4f-a0f2-a0f1b91344c9"
+    },
+    {
+      "Sid": "ReadOnlyKeyAliasDiscoveryInDnssecRegion",
+      "Effect": "Allow",
+      "Action": "kms:ListAliases",
+      "Resource": "*",
+      "Condition": {
+        "StringEquals": {
+          "aws:PrincipalAccount": "995361647121",
+          "aws:RequestedRegion": "us-east-1"
+        }
+      }
+    },
+    {
+      "Sid": "ReadOnlyExistingSiteCertificateMetadata",
+      "Effect": "Allow",
+      "Action": [
+        "acm:DescribeCertificate",
+        "acm:ListTagsForCertificate"
+      ],
+      "Resource": "arn:aws:acm:us-east-1:995361647121:certificate/719a94fe-dad7-4dbf-9a1d-cbad2afc96b7"
+    },
+    {
+      "Sid": "ReadOnlyTemplateAndImportIdentifierValidation",
+      "Effect": "Allow",
+      "Action": [
+        "cloudformation:GetTemplateSummary",
+        "cloudformation:ValidateTemplate"
+      ],
+      "Resource": "*",
+      "Condition": {
+        "StringEquals": {
+          "aws:PrincipalAccount": "995361647121",
+          "aws:RequestedRegion": [
+            "eu-west-1",
+            "us-east-1"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "ResourceType": "AWS::Route53::HostedZone",
+    "LogicalResourceId": "SiteHostedZone",
+    "ResourceIdentifier": {"Id": "Z3SM1DWWC45TX"}
+  },
+  {
+    "ResourceType": "AWS::Route53::KeySigningKey",
+    "LogicalResourceId": "SiteKeySigningKey",
+    "ResourceIdentifier": {"HostedZoneId": "Z3SM1DWWC45TX", "Name": "svpsouthruislip"}
+  },
+  {
+    "ResourceType": "AWS::Route53::DNSSEC",
+    "LogicalResourceId": "SiteDnssec",
+    "ResourceIdentifier": {"HostedZoneId": "Z3SM1DWWC45TX"}
+  }
+]

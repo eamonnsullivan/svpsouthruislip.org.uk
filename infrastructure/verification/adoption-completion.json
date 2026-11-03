@@ -1,0 +1,171 @@
+{
+  "account_id": "995361647121",
+  "site": "svpsouthruislip.org.uk",
+  "outcome": "ADOPTION_COMPLETE_VERIFIED_ALL_TEN_RESOURCES",
+  "fully_verified": true,
+  "final_verified_observation_at": "2026-11-03T14:55:08.894265+00:00",
+  "adopted_resource_count": 10,
+  "fully_verified_resource_count": 10,
+  "completed_stack_count": 3,
+  "adoption_requires_further_aws_writes": false,
+  "remaining_adoption_actions": [],
+  "method": "Separately approved human administrator CLI imports and immediate reviewed stack-policy installation/readback, private complete plan/template/event/drift exports, independent local security reviews, read-only AWS MCP configuration/ownership checks and public HEAD/dig comparisons. No resource recreation or serving-configuration modernization was part of adoption.",
+  "authority_boundary": {
+    "all_aws_mutations_performed_by": "Human administrator CLI after separate preparation, protection, exact-ARN execution/policy and drift-scheduling approval gates.",
+    "assistant_aws_mutations_performed": false,
+    "mcp_role": "AWSReservedSSO_ViewOnlyAccess_473dc8eafd445510",
+    "mcp_deployment_permissions_added": false,
+    "normal_updates_resource_configuration_changes_or_publication_authorized": false,
+    "commits_or_pushes_performed_by_assistant": false
+  },
+  "stacks": [
+    {
+      "batch": "web",
+      "stack_name": "svpsouthruislip-web",
+      "region": "eu-west-1",
+      "stack_id": "arn:aws:cloudformation:eu-west-1:995361647121:stack/svpsouthruislip-web/b48ce660-d6df-11f1-af9b-0a4affad8cf7",
+      "executed_approved_change_set_arn": "arn:aws:cloudformation:eu-west-1:995361647121:changeSet/svpsouthruislip-web-import-review1/6b57bcea-cc73-41ec-81f3-6c2e40de08c7",
+      "import_complete_at": "2026-11-03T09:31:25.802000+00:00",
+      "outcome": "IMPORT_COMPLETE_VERIFIED",
+      "resource_count": 5,
+      "completion_evidence": "infrastructure/verification/web-import-completion.json",
+      "completion_evidence_sha256": "5e3a59633b80bde12ca35ab9d847b7fa5ff7b859344184922ea6135960217339",
+      "resources": [
+        {"LogicalResourceId": "SiteBucket", "ResourceType": "AWS::S3::Bucket", "PhysicalResourceId": "svpsouthruislip.org.uk", "NativeDrift": "IN_SYNC"},
+        {"LogicalResourceId": "RedirectBucket", "ResourceType": "AWS::S3::Bucket", "PhysicalResourceId": "www.svpsouthruislip.org.uk", "NativeDrift": "IN_SYNC"},
+        {"LogicalResourceId": "SiteBucketPolicy", "ResourceType": "AWS::S3::BucketPolicy", "PhysicalResourceId": "svpsouthruislip.org.uk", "NativeDrift": "NOT_CHECKED", "DirectComparison": "MATCH; unsupported native drift."},
+        {"LogicalResourceId": "LegacyOriginAccessIdentity", "ResourceType": "AWS::CloudFront::CloudFrontOriginAccessIdentity", "PhysicalResourceId": "E1H05UTZYYPBPP", "NativeDrift": "IN_SYNC"},
+        {"LogicalResourceId": "SiteDistribution", "ResourceType": "AWS::CloudFront::Distribution", "PhysicalResourceId": "E2ZXKXV2U7OYGL", "NativeDrift": "IN_SYNC"}
+      ],
+      "completed_native_detection_id": "a7f5f530-d76c-11f1-9abe-0a9e944a051d",
+      "native_drifted_resource_count": 0
+    },
+    {
+      "batch": "dnssec-key",
+      "stack_name": "svpsouthruislip-dnssec-key",
+      "region": "us-east-1",
+      "stack_id": "arn:aws:cloudformation:us-east-1:995361647121:stack/svpsouthruislip-dnssec-key/3a4af620-d776-11f1-b694-0e765133f371",
+      "executed_approved_change_set_arn": "arn:aws:cloudformation:us-east-1:995361647121:changeSet/svpsouthruislip-dnssec-key-import-review1/dff31c49-152e-41d5-9aa6-2c5e3a9de62d",
+      "import_complete_at": "2026-11-03T11:57:30.436000+00:00",
+      "outcome": "IMPORT_COMPLETE_VERIFIED",
+      "resource_count": 2,
+      "completion_evidence": "infrastructure/verification/dnssec-key-import-completion.json",
+      "completion_evidence_sha256": "94947bcf4827960446d28dade8c0d0ce396e4e30fd8dfcb792aab3affdb9f2e5",
+      "resources": [
+        {"LogicalResourceId": "DnssecKey", "ResourceType": "AWS::KMS::Key", "PhysicalResourceId": "944105a2-c852-4c4f-a0f2-a0f1b91344c9", "NativeDrift": "IN_SYNC"},
+        {"LogicalResourceId": "DnssecKeyAlias", "ResourceType": "AWS::KMS::Alias", "PhysicalResourceId": "alias/svpsouthruislipkey", "NativeDrift": "NOT_CHECKED", "DirectComparison": "MATCH; original target/dates preserved, unsupported native drift."}
+      ],
+      "completed_native_detection_id": "e98b3970-d77f-11f1-86e4-12ffd5f8a705",
+      "native_drifted_resource_count": 0
+    },
+    {
+      "batch": "dns",
+      "stack_name": "svpsouthruislip-dns",
+      "region": "eu-west-1",
+      "stack_id": "arn:aws:cloudformation:eu-west-1:995361647121:stack/svpsouthruislip-dns/f56141d0-d785-11f1-bd48-0affd18eb563",
+      "executed_approved_change_set_arn": "arn:aws:cloudformation:eu-west-1:995361647121:changeSet/svpsouthruislip-dns-import-review1/e6ec8301-f991-40b3-a8e7-8222221cd267",
+      "import_complete_at": "2026-11-03T14:13:33.672000+00:00",
+      "outcome": "IMPORT_COMPLETE_VERIFIED",
+      "resource_count": 3,
+      "completion_evidence": "infrastructure/verification/dns-import-completion.json",
+      "completion_evidence_sha256": "6c94f5ed00d5d3a155fcd4fc428bec5bf23f2ef579c4dc7ab85baf00202b4f09",
+      "resources": [
+        {"LogicalResourceId": "SiteHostedZone", "ResourceType": "AWS::Route53::HostedZone", "PhysicalResourceId": "Z3SM1DWWC45TX", "NativeDrift": "IN_SYNC"},
+        {"LogicalResourceId": "SiteKeySigningKey", "ResourceType": "AWS::Route53::KeySigningKey", "PhysicalResourceId": "Z3SM1DWWC45TX|svpsouthruislip", "NativeDrift": "IN_SYNC"},
+        {"LogicalResourceId": "SiteDnssec", "ResourceType": "AWS::Route53::DNSSEC", "PhysicalResourceId": "Z3SM1DWWC45TX", "NativeDrift": "IN_SYNC"}
+      ],
+      "completed_native_detection_id": "285d2d10-d795-11f1-90eb-02ffea08c925",
+      "native_drifted_resource_count": 0
+    }
+  ],
+  "verified_protections_and_templates": {
+    "all_three_stacks_import_complete": true,
+    "all_three_stacks_termination_protection_enabled": true,
+    "all_three_installed_stack_policies_read_back_and_match_reviewed_document": true,
+    "stack_policy_sha256": "d20d0e9d6091176ca4eca646d40fcf851996a1382341a05d9fb554b0f6aee5ff",
+    "stack_policy_explicit_denies": ["Update:Replace", "Update:Delete"],
+    "all_ten_resources_preserve_both_retain_policies": true,
+    "all_deployed_original_templates_match_reviewed_sources_byte_for_byte": true,
+    "template_sha256": {
+      "web": "cf05d55ef6477c0453ea4dcacb78e5e86ba6f20d51f3ce472210a0826d83561d",
+      "dnssec-key": "4a30bf614da037aa9a0dc4a6a737147177c30ecaf266de41e9dfd2b1ae68ebaa",
+      "dns": "3587af1b6aa1cb5cdef74da7abcdf079d99e00982de5c452c3774057eabf5f2b"
+    },
+    "no_initial_outputs_parameters_extra_stack_tags_or_service_role": true,
+    "no_recreation_deletion_or_actual_replacement_observed": true,
+    "policy_timing_limit": "Human execution approvals acknowledged the short post-import policy attachment gap and the chained immediate-policy sequence. Installed content is verified; local receipt mtimes do not independently prove exact API installation times or uninterrupted policy coverage.",
+    "protection_limit": "Retain is not a backup or replacement prevention. Termination protection blocks stack deletion, not ordinary updates. Stack policy prevents replacement/removal during covered updates, not every possible in-place configuration change."
+  },
+  "native_drift_and_direct_coverage": {
+    "all_three_detections_complete_in_sync": true,
+    "total_drifted_resources": 0,
+    "supported_resources_verified_in_sync": 8,
+    "all_supported_resource_property_differences_empty": true,
+    "unsupported_resources_compared_directly": ["AWS::S3::BucketPolicy", "AWS::KMS::Alias"],
+    "all_complete_status_resource_receipts_reviewed_without_remaining_pagination": true,
+    "dns_detailed_receipts_verified_at": "2026-11-03T14:54:03.563240+00:00",
+    "limitation": "Native drift checks supported explicit properties only. It does not adopt external records, prove complete equivalence, cover every default/computed property or establish runtime/signing health. Unsupported policies/alias targets, legacy bucket ACLs, records, certificate associations and public DNS/HTTP were checked directly. No automatic remediation was performed."
+  },
+  "final_live_verification": {
+    "ownership_signing_record_read_window": {"started_at": "2026-11-03T14:54:33.447857+00:00", "finished_at": "2026-11-03T14:54:42.295237+00:00"},
+    "enabled_regions_checked": 17,
+    "active_stacks_checked": 7,
+    "all_discovered_stack_resources_read": true,
+    "all_ten_original_ids_owned_only_by_expected_three_site_stacks": true,
+    "no_extra_site_stack_resources_or_pending_change_sets": true,
+    "all_eleven_dns_record_sets_nameservers_and_zone_metadata_unchanged": true,
+    "original_ksk_name_key_linkage_public_key_ds_and_dates_unchanged": true,
+    "site_zone_serve_signature": "SIGNING",
+    "site_ksk_status": "ACTIVE",
+    "original_key_metadata_policy_alias_and_empty_tags_unchanged": true,
+    "zone_tags_remain_empty": true,
+    "other_hosted_zones_dependencies_unchanged": true,
+    "unresolved_denials_or_pagination_tokens": false,
+    "earlier_full_service_read_window": {"started_at": "2026-11-03T14:18:49.536381+00:00", "finished_at": "2026-11-03T14:19:07.690553+00:00"},
+    "earlier_full_service_comparison_verified_at": "2026-11-03T14:21:23.266708+00:00",
+    "full_service_configuration": "MATCH: both buckets' websites/ACLs/encryption/public-access/ownership/optional absences and policies, expected web system/business tags, complete CloudFront config/tags, original OAI, external ACM metadata/validation, all records and KMS policy/alias configuration.",
+    "expected_metadata": "Only previously recorded web import ownership metadata changed: exact CloudFormation system tags on two buckets and CloudFront ETag/LastModified metadata. Serving config/business tags/CallerReferences/IDs stayed unchanged. Key and hosted-zone tags remain empty; skipped tag updates did not replace resources.",
+    "scope_limit": "The full service audit was not repeated during final ownership/signing reads. Installed policy/template evidence remains the verified batch exports, not fresh final policy/template API calls."
+  },
+  "final_public_health": {
+    "started_at": "2026-11-03T14:55:07.826326+00:00",
+    "finished_at": "2026-11-03T14:55:08.894265+00:00",
+    "http_apex": 301,
+    "http_apex_location": "https://svpsouthruislip.org.uk/",
+    "https_apex": 200,
+    "https_www": 200,
+    "foodbank": 200,
+    "feed_xml": 200,
+    "legacy_html_alias": 200,
+    "baseline_nonexistent_path": 403,
+    "other_site_https_eamonnsullivan_co_uk": 200,
+    "root_object_etag": "6f80634e3116405fef371f074b1d2b07",
+    "public_ns_and_authoritative_parent_delegation_unchanged": true,
+    "authoritative_parent_server": "nsa.nic.uk.",
+    "parent_ds": "3666 13 2 749A1CBE44DB67CB2955ADF5D3AA274EF2D8C47CC88E0DFBC97032A5D60FD4AB",
+    "authoritative_ksk_dnskey_matches_original": true,
+    "continuous_monitoring_performed": false,
+    "limitation": "No regression observed in point-in-time checks. This is not a continuous availability or unconditional zero-disruption guarantee."
+  },
+  "external_and_untouched_scope": [
+    "All eleven DNS record sets, including NS/SOA, web routing, mail and both ACM validation CNAMEs; hosted-zone import does not adopt records.",
+    "Existing ACM certificate, domain registration/registrar administration, public delegation and parent DS administration.",
+    "Shared IAM/S3Access publishing role, GitHub OIDC, account audit and unrelated mail resources.",
+    "Disabled legacy distribution and legacy bucket, bucket objects/backups, KMS grants and signing/private material."
+  ],
+  "private_evidence_handling": {
+    "directories": ["infrastructure/work/web-review1", "infrastructure/work/dnssec-key-review1", "infrastructure/work/dns-review1"],
+    "private_export_directories_and_files": "0700 directories and 0600 files, Git-ignored; review/redact configuration/events/identity before publication.",
+    "no_credentials_private_keys_object_contents_or_crypto_operations_requested": true
+  },
+  "operational_handoff": {
+    "required_aws_mutations_remaining_for_adoption": [],
+    "completed_import_execution_policy_install_and_drift_commands_are_historical_only": true,
+    "publication_and_configuration_freeze_release_authorized": false,
+    "normal_stack_updates_or_publication_authorized": false,
+    "temporary_read_supplement_removed_by_this_work": false,
+    "temporary_read_supplement_removal_authorized": false,
+    "next_step": "Human review of final evidence. Any explicit freeze release, later ordinary update/publication plan or removal of only added read-supplement statements requires its own decision; preserve unrelated permissions.",
+    "publication_warning": "Every push to main, including infrastructure-only changes, triggers the existing S3 website publication workflow. No automatic infrastructure deployment workflow was added. Do not push, merge or publish while the existing freeze remains in place."
+  }
+}

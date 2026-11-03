@@ -1,0 +1,27 @@
+[
+  {
+    "ResourceType": "AWS::S3::Bucket",
+    "LogicalResourceId": "SiteBucket",
+    "ResourceIdentifier": {"BucketName": "svpsouthruislip.org.uk"}
+  },
+  {
+    "ResourceType": "AWS::S3::Bucket",
+    "LogicalResourceId": "RedirectBucket",
+    "ResourceIdentifier": {"BucketName": "www.svpsouthruislip.org.uk"}
+  },
+  {
+    "ResourceType": "AWS::CloudFront::CloudFrontOriginAccessIdentity",
+    "LogicalResourceId": "LegacyOriginAccessIdentity",
+    "ResourceIdentifier": {"Id": "E1H05UTZYYPBPP"}
+  },
+  {
+    "ResourceType": "AWS::S3::BucketPolicy",
+    "LogicalResourceId": "SiteBucketPolicy",
+    "ResourceIdentifier": {"Bucket": "svpsouthruislip.org.uk"}
+  },
+  {
+    "ResourceType": "AWS::CloudFront::Distribution",
+    "LogicalResourceId": "SiteDistribution",
+    "ResourceIdentifier": {"Id": "E2ZXKXV2U7OYGL"}
+  }
+]

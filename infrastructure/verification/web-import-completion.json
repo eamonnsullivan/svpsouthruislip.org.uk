@@ -1,0 +1,119 @@
+{
+  "account_id": "995361647121",
+  "region": "eu-west-1",
+  "verified_at": "2026-11-03T10:09:24Z",
+  "outcome": "IMPORT_COMPLETE_VERIFIED",
+  "fully_verified": true,
+  "stack_name": "svpsouthruislip-web",
+  "stack_id": "arn:aws:cloudformation:eu-west-1:995361647121:stack/svpsouthruislip-web/b48ce660-d6df-11f1-af9b-0a4affad8cf7",
+  "approved_change_set_arn": "arn:aws:cloudformation:eu-west-1:995361647121:changeSet/svpsouthruislip-web-import-review1/6b57bcea-cc73-41ec-81f3-6c2e40de08c7",
+  "execution": {
+    "performed_by": "human administrator CLI",
+    "assistant_performed_aws_mutations": false,
+    "separate_exact_arn_approval_recorded": true,
+    "post_import_policy_timing_acknowledged": true,
+    "started_at": "2026-11-03T09:27:15.270000+00:00",
+    "import_complete_at": "2026-11-03T09:31:25.802000+00:00",
+    "operation_id": "5711b22f-c56b-4dae-aea9-ac77b9c6a17a",
+    "client_request_token": "1c3a76e8-91cc-481e-aca5-fb7c252964c6",
+    "event_count_reviewed": 28,
+    "all_five_original_resources_have_import_complete_events": true,
+    "failure_rollback_create_delete_events": 0,
+    "update_event_explanation": "Resource UPDATE entries explicitly apply import-related stack tags; OAI and bucket-policy tag updates were skipped where they would cause replacement. Original identities and actual configurations stayed unchanged."
+  },
+  "original_resources": [
+    {"LogicalResourceId": "LegacyOriginAccessIdentity", "ResourceType": "AWS::CloudFront::CloudFrontOriginAccessIdentity", "PhysicalResourceId": "E1H05UTZYYPBPP", "IdentityUnchanged": true, "NativeDrift": "IN_SYNC"},
+    {"LogicalResourceId": "RedirectBucket", "ResourceType": "AWS::S3::Bucket", "PhysicalResourceId": "www.svpsouthruislip.org.uk", "IdentityUnchanged": true, "NativeDrift": "IN_SYNC"},
+    {"LogicalResourceId": "SiteBucket", "ResourceType": "AWS::S3::Bucket", "PhysicalResourceId": "svpsouthruislip.org.uk", "IdentityUnchanged": true, "NativeDrift": "IN_SYNC"},
+    {"LogicalResourceId": "SiteBucketPolicy", "ResourceType": "AWS::S3::BucketPolicy", "PhysicalResourceId": "svpsouthruislip.org.uk", "IdentityUnchanged": true, "NativeDrift": "NOT_CHECKED", "DirectPolicyComparison": "MATCH"},
+    {"LogicalResourceId": "SiteDistribution", "ResourceType": "AWS::CloudFront::Distribution", "PhysicalResourceId": "E2ZXKXV2U7OYGL", "IdentityUnchanged": true, "NativeDrift": "IN_SYNC"}
+  ],
+  "protections": {
+    "termination_protection_enabled": true,
+    "independent_stack_state_checked_at": "2026-11-03T09:56:03Z",
+    "stack_policy_installed_and_read_back": true,
+    "stack_policy_matches_reviewed_document_semantically_and_byte_for_byte": true,
+    "stack_policy_body_sha256": "d20d0e9d6091176ca4eca646d40fcf851996a1382341a05d9fb554b0f6aee5ff",
+    "stack_policy_denies": ["Update:Replace", "Update:Delete"],
+    "both_retain_policies_preserved_on_all_five_resources": true,
+    "deployed_original_template_matches_reviewed_source_byte_for_byte": true,
+    "template_sha256": "cf05d55ef6477c0453ea4dcacb78e5e86ba6f20d51f3ce472210a0826d83561d",
+    "template_outputs_present": false
+  },
+  "direct_configuration_verification": {
+    "read_window_start": "2026-11-03T09:40:51Z",
+    "read_window_end": "2026-11-03T09:41:04Z",
+    "unexpected_operational_configuration_differences": 0,
+    "buckets_website_acl_public_access_encryption_and_optional_absences": "MATCH",
+    "site_bucket_policy_and_oai_identity_comment": "MATCH",
+    "full_distribution_origin_cache_tls_aliases_certificate_and_business_tags": "MATCH",
+    "external_acm_certificate_and_validation": "MATCH",
+    "all_eleven_dns_records_delegation_and_signing_state": "MATCH",
+    "original_dnssec_key_policy_enabled_state_and_alias_target": "MATCH",
+    "expected_metadata_changes": {
+      "buckets": "Only aws:cloudformation:stack-name, stack-id and logical-id added; exact values verified against this stack and SiteBucket/RedirectBucket. Business tags preserved.",
+      "distribution_etag_before": "E2NR3QR7S7YJ05",
+      "distribution_etag_after": "E38T7AIC1R4Z60",
+      "distribution_last_modified_after": "2026-11-03T09:27:20.846000+00:00",
+      "distribution_id_caller_reference_and_full_configuration_unchanged": true,
+      "distribution_business_tags_unchanged_and_no_system_tags_added": true,
+      "unexpected_metadata_found": false
+    }
+  },
+  "native_drift": {
+    "initiated_by": "human administrator CLI",
+    "detection_id": "a7f5f530-d76c-11f1-9abe-0a9e944a051d",
+    "timestamp": "2026-11-03T09:55:09.955000+00:00",
+    "detection_status": "DETECTION_COMPLETE",
+    "stack_drift_status": "IN_SYNC",
+    "drifted_stack_resource_count": 0,
+    "supported_resources_checked": 4,
+    "all_supported_resources_in_sync_with_empty_property_differences": true,
+    "all_drift_receipt_ids_types_and_physical_ids_match": true,
+    "outstanding_pagination_tokens": false,
+    "limitation": "BucketPolicy does not support native drift and was compared directly. Native drift is not exhaustive even within supported resource types; direct checks cover legacy ACLs and other omitted/default/computed properties."
+  },
+  "public_health": {
+    "checked_at": "2026-11-03T09:49:17Z",
+    "http_apex": 301,
+    "http_apex_location": "https://svpsouthruislip.org.uk/",
+    "https_apex": 200,
+    "https_www": 200,
+    "foodbank": 200,
+    "feed_xml": 200,
+    "legacy_html_alias": 200,
+    "baseline_nonexistent_path": 403,
+    "other_site_https_eamonnsullivan_co_uk": 200,
+    "root_object_etag_unchanged": "6f80634e3116405fef371f074b1d2b07",
+    "nameservers_unchanged": true,
+    "parent_ds_unchanged": "3666 13 2 749A1CBE44DB67CB2955ADF5D3AA274EF2D8C47CC88E0DFBC97032A5D60FD4AB",
+    "continuous_availability_monitoring_performed": false,
+    "limitation": "No regression observed in point-in-time checks; this is not proof of uninterrupted availability throughout the import."
+  },
+  "private_evidence_directory": "infrastructure/work/web-review1",
+  "private_export_sha256": {
+    "installed-stack-policy.json": "c50160f05fff3cafb15267786475c7a12b56db7de4414d6545ab77aa28ce4b25",
+    "post-import-stack.json": "ecede4ab83648a2c1314fe4d0e109b2ccbe41750905c3562578409ca4311e8ec",
+    "deployed-template.json": "3acc1bea7acc6dd631b77fa718bd1a3e5c390207b8447da005113aaf4970a6ed",
+    "import-events.json": "6659509f3ca1641b2b41fc2f68092bdb3bb9f889353ac46cb3227aab4931010a",
+    "drift-status.json": "e28f7de850bde57f506999018f15ccba4750cddedf27ce8dd45d94506b85d48e",
+    "resource-drifts.json": "c837195608d6f347c735bfe19bc27a58aaa79ebd127bb5d1dbbd3650846afddd"
+  },
+  "mcp_inspection_gaps_covered_by_human_exports": [
+    "cloudformation:DescribeChangeSet",
+    "cloudformation:GetTemplate",
+    "cloudformation:DescribeEvents",
+    "cloudformation:DescribeStackEvents",
+    "cloudformation:DescribeStackDriftDetectionStatus",
+    "cloudformation:DescribeStackResourceDrifts"
+  ],
+  "remaining_migration_at_web_verification": {
+    "dnssec_key": "NOT_STARTED_NOT_SEPARATELY_APPROVED",
+    "dns": "NOT_STARTED_NOT_SEPARATELY_APPROVED",
+    "web_must_not_be_reimported": true,
+    "normal_stack_updates_authorized": false
+  },
+  "next_gate_at_web_verification": "Fresh read-only preflight for the existing DNSSEC key and alias in us-east-1, followed by separate human preparation/review/execution approvals. No key or DNS changes were authorized by web completion.",
+  "current_migration_summary": "infrastructure/verification/adoption-completion.json",
+  "next_gate": "Web, key and DNS adoption are now verified. Do not repeat completed operations. Human freeze release, ordinary updates/publication and temporary read-supplement removal remain separate decisions; no further AWS write is required for adoption."
+}

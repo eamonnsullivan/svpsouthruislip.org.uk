@@ -1,0 +1,42 @@
+{
+  "account_id": "995361647121",
+  "observed_at": "2026-11-02T15:56:41Z",
+  "stack_policy": "infrastructure/stack-policy.json",
+  "order": ["web", "dnssec-key", "dns"],
+  "stacks": {
+    "web": {
+      "stack_name": "svpsouthruislip-web",
+      "region": "eu-west-1",
+      "template": "infrastructure/templates/web.yaml",
+      "resources_to_import": "infrastructure/imports/web.json",
+      "expected_physical_ids": {
+        "SiteBucket": "svpsouthruislip.org.uk",
+        "RedirectBucket": "www.svpsouthruislip.org.uk",
+        "SiteBucketPolicy": "svpsouthruislip.org.uk",
+        "LegacyOriginAccessIdentity": "E1H05UTZYYPBPP",
+        "SiteDistribution": "E2ZXKXV2U7OYGL"
+      }
+    },
+    "dnssec-key": {
+      "stack_name": "svpsouthruislip-dnssec-key",
+      "region": "us-east-1",
+      "template": "infrastructure/templates/dnssec-key.yaml",
+      "resources_to_import": "infrastructure/imports/dnssec-key.json",
+      "expected_physical_ids": {
+        "DnssecKey": "944105a2-c852-4c4f-a0f2-a0f1b91344c9",
+        "DnssecKeyAlias": "alias/svpsouthruislipkey"
+      }
+    },
+    "dns": {
+      "stack_name": "svpsouthruislip-dns",
+      "region": "eu-west-1",
+      "template": "infrastructure/templates/dns.yaml",
+      "resources_to_import": "infrastructure/imports/dns.json",
+      "expected_physical_ids": {
+        "SiteHostedZone": "Z3SM1DWWC45TX",
+        "SiteKeySigningKey": "Z3SM1DWWC45TX|svpsouthruislip",
+        "SiteDnssec": "Z3SM1DWWC45TX"
+      }
+    }
+  }
+}

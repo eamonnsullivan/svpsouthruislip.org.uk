@@ -1,0 +1,51 @@
+{
+  "account_id": "995361647121",
+  "checked_at": "2026-11-02T16:15:58Z",
+  "method": "Read-only AWS MCP GetTemplateSummary and ValidateTemplate with each complete YAML TemplateBody; local file SHA256 recorded separately.",
+  "execution_approved": false,
+  "change_sets_created": false,
+  "templates": {
+    "web": {
+      "region": "eu-west-1",
+      "template_bytes": 5510,
+      "template_sha256": "cf05d55ef6477c0453ea4dcacb78e5e86ba6f20d51f3ce472210a0826d83561d",
+      "validate_template": {
+        "Parameters": [],
+        "Description": "Import existing SVP website hosting in place. Preserve the public-ACL S3 website origin and current CloudFront configuration; do not use CREATE."
+      },
+      "resource_identifier_summaries": [
+        {"ResourceType": "AWS::S3::BucketPolicy", "LogicalResourceIds": ["SiteBucketPolicy"], "ResourceIdentifiers": ["Bucket"]},
+        {"ResourceType": "AWS::CloudFront::CloudFrontOriginAccessIdentity", "LogicalResourceIds": ["LegacyOriginAccessIdentity"], "ResourceIdentifiers": ["Id"]},
+        {"ResourceType": "AWS::S3::Bucket", "LogicalResourceIds": ["RedirectBucket", "SiteBucket"], "ResourceIdentifiers": ["BucketName"]},
+        {"ResourceType": "AWS::CloudFront::Distribution", "LogicalResourceIds": ["SiteDistribution"], "ResourceIdentifiers": ["Id"]}
+      ]
+    },
+    "dnssec-key": {
+      "region": "us-east-1",
+      "template_bytes": 1885,
+      "template_sha256": "4a30bf614da037aa9a0dc4a6a737147177c30ecaf266de41e9dfd2b1ae68ebaa",
+      "validate_template": {
+        "Parameters": [],
+        "Description": "Import the existing SVP DNSSEC KMS key and alias in us-east-1. Preserve signing material, policy, enabled state, and alias target."
+      },
+      "resource_identifier_summaries": [
+        {"ResourceType": "AWS::KMS::Alias", "LogicalResourceIds": ["DnssecKeyAlias"], "ResourceIdentifiers": ["AliasName"]},
+        {"ResourceType": "AWS::KMS::Key", "LogicalResourceIds": ["DnssecKey"], "ResourceIdentifiers": ["KeyId"]}
+      ]
+    },
+    "dns": {
+      "region": "eu-west-1",
+      "template_bytes": 1059,
+      "template_sha256": "3587af1b6aa1cb5cdef74da7abcdf079d99e00982de5c452c3774057eabf5f2b",
+      "validate_template": {
+        "Parameters": [],
+        "Description": "Import the existing SVP public hosted zone, active KSK, and DNSSEC unchanged. Record sets, registration, delegation, and parent DS remain external."
+      },
+      "resource_identifier_summaries": [
+        {"ResourceType": "AWS::Route53::DNSSEC", "LogicalResourceIds": ["SiteDnssec"], "ResourceIdentifiers": ["HostedZoneId"]},
+        {"ResourceType": "AWS::Route53::KeySigningKey", "LogicalResourceIds": ["SiteKeySigningKey"], "ResourceIdentifiers": ["HostedZoneId,Name"]},
+        {"ResourceType": "AWS::Route53::HostedZone", "LogicalResourceIds": ["SiteHostedZone"], "ResourceIdentifiers": ["Id"]}
+      ]
+    }
+  }
+}

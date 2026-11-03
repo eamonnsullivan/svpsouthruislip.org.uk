@@ -1,0 +1,165 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: >-
+  Import existing SVP website hosting in place. Preserve the public-ACL S3
+  website origin and current CloudFront configuration; do not use CREATE.
+Resources:
+  SiteBucket:
+    Type: AWS::S3::Bucket
+    DeletionPolicy: Retain
+    UpdateReplacePolicy: Retain
+    Metadata:
+      # Adoption must preserve the existing ACL; changing access models is separate work.
+      cfn-lint:
+        config:
+          ignore_checks:
+            - W3045
+    Properties:
+      BucketName: svpsouthruislip.org.uk
+      AccessControl: Private
+      BucketEncryption:
+        ServerSideEncryptionConfiguration:
+          - ServerSideEncryptionByDefault:
+              SSEAlgorithm: AES256
+            BucketKeyEnabled: false
+            BlockedEncryptionTypes:
+              EncryptionType:
+                - SSE-C
+      PublicAccessBlockConfiguration:
+        BlockPublicAcls: false
+        IgnorePublicAcls: false
+        BlockPublicPolicy: false
+        RestrictPublicBuckets: false
+      WebsiteConfiguration:
+        IndexDocument: index.html
+        ErrorDocument: 404.html
+      Tags:
+        - Key: SVP
+          Value: 'true'
+        - Key: Name
+          Value: SVP Website
+      # OwnershipControls and VersioningConfiguration are absent in production.
+      # Bucket ACL is private; deployed object ACLs are public-read. Preserve both.
+  RedirectBucket:
+    Type: AWS::S3::Bucket
+    DeletionPolicy: Retain
+    UpdateReplacePolicy: Retain
+    Metadata:
+      # Adoption must preserve the existing ACL; changing access models is separate work.
+      cfn-lint:
+        config:
+          ignore_checks:
+            - W3045
+    Properties:
+      BucketName: www.svpsouthruislip.org.uk
+      AccessControl: Private
+      BucketEncryption:
+        ServerSideEncryptionConfiguration:
+          - ServerSideEncryptionByDefault:
+              SSEAlgorithm: AES256
+            BucketKeyEnabled: false
+            BlockedEncryptionTypes:
+              EncryptionType:
+                - SSE-C
+      PublicAccessBlockConfiguration:
+        BlockPublicAcls: true
+        IgnorePublicAcls: true
+        BlockPublicPolicy: true
+        RestrictPublicBuckets: true
+      WebsiteConfiguration:
+        RedirectAllRequestsTo:
+          HostName: svpsouthruislip.org.uk
+          Protocol: http
+      # No bucket policy, tags, ownership controls, or versioning configuration.
+      # Live www DNS uses CloudFront; retain this existing bucket unchanged.
+  LegacyOriginAccessIdentity:
+    Type: AWS::CloudFront::CloudFrontOriginAccessIdentity
+    DeletionPolicy: Retain
+    UpdateReplacePolicy: Retain
+    Properties:
+      CloudFrontOriginAccessIdentityConfig:
+        Comment: access-identity-svpsouthruislip.org.uk.s3.amazonaws.com
+  SiteBucketPolicy:
+    Type: AWS::S3::BucketPolicy
+    DeletionPolicy: Retain
+    UpdateReplacePolicy: Retain
+    Properties:
+      Bucket:
+        Ref: SiteBucket
+      PolicyDocument:
+        Version: '2012-10-17'
+        Statement:
+          - Sid: '2'
+            Effect: Allow
+            Principal:
+              AWS:
+                Fn::Sub: arn:aws:iam::cloudfront:user/CloudFront Origin Access Identity ${LegacyOriginAccessIdentity}
+            Action: s3:GetObject
+            Resource:
+              Fn::Sub: arn:aws:s3:::${SiteBucket}/*
+      # This OAI policy is retained, but does not protect an S3 website endpoint.
+  SiteDistribution:
+    Type: AWS::CloudFront::Distribution
+    DeletionPolicy: Retain
+    UpdateReplacePolicy: Retain
+    Properties:
+      DistributionConfig:
+        Aliases:
+          - svpsouthruislip.org.uk
+          - www.svpsouthruislip.org.uk
+        Comment: svpsouthruislip site
+        DefaultRootObject: index.html
+        Enabled: true
+        HttpVersion: http2
+        IPV6Enabled: true
+        Staging: false
+        PriceClass: PriceClass_All
+        Origins:
+          - Id: S3-svpsouthruislip.org.uk
+            DomainName: svpsouthruislip.org.uk.s3-website-eu-west-1.amazonaws.com
+            ConnectionAttempts: 3
+            ConnectionTimeout: 10
+            CustomOriginConfig:
+              HTTPPort: 80
+              HTTPSPort: 443
+              OriginProtocolPolicy: http-only
+              OriginSSLProtocols:
+                - TLSv1
+                - TLSv1.1
+                - TLSv1.2
+              OriginReadTimeout: 30
+              OriginKeepaliveTimeout: 5
+            OriginShield:
+              Enabled: false
+        DefaultCacheBehavior:
+          TargetOriginId: S3-svpsouthruislip.org.uk
+          ViewerProtocolPolicy: redirect-to-https
+          AllowedMethods:
+            - HEAD
+            - GET
+          CachedMethods:
+            - HEAD
+            - GET
+          Compress: false
+          SmoothStreaming: false
+          GrpcConfig:
+            Enabled: false
+          ForwardedValues:
+            QueryString: true
+            Cookies:
+              Forward: none
+          MinTTL: 600
+          DefaultTTL: 3600
+          MaxTTL: 86400
+        Restrictions:
+          GeoRestriction:
+            RestrictionType: none
+        ViewerCertificate:
+          AcmCertificateArn: arn:aws:acm:us-east-1:995361647121:certificate/719a94fe-dad7-4dbf-9a1d-cbad2afc96b7
+          SslSupportMethod: sni-only
+          MinimumProtocolVersion: TLSv1.1_2016
+        # No logging, extra behaviors/errors, functions, WAF, OAC, or deployment policy.
+      Tags:
+        - Key: Name
+          Value: Cloudfront distribution for SVP Website
+        - Key: SVP
+          Value: 'true'

@@ -1,0 +1,12 @@
+[
+  {
+    "ResourceType": "AWS::KMS::Key",
+    "LogicalResourceId": "DnssecKey",
+    "ResourceIdentifier": {"KeyId": "944105a2-c852-4c4f-a0f2-a0f1b91344c9"}
+  },
+  {
+    "ResourceType": "AWS::KMS::Alias",
+    "LogicalResourceId": "DnssecKeyAlias",
+    "ResourceIdentifier": {"AliasName": "alias/svpsouthruislipkey"}
+  }
+]

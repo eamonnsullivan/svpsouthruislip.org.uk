@@ -1,5 +1,7 @@
 ## Agent skills
 
+- Never edit posts or pages directly. Always wait for the author to request or confirm changes, or let him make the edits directly.
+
 ### Issue tracker
 
 Issues and specs live in this repository's GitHub Issues; use `gh`. See `docs/agents/issue-tracker.md`.

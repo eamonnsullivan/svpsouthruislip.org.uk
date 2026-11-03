@@ -64,15 +64,11 @@ python3 -m unittest discover -s tests -v
 
 These checks must pass before any changes can be merged to the main branch for deployment.
 
-## AWS infrastructure adoption
+## Infrastructure as code
 
-Existing website resources are being adopted **in place**, not recreated. See [infrastructure files and checks](infrastructure/README.md), [verified live inventory](docs/infrastructure/inventory.md), and the [gated import runbook](docs/infrastructure/import-runbook.md).
-
-**Adoption verification is complete: all ten original resources are adopted and fully verified across web (5), DNSSEC-key (2) and DNS (3).** Status: `ADOPTION_COMPLETE_VERIFIED_ALL_TEN_RESOURCES`. See [aggregate completion evidence](infrastructure/verification/adoption-completion.json) and the [web](infrastructure/verification/web-import-completion.json), [key](infrastructure/verification/dnssec-key-import-completion.json) and [DNS](infrastructure/verification/dns-import-completion.json) batch evidence. Original IDs, termination protection, installed-policy readbacks, retained deployed templates, direct configuration and supported native drift checks passed; no physical resources were replaced or deleted. Eight supported resources are `IN_SYNC`; BucketPolicy and KMS Alias are unsupported and were checked directly. Native drift is not exhaustive, and final public checks are point-in-time evidence, not continuous zero-outage proof.
-
-No further AWS writes are required for adoption. All create/import/execution/waiter/policy-install/drift procedures are historical reference only—do not repeat them. All AWS writes were separately approved human actions; the assistant remained read-only. The eleven DNS records, certificate, delegation/parent DS, registrar and shared IAM remain external and untouched. Verification completion does **not** authorize publication, normal updates, commits/pushes, configuration changes or read-supplement removal. The existing freeze remains until an explicit human decision to resume publication/maintenance; future updates and any later supplement removal require separate review/approval.
-
-Every push to `main`, including infrastructure-only changes, triggers website publication. Do not push to `main`, merge, publish or perform normal stack updates during the import baseline/configuration freeze. No automatic infrastructure workflow has been added.
+See [infrastructure](infrastructure/README.md) for the CloudFormation stacks,
+DNS records, and how to validate and update them. Site publishing does not deploy
+infrastructure.
 
 ## Migration note
 

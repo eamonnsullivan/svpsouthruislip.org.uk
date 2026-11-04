@@ -37,6 +37,8 @@ Resources:
           Value: 'true'
         - Key: Name
           Value: SVP Website
+        - Key: Domain
+          Value: svpsouthruislip.org.uk
       # OwnershipControls and VersioningConfiguration are absent in production.
       # Bucket ACL is private; deployed object ACLs are public-read. Preserve both.
   RedirectBucket:
